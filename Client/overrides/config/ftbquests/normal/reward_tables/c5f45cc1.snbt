@@ -1,0 +1,348 @@
+{
+	title: "Spooky Cache",
+	icon: "mod_lavacow:scarecrowhead_common",
+	loot_size: 1,
+	rewards: [{
+		item: "mod_lavacow:sonicbomb"
+	},
+	{
+		item: "mod_lavacow:ghostbomb"
+	},
+	{
+		item: "mod_lavacow:ghostjelly"
+	},
+	{
+		item: "mod_lavacow:scarecrowhead_common"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:faminearmor_helmet"
+		}
+	},
+	{
+		item: "mod_lavacow:holy_grenade"
+	},
+	{
+		item: "mod_lavacow:banshee_vocal_cord"
+	},
+	{
+		item: "mod_lavacow:scarecrowhead_plague"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:sludge_wand"
+		}
+	},
+	{
+		item: "mod_lavacow:intestine",
+		count: 16
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:undertaker_shovel"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:weta_hoe"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:dreamcatcher"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:halo_necklace"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:halo_of_ra"
+		}
+	},
+	{
+		item: "midnight:ghost_plant"
+	},
+	{
+		item: "mod_lavacow:ectoplasm"
+	},
+	{
+		item: "mod_lavacow:meatball"
+	},
+	{
+		item: "mod_lavacow:tombstone"
+	},
+	{
+		item: {
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "mod_lavacow:foulodor"
+			}
+		},
+		count: 32
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:piranhalauncher"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:felarmor_chestplate"
+		}
+	},
+	{
+		item: {
+			id: "minecraft:tipped_arrow",
+			tag: {
+				Potion: "mod_lavacow:corrosive"
+			}
+		},
+		count: 32
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:famine"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:vespa_dagger",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 104s
+				}]
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:undertaker_shovel"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mod_lavacow:reapers_scythe"
+		}
+	},
+	{
+		item: "bewitchment:block_of_cold_iron_sword"
+	},
+	{
+		item: "bewitchment:scorned_bricks",
+		count: 64
+	},
+	{
+		item: "bewitchment:red_candle"
+	},
+	{
+		item: "bewitchment:nether_brick_leonard_statue"
+	},
+	{
+		item: "bewitchment:tarot_table"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:cold_iron_chestplate"
+		}
+	},
+	{
+		item: "bewitchment:scorned_brick_herne_statue"
+	},
+	{
+		item: "bewitchment:scorned_brick_baphomet_statue"
+	},
+	{
+		item: "bewitchment:gold_lilith_statue"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:hellish_bauble"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:broom"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:witches_hat"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:green_witch_robes"
+		}
+	},
+	{
+		item: "bewitchment:box_of_sealed_evil",
+		count: 6
+	},
+	{
+		item: "bewitchment:witches_cauldron"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:poppet_voodoo"
+		}
+	},
+	{
+		item: "bewitchment:sanguine_cloth",
+		count: 4
+	},
+	{
+		item: {
+			id: "thermalexpansion:florb",
+			tag: {
+				Fluid: "vapor_of_levity"
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:longsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.0f,
+					FreeModifiers: 3,
+					Durability: 1098,
+					HarvestLevel: 1,
+					Attack: 6.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 1.0f,
+					FreeModifiers: 3,
+					Durability: 1098,
+					HarvestLevel: 1,
+					Attack: 6.5f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"plague_metal",
+						"plague_metal",
+						"plague_metal"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "disease",
+					color: -11447216,
+					level: 1
+				},
+				{
+					identifier: "plague_shot",
+					color: -11447216,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"disease",
+					"plague_shot",
+					"toolleveling"
+				]
+			}
+		}
+	},
+	{
+		item: "mod_lavacow:acidicheart"
+	},
+	{
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "mod_lavacow:corrosive",
+				display: {
+					Name: "Potion of Imminent Death"
+				}
+			}
+		}
+	}],
+	loot_crate: {
+		string_id: "spooky_cache",
+		color: 0,
+		glow: true,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
+}
