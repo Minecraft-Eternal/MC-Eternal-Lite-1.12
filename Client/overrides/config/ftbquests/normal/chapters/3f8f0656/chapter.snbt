@@ -1,0 +1,7 @@
+{
+	title: "Advanced Science",
+	icon: "jaopca:item_geartanzanite",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}
