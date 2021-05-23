@@ -1,0 +1,17 @@
+{
+	x: -11.0d,
+	y: 3.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "2de1d3f6",
+		type: "item",
+		items: [{
+			item: "twilightforest:charm_of_life_1"
+		}]
+	}],
+	rewards: [{
+		uid: "4168b68c",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

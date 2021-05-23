@@ -1,0 +1,36 @@
+{
+	title: "§1§lSapphire Relics",
+	x: -13.0d,
+	y: 6.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6d33f87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b6785637",
+		type: "item",
+		title: "§1Any Sapphire Relic",
+		items: [{
+			item: "atum:loot_sapphire_idol"
+		},
+		{
+			item: "atum:loot_sapphire_necklace"
+		},
+		{
+			item: "atum:loot_sapphire_ring"
+		},
+		{
+			item: "atum:loot_sapphire_broach"
+		},
+		{
+			item: "atum:loot_sapphire_scepter"
+		}]
+	}],
+	rewards: [{
+		uid: "0071a0c3",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

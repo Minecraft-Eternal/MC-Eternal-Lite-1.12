@@ -1,0 +1,26 @@
+{
+	title: "§dApprentice Tome of Arcana",
+	x: -17.0d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "10692eac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -8851329178942211897L,
+					AS_Amulet_HolderMost: 867781763579201090L
+				}
+			},
+			id: "ebwizardry:arcane_tome",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "65700283",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

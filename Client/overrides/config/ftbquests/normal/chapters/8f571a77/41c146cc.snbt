@@ -1,0 +1,36 @@
+{
+	title: "§4§lRuby Relics",
+	x: -14.0d,
+	y: 6.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6d33f87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "bdbe7585",
+		type: "item",
+		title: "§4Any Ruby Relic",
+		items: [{
+			item: "atum:loot_ruby_idol"
+		},
+		{
+			item: "atum:loot_ruby_necklace"
+		},
+		{
+			item: "atum:loot_ruby_ring"
+		},
+		{
+			item: "atum:loot_ruby_broach"
+		},
+		{
+			item: "atum:loot_ruby_scepter"
+		}]
+	}],
+	rewards: [{
+		uid: "6d3a1d32",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

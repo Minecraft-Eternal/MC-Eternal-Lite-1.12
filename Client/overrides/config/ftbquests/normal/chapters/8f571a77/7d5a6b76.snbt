@@ -1,0 +1,24 @@
+{
+	x: -1.0d,
+	y: 0.5d,
+	shape: "gear",
+	description: "*Unlocked after completing the Bosses chapter*",
+	can_repeat: true,
+	dependencies: [
+		"af8a9ce0",
+		"9fae10ac"
+	],
+	hide: true,
+	tasks: [{
+		uid: "bbe89b48",
+		type: "item",
+		items: [{
+			item: "rats:idol_of_ratlantis"
+		}]
+	}],
+	rewards: [{
+		uid: "1731e52f",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

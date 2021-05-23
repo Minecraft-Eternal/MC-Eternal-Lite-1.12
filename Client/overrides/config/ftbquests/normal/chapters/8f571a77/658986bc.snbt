@@ -1,0 +1,30 @@
+{
+	icon: {
+		id: "openblocks:tank",
+		tag: {
+			tank: {
+				FluidName: "oil",
+				Amount: 16000
+			}
+		}
+	},
+	x: -5.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	description: "*Liquid* *Pipe into a task screen*",
+	text: [
+		"It's official, Capitalism in Minecraft."
+	],
+	can_repeat: true,
+	tasks: [{
+		uid: "4577925b",
+		type: "fluid",
+		fluid: "oil",
+		amount: 20000
+	}],
+	rewards: [{
+		uid: "19590f38",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}
