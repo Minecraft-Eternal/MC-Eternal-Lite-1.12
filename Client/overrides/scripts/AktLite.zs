@@ -40,6 +40,14 @@ import crafttweaker.oredict.IOreDictEntry;
 				},
 				Damage: 0 as short
 			},
+			vampirism: {
+				id: "guideapi:vampirism-guide",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "vampirism"
+				},
+				Damage: 0 as short
+			},
 			botania: {
 				id: "botania:lexicon",
 				Count: 1 as byte,
@@ -72,22 +80,6 @@ import crafttweaker.oredict.IOreDictEntry;
 				},
 				Damage: 0 as short
 			},
-			rftoolsdim: {
-				id: "rftoolsdim:rftoolsdim_manual",
-				Count: 1 as byte,
-				tag: {
-					"akashictome:definedMod": "rftoolsdim"
-				},
-				Damage: 0 as short
-			},
-			rftools1: {
-				id: "rftools:rftools_shape_manual",
-				Count: 1 as byte,
-				tag: {
-					"akashictome:definedMod": "rftools1"
-				},
-				Damage: 0 as short
-			},
 			forestry: {
 				id: "forestry:book_forester",
 				Count: 1 as byte,
@@ -111,6 +103,22 @@ import crafttweaker.oredict.IOreDictEntry;
 					"akashictome:definedMod": "ebwizardry"
 				},
 				Damage: 0 as short
+			},
+			conarm: {
+				id: "conarm:book",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "conarm"
+				},
+				Damage: 0 as short
+			},
+			thermalfoundation: {
+				id: "thermalfoundation:tome_lexicon",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "thermalfoundation"
+				},
+				Damage: 0 as short
 			}
 		}
 	}
@@ -122,18 +130,20 @@ import crafttweaker.oredict.IOreDictEntry;
 
 	var addedBooks = [
 		<tconstruct:book>, 
+		<conarm:book>,
+		<ebwizardry:wizard_handbook>, 
+		<forestry:book_forester>, 
+		<botania:lexicon>, 
 		<industrialforegoing:book_manual>, 
 		<astralsorcery:itemjournal>, 
 		<immersiveengineering:tool:3>, 
 		<rftools:rftools_manual>, 
-		<botania:lexicon>, 
+		<guideapi:vampirism-guide>, 
 		<extrautils2:book>, 
 		<thermalfoundation:tome_lexicon>, 
-		<actuallyadditions:item_booklet>,  
+		<actuallyadditions:item_booklet>, 
 		<rftoolsdim:rftoolsdim_manual>,  
-		<openblocks:info_book>,
-		<forestry:book_forester>,
-		<ebwizardry:wizard_handbook>,
+		<openblocks:info_book>
 		] as IItemStack[];
 
 	for itemBook in addedBooks {
