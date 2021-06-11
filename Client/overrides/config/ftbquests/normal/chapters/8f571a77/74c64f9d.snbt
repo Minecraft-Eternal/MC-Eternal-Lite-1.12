@@ -1,0 +1,20 @@
+{
+	title: "1M Mana",
+	x: 3.5d,
+	y: 0.0d,
+	description: "*Craft Terrestrial Agglomeration Plate to unlock*",
+	can_repeat: true,
+	dependencies: [
+		"59dd41e8"
+	],
+	tasks: [{
+		uid: "4decdfe2",
+		type: "botania_mana",
+		value: 1000000L
+	}],
+	rewards: [{
+		uid: "2d619a5c",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

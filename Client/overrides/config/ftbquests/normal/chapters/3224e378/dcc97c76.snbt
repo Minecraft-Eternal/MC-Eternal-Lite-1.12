@@ -1,0 +1,31 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	dependencies: [
+		"84aa257d"
+	],
+	tasks: [{
+		uid: "189281ec",
+		type: "item",
+		items: [{
+			item: "erebus:antlion_egg"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fcdc9c35",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "1a330e29",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "extraterrestrial_cache"
+			}
+		}
+	}]
+}

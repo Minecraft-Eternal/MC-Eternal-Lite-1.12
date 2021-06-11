@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 3.0d,
+	shape: "diamond",
+	description: "*Defeat Guardian of Gaia to unlock*",
+	can_repeat: true,
+	tasks: [{
+		uid: "8c2843ad",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 14"
+		}]
+	}],
+	rewards: [{
+		uid: "b36ec68c",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

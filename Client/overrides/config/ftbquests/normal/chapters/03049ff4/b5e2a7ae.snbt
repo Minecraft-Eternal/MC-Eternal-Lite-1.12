@@ -1,0 +1,25 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "da5ea75b",
+		type: "xp",
+		value: 5000L,
+		points: false
+	}],
+	rewards: [{
+		uid: "85992833",
+		type: "item",
+		item: "tconstruct:materials 1 50"
+	},
+	{
+		uid: "7db39945",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "unclaimed_black_market_container"
+			}
+		}
+	}]
+}

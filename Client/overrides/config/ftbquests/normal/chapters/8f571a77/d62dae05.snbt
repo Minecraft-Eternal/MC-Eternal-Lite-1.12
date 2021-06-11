@@ -1,0 +1,25 @@
+{
+	title: "§6§lForeign Currency Exchange",
+	x: -13.5d,
+	y: 9.0d,
+	description: "§7Currency Exchange now available in the Black Market!",
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6d33f87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7a9b6253",
+		type: "item",
+		items: [{
+			item: "atum:coin_gold"
+		}],
+		count: 20L
+	}],
+	rewards: [{
+		uid: "e9c3e5e3",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

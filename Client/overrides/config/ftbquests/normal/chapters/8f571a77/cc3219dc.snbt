@@ -1,0 +1,53 @@
+{
+	title: "§c§lRa's Armor",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "atum:halo_of_ra"
+	},
+	x: -15.5d,
+	y: 9.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6d33f87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ad215806",
+		type: "item",
+		title: "§cAny Part of Ra's armor",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:halo_of_ra"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:body_of_ra"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:legs_of_ra"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:feet_of_ra"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5667d4f",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

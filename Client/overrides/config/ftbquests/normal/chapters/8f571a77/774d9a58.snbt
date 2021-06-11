@@ -1,0 +1,24 @@
+{
+	title: "§3§lElusive Treasure",
+	x: -12.0d,
+	y: 8.0d,
+	description: "§7§oBuried in a certain place, the location of such place has been lost to time, only wandering will bring you to it...",
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6d33f87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e55e75fe",
+		type: "item",
+		items: [{
+			item: "atum:idol_of_labor"
+		}]
+	}],
+	rewards: [{
+		uid: "f9403177",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

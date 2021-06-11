@@ -1,0 +1,53 @@
+{
+	title: "§b§lAtum's Armor",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "atum:eyes_of_atum"
+	},
+	x: -11.5d,
+	y: 9.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6d33f87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "aff4f21e",
+		type: "item",
+		title: "§bAny Part of Atum's armor",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:eyes_of_atum"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:body_of_atum"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:legs_of_atum"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:feet_of_atum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a6cbc1e6",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

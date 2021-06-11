@@ -1,0 +1,30 @@
+{
+	title: "§6§lLost Gold Armor",
+	x: -13.0d,
+	y: 10.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6d33f87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ffb93277",
+		type: "item",
+		title: "§6Gold Camel or Wolf armor",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:camel_gold_armor"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:desert_wolf_gold_armor"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,47 @@
+{
+	title: "&d&lPowering the entire planet ",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "techreborn:lithiumbattery",
+		tag: {
+			energy: 400000
+		}
+	},
+	x: -2.5d,
+	y: 0.5d,
+	shape: "diamond",
+	description: "Finally! Something to spend my billions of RF on...",
+	dependencies: [
+		"fa85c35a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b247e37d",
+		type: "forge_energy",
+		value: 10000000000000000L
+	}],
+	rewards: [{
+		uid: "82890cac",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "unclaimed_black_market_container"
+			}
+		},
+		count: 32
+	},
+	{
+		uid: "5c4d1108",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "heavenly_box"
+			}
+		},
+		count: 2
+	}]
+}

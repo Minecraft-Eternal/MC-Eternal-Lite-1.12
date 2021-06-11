@@ -1,0 +1,23 @@
+{
+	icon: "immersiveengineering:metal_device0 1 2",
+	x: 0.5d,
+	y: -5.5d,
+	description: "*Unlocked by completing Advanced Science*",
+	text: [
+		"Use a Task Screen to submit FE"
+	],
+	can_repeat: true,
+	dependencies: [
+		"3f8f0656"
+	],
+	tasks: [{
+		uid: "4668bf27",
+		type: "forge_energy",
+		value: 195000000L
+	}],
+	rewards: [{
+		uid: "c62a2573",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

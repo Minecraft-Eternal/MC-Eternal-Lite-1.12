@@ -1,0 +1,22 @@
+{
+	x: 19.0d,
+	y: 3.0d,
+	dependencies: [
+		"bdd030a0",
+		"adaf9aa1",
+		"5bec4b12",
+		"c1e5d352"
+	],
+	tasks: [{
+		uid: "1e600cd2",
+		type: "item",
+		items: [{
+			item: "botania:terraplate"
+		}]
+	}],
+	rewards: [{
+		uid: "d5c80328",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

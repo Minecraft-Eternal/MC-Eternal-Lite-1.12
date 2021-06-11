@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: -4.0d,
+	shape: "diamond",
+	description: "*Defeat the Wither to unlock*",
+	can_repeat: true,
+	dependencies: [
+		"67039193"
+	],
+	tasks: [{
+		uid: "91199f79",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_star"
+		}]
+	}],
+	rewards: [{
+		uid: "a6d626e2",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

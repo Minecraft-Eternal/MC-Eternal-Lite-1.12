@@ -1,0 +1,23 @@
+{
+	title: "§dMaster Tome of Arcana",
+	x: -17.0d,
+	y: 3.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "457d35e5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:arcane_tome",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "30cb54e9",
+		type: "ftbmoney:money",
+		ftb_money: 400L
+	}]
+}

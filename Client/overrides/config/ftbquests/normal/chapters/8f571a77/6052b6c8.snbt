@@ -1,0 +1,20 @@
+{
+	icon: "charm:gunpowder_block",
+	x: 3.0d,
+	y: -6.0d,
+	description: "Drop",
+	can_repeat: true,
+	tasks: [{
+		uid: "3640eecf",
+		type: "item",
+		items: [{
+			item: "minecraft:gunpowder"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "4dbe410d",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

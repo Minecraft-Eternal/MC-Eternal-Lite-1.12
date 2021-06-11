@@ -1,0 +1,28 @@
+{
+	x: -15.0d,
+	y: -0.5d,
+	description: "§4§lDon't live near one of these!",
+	text: [
+		"Use the Emergency Items in the top right of the Questbook if you run out of Radaway and need some more!"
+	],
+	dependencies: [
+		"87cb3976"
+	],
+	tasks: [{
+		uid: "913fa3ce",
+		type: "biome",
+		title: "Find a Nuclear Wasteland",
+		icon: "nuclearcraft:dry_earth",
+		biome: "nuclearcraft:nuclear_wasteland"
+	}],
+	rewards: [{
+		uid: "fe713c11",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "anti_radiation_box"
+			}
+		}
+	}]
+}

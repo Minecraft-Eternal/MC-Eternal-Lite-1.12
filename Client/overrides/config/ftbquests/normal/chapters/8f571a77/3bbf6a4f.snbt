@@ -1,0 +1,23 @@
+{
+	icon: "charm:ender_pearl_block",
+	x: 3.0d,
+	y: -5.0d,
+	description: "*Defeat Ender Dragon to unlock*",
+	can_repeat: true,
+	dependencies: [
+		"0739b5ef"
+	],
+	tasks: [{
+		uid: "d198428d",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "2bc3887c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

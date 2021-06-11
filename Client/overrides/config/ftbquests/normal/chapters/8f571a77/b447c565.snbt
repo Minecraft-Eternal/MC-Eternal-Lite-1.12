@@ -1,0 +1,18 @@
+{
+	x: -4.0d,
+	y: 2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "e665991c",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:compound 1 1"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "ef312f65",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

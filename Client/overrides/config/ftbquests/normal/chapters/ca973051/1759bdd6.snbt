@@ -1,0 +1,19 @@
+{
+	x: -8.0d,
+	y: -9.5d,
+	dependencies: [
+		"0647fe18"
+	],
+	tasks: [{
+		uid: "1f50eeae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:twilight_scepter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

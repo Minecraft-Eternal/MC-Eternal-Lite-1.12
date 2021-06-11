@@ -1,0 +1,18 @@
+{
+	x: -4.5d,
+	y: 4.5d,
+	shape: "octagon",
+	can_repeat: true,
+	tasks: [{
+		uid: "f2f93ab2",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:foursmore"
+		}]
+	}],
+	rewards: [{
+		uid: "f3ee23c3",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

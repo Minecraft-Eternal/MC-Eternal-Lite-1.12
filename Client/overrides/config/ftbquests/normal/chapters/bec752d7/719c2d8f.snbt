@@ -1,0 +1,27 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	dependencies: [
+		"9ca732bb"
+	],
+	tasks: [{
+		uid: "4aeb567e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -8851329178942211897L,
+					AS_Amulet_HolderMost: 867781763579201090L
+				}
+			},
+			id: "ebwizardry:crystal_silver_plating"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b7b04543",
+		type: "loot",
+		table: 6
+	}]
+}

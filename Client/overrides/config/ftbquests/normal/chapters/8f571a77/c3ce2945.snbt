@@ -1,0 +1,18 @@
+{
+	x: -4.5d,
+	y: 1.5d,
+	shape: "pentagon",
+	can_repeat: true,
+	tasks: [{
+		uid: "409709f8",
+		type: "item",
+		items: [{
+			item: "powersuits:powerarmorcomponent 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "bade30ad",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

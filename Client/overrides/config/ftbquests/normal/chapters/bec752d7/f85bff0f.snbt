@@ -1,0 +1,24 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	dependencies: [
+		"9ca732bb"
+	],
+	tasks: [{
+		uid: "63ce648d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:ethereal_crystalweave"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "316d6e77",
+		type: "loot",
+		table: 6
+	}]
+}

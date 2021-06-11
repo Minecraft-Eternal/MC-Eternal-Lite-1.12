@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	dependencies: [
+		"9ca732bb"
+	],
+	tasks: [{
+		uid: "e27900e1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:resplendent_thread"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "db44bbc2",
+		type: "loot",
+		table: 6
+	}]
+}

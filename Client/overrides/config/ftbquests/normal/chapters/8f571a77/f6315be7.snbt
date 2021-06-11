@@ -1,0 +1,37 @@
+{
+	title: "§b§lDiamond Relics",
+	x: -13.5d,
+	y: 5.0d,
+	shape: "diamond",
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6d33f87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "57c4763f",
+		type: "item",
+		title: "§bAny Diamond Relic",
+		items: [{
+			item: "atum:loot_diamond_idol"
+		},
+		{
+			item: "atum:loot_diamond_necklace"
+		},
+		{
+			item: "atum:loot_diamond_ring"
+		},
+		{
+			item: "atum:loot_diamond_broach"
+		},
+		{
+			item: "atum:loot_diamond_scepter"
+		}]
+	}],
+	rewards: [{
+		uid: "6f3826c7",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

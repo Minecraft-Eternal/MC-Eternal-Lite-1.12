@@ -1,0 +1,38 @@
+{
+	icon: {
+		id: "erebus:bambucket",
+		tag: {
+			Fluid: {
+				FluidName: "xpjuice",
+				Amount: 1000
+			}
+		}
+	},
+	x: -2.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "70b69d1b",
+		type: "stat",
+		icon: {
+			id: "erebus:bambucket",
+			tag: {
+				Fluid: {
+					FluidName: "xpjuice",
+					Amount: 1000
+				}
+			}
+		},
+		stat: "stat.itemEnchanted",
+		value: 500
+	}],
+	rewards: [{
+		uid: "4d19db6f",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	},
+	{
+		uid: "4d13a67d",
+		type: "item",
+		item: "tconstruct:materials 1 50"
+	}]
+}

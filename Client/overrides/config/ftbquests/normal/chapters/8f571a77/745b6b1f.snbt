@@ -1,0 +1,30 @@
+{
+	title: "§b§lLost Diamond Armor",
+	x: -13.5d,
+	y: 11.0d,
+	can_repeat: true,
+	hide_dependency_lines: true,
+	dependencies: [
+		"f6d33f87"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a66d28bc",
+		type: "item",
+		title: "§bDiamond Camel or Wolf armor",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:camel_diamond_armor"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "atum:desert_wolf_diamond_armor"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

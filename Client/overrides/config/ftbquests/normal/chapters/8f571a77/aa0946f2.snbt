@@ -1,0 +1,23 @@
+{
+	x: -2.0d,
+	y: -6.0d,
+	description: "*Defeat Wither and Ender Dragon to unlock*",
+	can_repeat: true,
+	dependencies: [
+		"67039193",
+		"0739b5ef"
+	],
+	tasks: [{
+		uid: "5eaf9f71",
+		type: "item",
+		items: [{
+			item: "tconstruct:ingots 1 2"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "958bad3e",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

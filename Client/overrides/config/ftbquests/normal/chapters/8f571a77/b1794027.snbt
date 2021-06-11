@@ -1,0 +1,23 @@
+{
+	title: "Redstone x16",
+	x: -9.5d,
+	y: -6.0d,
+	description: "*Unlocked after completing the Introduction chapter*",
+	can_repeat: true,
+	dependencies: [
+		"189d88b6"
+	],
+	tasks: [{
+		uid: "44440b86",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "d58ad50f",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

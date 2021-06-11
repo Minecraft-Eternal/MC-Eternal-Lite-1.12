@@ -1,0 +1,17 @@
+{
+	title: "Improved Blast Furnace",
+	x: 2.5d,
+	y: -2.5d,
+	description: "Efficient-er Steel production",
+	dependencies: [
+		"c85d63f7"
+	],
+	tasks: [{
+		uid: "2460fa39",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 2"
+		}],
+		count: 27L
+	}]
+}
