@@ -1,5 +1,5 @@
 {
-	title: "�5Extraterrestrial Cache",
+	title: "§5Extraterrestrial Cache",
 	icon: "extrautils2:ingredients 1 5",
 	loot_size: 1,
 	rewards: [{
@@ -29,13 +29,12 @@
 					id: 0
 				}],
 				Unbreakable: 1,
-				HideFlags: 37,
 				display: {
 					Lore: [
-						"�8Everybody Knows The Moon's Made of Cheese",
-						"�e(Part of the Moon set)"
+						"§8Everybody Knows The Moon's Made of Cheese",
+						"§e(Part of the Moon set)"
 					],
-					Name: "�6�lHaunted Moon Shovel "
+					Name: "§6§lHaunted Moon Shovel"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
@@ -56,18 +55,18 @@
 			},
 			id: "dungeontactics:golden_knife",
 			tag: {
-				HideFlags: 39,
 				display: {
 					Lore: [
-						"�8Rusted and uncomfortable to hold, unlikely to last very long",
-						"�e(Part of the Moon set)"
+						"§8Rusted and uncomfortable to hold, unlikely to last very long",
+						"§e(Part of the Moon set)"
 					],
-					Name: "�7Ratlantean Dagger"
+					Name: "§7Ratlantean Dagger"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193291300,
 					Amount: 30,
+					Slot: "mainhand",
 					AttributeName: "generic.attackDamage",
 					Operation: 0,
 					Name: "generic.attackDamage"
@@ -98,10 +97,10 @@
 				Unbreakable: 1,
 				display: {
 					Lore: [
-						"�8�k232!�r�l�8It yearns to be returned to its home planet�8�k3242",
-						"�l�e(Rare Moon Artifact)"
+						"§8§k232!§r§l§8It yearns to be returned to its home planet§8§k3242",
+						"§l§e(Rare Moon Artifact)"
 					],
-					Name: "�9Frozen Blade �rof the �4Unholy Prince"
+					Name: "§9Frozen Blade §rof the §4Unholy Prince"
 				}
 			}
 		}
@@ -113,18 +112,18 @@
 			},
 			id: "dungeontactics:pirate_hook",
 			tag: {
-				HideFlags: 39,
 				display: {
 					Lore: [
-						"�8Rusted and uncomfortable to hold, unlikely to last very long (aaarrg)",
-						"�e(Part of the Moon set)"
+						"§8Rusted and uncomfortable to hold, unlikely to last very long (aaarrg)",
+						"§e(Part of the Moon set)"
 					],
-					Name: "�7Pirat Hook"
+					Name: "§7Pirat Hook"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193141800,
 					Amount: 40,
+					Slot: "mainhand",
 					AttributeName: "generic.attackDamage",
 					Operation: 0,
 					Name: "generic.attackDamage"
@@ -140,18 +139,18 @@
 			},
 			id: "rats:pirat_cutlass",
 			tag: {
-				HideFlags: 39,
 				display: {
 					Lore: [
-						"�8Made completely out of 100% cheese sourced locally from the Moon.",
-						"�e(Part of the Moon set)"
+						"§8Made completely out of 100% cheese sourced locally from the Moon.",
+						"§e(Part of the Moon set)"
 					],
-					Name: "�7Cheese Blade"
+					Name: "§7Cheese Blade"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193352200,
 					Amount: 50,
+					Slot: "mainhand",
 					AttributeName: "generic.attackDamage",
 					Operation: 0,
 					Name: "generic.attackDamage"
@@ -167,14 +166,13 @@
 			},
 			id: "rats:plague_doctor_mask",
 			tag: {
-				HideFlags: 37,
 				display: {
 					Lore: [
-						"�8In my dream, I was drowning my sorrows",
-						"�8But my sorrows they'd learned to swim",
-						"�e(Part of the Moon set)"
+						"§8In my dream, I was drowning my sorrows",
+						"§8But my sorrows they'd learned to swim",
+						"§e(Part of the Moon set)"
 					],
-					Name: "�7Mask of Sorrows"
+					Name: "§7Mask of Sorrows"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
@@ -491,10 +489,10 @@
 				Unbreakable: 1,
 				display: {
 					Lore: [
-						"�8�r�lAncient Tarnished Blade",
-						"�l�e(Rare Moon Artifact)"
+						"§8§r§lAncient Tarnished Blade",
+						"§l§e(Rare Moon Artifact)"
 					],
-					Name: "�3Giant's Bane"
+					Name: "§3Giant's Bane"
 				}
 			}
 		}
@@ -521,10 +519,10 @@
 				Unbreakable: 1,
 				display: {
 					Lore: [
-						"�8�r�rTriple Compressed Cheese",
-						"�l�e(Rare Moon Artifact)"
+						"§r§lTriple Compressed Cheese",
+						"§l§e(Rare Moon Artifact)"
 					],
-					Name: "�6�lMoon King"
+					Name: "§6§lMoon King"
 				}
 			}
 		}
@@ -536,12 +534,12 @@
 			},
 			id: "iceandfire:dread_queen_sword",
 			tag: {
-				HideFlags: 4,
 				display: {
 					Lore: [
-						"Blue in the darkness",
-						"Like a sickly diamond"
-					]
+						"§bBlue§r§8 in the darkness",
+						"§7Like a §asickly §bdiamond"
+					],
+					Name: "§r§lBlade of the Dreaded Queen"
 				}
 			}
 		}
@@ -565,18 +563,18 @@
 					lvl: 16,
 					id: 17
 				}],
-				HideFlags: 39,
 				display: {
 					Lore: [
-						"�8From a faraway land where the dead stay awake and the living are most unwelcome",
-						"�e(Rare Extraterrestrial Artifact)"
+						"§8From a faraway land where the dead stay awake and the living are most unwelcome",
+						"§e(Rare Extraterrestrial Artifact)"
 					],
-					Name: "�7Hammer of the Undying"
+					Name: "§7Hammer of the Undying"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193260200,
 					Amount: 144,
+					Slot: "mainhand",
 					AttributeName: "generic.attackDamage",
 					Operation: 0,
 					Name: "generic.attackDamage"
@@ -585,6 +583,7 @@
 					UUIDMost: 99,
 					UUIDLeast: 193260300,
 					Amount: 5,
+					Slot: "mainhand",
 					AttributeName: "generic.armorToughness",
 					Operation: 0,
 					Name: "generic.armorToughness"
@@ -593,6 +592,7 @@
 					UUIDMost: 99,
 					UUIDLeast: 193260400,
 					Amount: 5,
+					Slot: "mainhand",
 					AttributeName: "generic.maxHealth",
 					Operation: 0,
 					Name: "generic.maxHealth"
@@ -614,15 +614,35 @@
 				Unbreakable: 1,
 				display: {
 					Lore: [
-						"�aThree things are certain in life: death, taxes and opening a bad chancecube",
-						"�e(�R�eRare Moon Artifact)"
+						"§aThree things are certain in life: death, taxes, and opening a bad chancecube",
+						"§e(Rare Moon Artifact)",
+						"Grants Bonuses in Offhand, Mainhand, and Helmet slots"
 					],
-					Name: "�9God-King's Grace, Breath of Life"
+					Name: "§9God-King's Grace, Breath of Life"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193404700,
 					Amount: 25,
+					Slot: "mainhand",
+					AttributeName: "generic.armor",
+					Operation: 0,
+					Name: "generic.armor"
+				},
+				{
+					UUIDMost: 99,
+					UUIDLeast: 193404700,
+					Amount: 25,
+					Slot: "offhand",
+					AttributeName: "generic.armor",
+					Operation: 0,
+					Name: "generic.armor"
+				},
+				{
+					UUIDMost: 99,
+					UUIDLeast: 193404700,
+					Amount: 25,
+					Slot: "head",
 					AttributeName: "generic.armor",
 					Operation: 0,
 					Name: "generic.armor"
@@ -636,7 +656,7 @@
 			tag: {
 				RepairCost: 0,
 				display: {
-					Name: "�dExtraterrestrial Cache"
+					Name: "§dExtraterrestrial Cache"
 				},
 				type: "extraterrestrial_cache"
 			}
@@ -649,7 +669,7 @@
 			tag: {
 				RepairCost: 0,
 				display: {
-					Name: "�dExtraterrestrial Cache"
+					Name: "§dExtraterrestrial Cache"
 				},
 				type: "extraterrestrial_cache"
 			}
@@ -704,13 +724,12 @@
 					lvl: 8,
 					id: 0
 				}],
-				HideFlags: 37,
 				display: {
 					Lore: [
-						"�8Hide from the darkness, the dead does not feel fear.",
-						"�e(Part of the Primordium set)"
+						"§8Hide from the darkness, the dead do not feel fear.",
+						"§e(Part of the Primordium set)"
 					],
-					Name: "�cNightfallen"
+					Name: "§cNightfallen"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
@@ -725,29 +744,12 @@
 		}
 	},
 	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:jade_pickaxe"
-		},
-		weight: 9
-	},
-	{
 		item: "erebus:stag_heart_cooked",
 		weight: 9
 	},
 	{
 		item: "erebus:stag_heart_raw",
 		weight: 9
-	},
-	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:jade_chestplate"
-		}
 	},
 	{
 		item: {
@@ -874,19 +876,6 @@
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
 			},
-			id: "theaurorian:auroriansteelpickaxe",
-			tag: {
-				currentupgradelevel: 0,
-				upgrademultiplier: 1.0f
-			}
-		},
-		weight: 9
-	},
-	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "theaurorian:ceruleanchestplate"
 		},
 		weight: 9
@@ -903,19 +892,6 @@
 	{
 		item: "theaurorian:ceruleanarrow",
 		count: 16,
-		weight: 9
-	},
-	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:auroriansteelchestplate",
-			tag: {
-				currentupgradelevel: 0,
-				upgrademultiplier: 1.0f
-			}
-		},
 		weight: 9
 	},
 	{

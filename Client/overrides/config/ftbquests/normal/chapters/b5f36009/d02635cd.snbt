@@ -1,0 +1,29 @@
+{
+	title: "§d§lAurorian Steel",
+	x: 0.0d,
+	y: -5.5d,
+	shape: "diamond",
+	description: "§5§oIn this reality, this alloy holds immense power...",
+	tasks: [{
+		uid: "fb6ec9a4",
+		type: "item",
+		items: [{
+			item: "theaurorian:auroriansteel"
+		}]
+	}],
+	rewards: [{
+		uid: "843794be",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "2555cecb",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "extraterrestrial_cache"
+			}
+		}
+	}]
+}

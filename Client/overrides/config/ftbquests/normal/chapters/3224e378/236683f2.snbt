@@ -1,6 +1,9 @@
 {
+	title: "§a§lJade",
 	x: -0.5d,
 	y: -4.0d,
+	shape: "diamond",
+	description: "§2§oIn this reality, this gem holds immense power...",
 	hide_dependency_lines: true,
 	dependencies: [
 		"84aa257d"
@@ -9,10 +12,7 @@
 		uid: "db41013d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:jade_axe"
+			item: "erebus:materials 1 1"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,0 +1,32 @@
+{
+	title: "Twilight Artifacts",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "tfspellpack:charm_accursed_tome"
+	},
+	x: 0.0d,
+	y: -3.0d,
+	description: "Druid Mages found in the basements of shacks strewn about the Twilight Forest will drop Relics exclusive to the dimension.",
+	dependencies: [
+		"ac54b30d"
+	],
+	tasks: [{
+		uid: "79127f83",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tfspellpack:amulet_steeleaf"
+		},
+		entity: "tfspellpack:druid_mage",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "2f0ae0da",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

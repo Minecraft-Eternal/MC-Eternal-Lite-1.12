@@ -23,14 +23,9 @@
 		criterion: ""
 	}],
 	rewards: [{
-		uid: "cf5ecd49",
-		type: "ftbmoney:money",
-		ftb_money: 350L
-	},
-	{
 		uid: "9b19ad34",
 		type: "ftbmoney:money",
-		ftb_money: 350L
+		ftb_money: 700L
 	},
 	{
 		uid: "5da273bd",

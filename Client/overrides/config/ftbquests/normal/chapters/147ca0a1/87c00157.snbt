@@ -36,15 +36,5 @@
 			}
 		},
 		count: 8
-	},
-	{
-		uid: "0cf46af0",
-		type: "item",
-		item: {
-			id: "ftbquests:lootcrate",
-			tag: {
-				type: "extraterrestrial_cache"
-			}
-		}
 	}]
 }
