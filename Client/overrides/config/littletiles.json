@@ -29,14 +29,12 @@
       "limitPlaceBlocks": true,
       "maxPlaceBlocks": 0
     },
-  "survival": {
+    "survival": {
       "limitAffectedBlocks": true,
       "maxAffectedBlocks": 2,
       "harvestLevelBlock": 1,
-    "editUnbreakable": false,
-    "limitPlaceBlocksSurvival": false,
-    "maxPlaceBlocks": 10,
-    "minimumTransparency": 255,
+      "editUnbreakable": false,
+      "minimumTransparency": 255,
       "limitEditBlocks": true,
       "maxEditBlocks": 10,
       "limitPlaceBlocks": true,

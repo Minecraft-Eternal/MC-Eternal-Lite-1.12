@@ -82,6 +82,7 @@
   "shocking",
   "portly",
   "illuminati",
+  "mod_lavacow.unholytouch",
   "blind",
   "slimey_green",
   "thaumic",

@@ -3191,6 +3191,28 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 47.0,
+      "defense": 0.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 24.31579,
+      "modifier": 29.647058,
+      "toughness": -0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 24.31579,
+      "materialType": "trim"
+    },
+    "identifier": "mod_lavacow.ectoplasm",
+    "color": -8719617,
+    "type": "METAL",
+    "castable": false,
+    "craftable": true
+  },
+  {
+    "coreMaterialStats": {
       "durability": 32.0,
       "defense": 4.25,
       "materialType": "core"
