@@ -7,7 +7,8 @@
 		type: "item",
 		items: [{
 			item: "naturesaura:sky_ingot"
-		}]
+		}],
+		count: 8L
 	}],
 	rewards: [{
 		uid: "33330851",

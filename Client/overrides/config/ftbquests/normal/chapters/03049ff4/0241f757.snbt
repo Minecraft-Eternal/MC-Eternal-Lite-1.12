@@ -3,9 +3,6 @@
 	x: 3.5d,
 	y: -4.5d,
 	description: "Why would anyone want to complete this quest?",
-	text: [
-		""
-	],
 	tasks: [{
 		uid: "df2159a4",
 		type: "item",

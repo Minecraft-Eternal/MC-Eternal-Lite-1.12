@@ -11,14 +11,16 @@
 		type: "item",
 		items: [{
 			item: "techreborn:extractor"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "8bb3e9bb",
 		type: "item",
 		items: [{
 			item: "techreborn:compressor"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "525b94ce",

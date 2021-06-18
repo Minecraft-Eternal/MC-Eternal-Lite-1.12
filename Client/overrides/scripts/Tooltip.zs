@@ -29,6 +29,6 @@ print("--- loading Tooltip.zs ---");
 <mysticalagriculture:supremium_boots>.addTooltip(format.red("Disabled Flight"));
 <extrautils2:teleporter:1>.addTooltip(format.red("Disabled due to Crash problems, get the Beneath Teleporter."));
 <randomthings:spectrekey>.addTooltip(format.red("DO NOT use Spectre Key or Spectre Core to leave the Spectre dimension after entering through other means!"));
-mods.jei.JEI.removeAndHide(<ftbquests:lootcrate>.withTag({type: "development_lunchbox"}));
+<simplyjetpacks:itemjetpack:0>.addTooltip(format.red("Avoid charging this item, the Energy value of it can overflow and make it useless."));
 
 print("--- Tooltip.zs initialized ---");	

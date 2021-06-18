@@ -13,7 +13,8 @@
 		type: "item",
 		items: [{
 			item: "techreborn:implosion_compressor"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "5c06238e",

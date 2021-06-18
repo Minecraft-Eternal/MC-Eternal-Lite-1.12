@@ -5,7 +5,8 @@
 	y: -4.5d,
 	description: "*Read Description*",
 	text: [
-		"A Task Screen is an interface between Automation and Quests, it will automatically submit items inserted into it to the specified Quest, set it using the GUI."
+		"A Task Screen is an interface between Automation and Quests, it will automatically submit items inserted into it to the specified Quest, set it using the GUI.",
+		"§cNote that most Pipes will not connect until a task is set!"
 	],
 	dependencies: [
 		"cb3bf98e"

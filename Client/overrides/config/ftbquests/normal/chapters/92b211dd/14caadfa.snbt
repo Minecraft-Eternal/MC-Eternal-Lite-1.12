@@ -1,6 +1,6 @@
 {
-	x: -2.0d,
-	y: -5.5d,
+	x: 0.0d,
+	y: 4.0d,
 	description: "&oI'll be seeing you again real soon",
 	text: [
 		"&6&lGETTING TO THE MOON FOR DUMMIES&r &o(Incase you ignored all the quest text earlier)",
@@ -12,10 +12,6 @@
 		"6. Select Moon from Destinations",
 		"7. Hit 'Spacebar' to BLAST OFF!!"
 	],
-	dependencies: [
-		"57a0e1f7"
-	],
-	size: 0.8d,
 	tasks: [{
 		uid: "4c5e4add",
 		type: "checkmark",

@@ -2,20 +2,11 @@
 	x: -2.0d,
 	y: -3.0d,
 	tasks: [{
-		uid: "4b2b221f",
-		type: "item",
-		title: "Catch 1500x Fish",
-		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "listAllfishraw",
-					id: "ore"
-				}
-			},
-			id: "itemfilters:filter"
-		}],
-		count: 1500L,
-		consume_items: false
+		uid: "b5de83ba",
+		type: "stat",
+		icon: "minecraft:fish",
+		stat: "stat.fishCaught",
+		value: 500
 	}],
 	rewards: [{
 		uid: "891da324",

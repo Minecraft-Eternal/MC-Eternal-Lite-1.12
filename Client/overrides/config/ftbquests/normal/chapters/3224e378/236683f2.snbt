@@ -1,9 +1,9 @@
 {
-	title: "§a§lJade",
+	title: "Â§aÂ§lJade",
 	x: -0.5d,
 	y: -4.0d,
 	shape: "diamond",
-	description: "§2§oIn this reality, this gem holds immense power...",
+	description: "Â§2Â§oIn this reality, this gem holds immense power...",
 	hide_dependency_lines: true,
 	dependencies: [
 		"84aa257d"

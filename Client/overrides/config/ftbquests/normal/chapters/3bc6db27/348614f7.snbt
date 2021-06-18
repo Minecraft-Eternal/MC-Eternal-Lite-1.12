@@ -13,7 +13,8 @@
 		type: "item",
 		items: [{
 			item: "techreborn:vacuum_freezer"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "902c802c",

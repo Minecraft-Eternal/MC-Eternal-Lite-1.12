@@ -10,7 +10,8 @@
 	rewards: [{
 		uid: "85992833",
 		type: "item",
-		item: "tconstruct:materials 1 50"
+		item: "tconstruct:materials 1 50",
+		count: 4
 	},
 	{
 		uid: "7db39945",

@@ -30,7 +30,8 @@
 		type: "item",
 		items: [{
 			item: "techreborn:industrial_grinder"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "c98e1db6",

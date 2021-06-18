@@ -1,9 +1,9 @@
 {
-	title: "§d§lAurorian Steel",
+	title: "Â§dÂ§lAurorian Steel",
 	x: 0.0d,
 	y: -5.5d,
 	shape: "diamond",
-	description: "§5§oIn this reality, this alloy holds immense power...",
+	description: "Â§5Â§oIn this reality, this alloy holds immense power...",
 	tasks: [{
 		uid: "fb6ec9a4",
 		type: "item",
