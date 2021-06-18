@@ -22,25 +22,8 @@
         "weight": 4,
         "groupcountmin": 3,
         "groupcountmax": 4
-      }
-    ]
-  },
-  {
-    "dimension": [1100,1101,1102],
-    "mobs": [
-      {
-        "mob": "minecraft:slime",
-        "weight": 3,
-        "groupcountmin": 1,
-        "groupcountmax": 2
-      }
-    ],
-	"maxheight": 50
-  },
-  {
-    "dimension": 1000,
-	"mobs": [
-      { 
+      },
+	  { 
         "mob": "iceandfire:dread_thrall",
         "weight": 10,
         "groupcountmin": 3,

@@ -2,25 +2,24 @@
   {
     "dimension": 1000,
     "mincount": {
-      "amount": 100,
+      "amount": 40,
       "hostile": true,
-      "perplayer": true
+      "perchunk": true
     },
     "result": "deny"
-  },  
+  },
   {
     "dimension": 1048,
     "mincount": {
-      "amount": 100,
+      "amount": 30,
       "hostile": true,
-      "perplayer": true
+      "perchunk": true
     },
     "result": "deny"
   },
   {
     "mob": "iceandfire:dread_knight",
 	"customname": "§4§lPrimordium 5th Legion",
-	"maxcount": "1",
 	"healthmultiply": 50,
     "damagemultiply": 11,
     "speedmultiply": 1,
@@ -29,7 +28,6 @@
   {
     "mob": "iceandfire:dread_ghoul",
 	"customname": "§4Enraged Fleshripper",
-	"maxcount": "2",
 	"healthmultiply": 12,
     "damagemultiply": 10,
     "speedmultiply": 1,
@@ -38,7 +36,6 @@
   {
     "mob": "iceandfire:dread_scuttler",
 	"customname": "§4§k!!§r§4§lWretched Abomination§4§k!!",
-	"maxcount": "1",
 	"healthmultiply": 60,
     "damagemultiply": 90,
     "speedmultiply": 0.3,
@@ -47,7 +44,6 @@
   {
     "mob": "iceandfire:dread_thrall",
 	"customname": "§4Undying Soldier",
-	"maxcount": "2",
 	"healthmultiply": 16,
     "damagemultiply": 9,
     "speedmultiply": 1,
@@ -56,7 +52,6 @@
   {
     "mob": "iceandfire:dread_beast",
 	"customname": "§4Undying Bloodhound",
-	"maxcount": "2",
 	"healthmultiply": 10,
     "damagemultiply": 3.5,
     "speedmultiply": 1,
@@ -65,7 +60,6 @@
   {
     "mob": "iceandfire:dread_lich",
 	"customname": "§dTwisted Ethereal Necromancer",
-	"maxcount": "1",
 	"healthmultiply": 33,
     "damagemultiply": 3,
     "speedmultiply": 0.8,
