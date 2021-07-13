@@ -1,6 +1,6 @@
 {
 	x: 0.0d,
-	y: 4.0d,
+	y: -10.5d,
 	description: "&oI'll be seeing you again real soon",
 	text: [
 		"&6&lGETTING TO THE MOON FOR DUMMIES&r &o(Incase you ignored all the quest text earlier)",
@@ -11,6 +11,9 @@
 		"5. Enter the Rocket, hit 'C' for rocket menu (check keybindings)",
 		"6. Select Moon from Destinations",
 		"7. Hit 'Spacebar' to BLAST OFF!!"
+	],
+	dependencies: [
+		"091e6c54"
 	],
 	tasks: [{
 		uid: "4c5e4add",

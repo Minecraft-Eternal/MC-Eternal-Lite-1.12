@@ -6,4 +6,7 @@ print("--- loading Oredict.zs ---");
 <ore:RavenFeather>.add(<twilightforest:raven_feather>);
 <ore:RavenFeather>.add(<bewitchment:ravens_feather>);
 
-print("--- Oredict.zs initialized ---");	
+<ore:oreDilithium>.add(<taiga:dilithium_ore>);
+<ore:blockWarpCoreRim>.add(<techreborn:storage:2>);
+
+print("--- Oredict.zs initialized ---");

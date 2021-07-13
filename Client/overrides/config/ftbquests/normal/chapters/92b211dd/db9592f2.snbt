@@ -4,6 +4,9 @@
 	y: 0.0d,
 	shape: "gear",
 	description: "§7§oWritten by §cEmperdog",
+	text: [
+		"The Questline will be a simplified version of this guide, you may want to refer to this guide or the MC Eternal Discord for further help!"
+	],
 	can_repeat: true,
 	optional: true,
 	tasks: [{
