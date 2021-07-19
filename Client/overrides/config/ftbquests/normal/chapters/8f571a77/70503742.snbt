@@ -4,6 +4,9 @@
 	shape: "diamond",
 	description: "*Defeat Guardian of Gaia to unlock*",
 	can_repeat: true,
+	dependencies: [
+		"8eb33cb0"
+	],
 	tasks: [{
 		uid: "8c2843ad",
 		type: "item",

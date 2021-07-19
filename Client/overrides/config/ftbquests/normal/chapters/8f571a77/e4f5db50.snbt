@@ -7,15 +7,9 @@
 		type: "item",
 		title: "§dAny Ancient Tome",
 		items: [{
+			id: "quark:ancient_tome",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "quark:ancient_tome",
-			tag: {
-				StoredEnchantments: [{
-					lvl: 3s,
-					id: 62s
-				}]
 			}
 		}],
 		ignore_damage: true,
