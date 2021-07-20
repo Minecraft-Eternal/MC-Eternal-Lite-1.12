@@ -5,7 +5,7 @@
 	shape: "square",
 	description: "*Unlocked from completing the Mayor Position Available chapter*",
 	dependencies: [
-		"28bd7aff"
+		"9fb9dd41"
 	],
 	tasks: [{
 		uid: "acade64c",
