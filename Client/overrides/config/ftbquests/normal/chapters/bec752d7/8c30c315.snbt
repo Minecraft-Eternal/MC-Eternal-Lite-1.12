@@ -1,0 +1,28 @@
+{
+	title: "Blossoming with Potential!",
+	x: 21.5d,
+	y: 3.0d,
+	description: "Botania has a lot more features to it than what this questline explores, and a ton of potential for Automation, especially once you build the Portal to Alfheim, explore it! And read the Lexica Botania, it's an amazing guide!",
+	dependencies: [
+		"59dd41e8"
+	],
+	tasks: [{
+		uid: "ff27cf81",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a0059a72",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	},
+	{
+		uid: "63601aa2",
+		type: "item",
+		item: {
+			id: "ftbquests:lootcrate",
+			tag: {
+				type: "unclaimed_black_market_container"
+			}
+		}
+	}]
+}
