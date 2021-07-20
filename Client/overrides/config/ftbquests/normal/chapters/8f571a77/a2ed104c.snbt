@@ -1,7 +1,14 @@
 {
 	x: 2.0d,
 	y: 1.0d,
+	description: "*Complete \"Blossoming with Potential!\" to unlock*",
+	text: [
+		"For a challenge, try automating it with just equipment from Nature's Aura and Vanilla!"
+	],
 	can_repeat: true,
+	dependencies: [
+		"c24aee0f"
+	],
 	tasks: [{
 		uid: "3e3817cb",
 		type: "item",

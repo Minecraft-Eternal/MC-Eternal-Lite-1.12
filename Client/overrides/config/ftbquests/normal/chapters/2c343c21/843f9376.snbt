@@ -21,9 +21,6 @@
 		uid: "f8b1a670",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "iceandfire:armor_silver_metal_helmet",
 			tag: {
 				ench: [{
@@ -33,19 +30,45 @@
 				Unbreakable: 1,
 				display: {
 					Lore: [
-						"�aThree things are certain in life: death, taxes and opening a bad chancecube",
-						"�e(�R�eRare Moon Artifact)"
+						"§aThree things are certain in life: death, taxes, and opening a bad chancecube",
+						"§e(Rare Moon Artifact)",
+						"Grants Bonuses in Offhand, Mainhand, and Helmet slots"
 					],
-					Name: "�9God-King's Grace, Breath of Life"
+					Name: "§9God-King's Grace, Breath of Life"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193404700,
 					Amount: 25,
+					Slot: "mainhand",
+					AttributeName: "generic.armor",
+					Operation: 0,
+					Name: "generic.armor"
+				},
+				{
+					UUIDMost: 99,
+					UUIDLeast: 193404700,
+					Amount: 25,
+					Slot: "offhand",
+					AttributeName: "generic.armor",
+					Operation: 0,
+					Name: "generic.armor"
+				},
+				{
+					UUIDMost: 99,
+					UUIDLeast: 193404700,
+					Amount: 25,
+					Slot: "head",
 					AttributeName: "generic.armor",
 					Operation: 0,
 					Name: "generic.armor"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: 867781763579201090L,
+					AS_Amulet_HolderLeast: -8851329178942211897L
+				}
 			}
 		}],
 		ignore_damage: true,
@@ -63,10 +86,10 @@
 				}],
 				display: {
 					Lore: [
-						"�eBlessed by the Rat King himself",
-						"�eI wouldn't suggest eating this.."
+						"§eBlessed by the Rat King himself",
+						"§eI wouldn't suggest eating this.."
 					],
-					Name: "�lThe �6�lHoly Cheese"
+					Name: "§lThe §6§lHoly Cheese"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,

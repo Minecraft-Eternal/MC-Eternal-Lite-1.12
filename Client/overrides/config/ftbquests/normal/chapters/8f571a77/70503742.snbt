@@ -3,6 +3,9 @@
 	y: 3.0d,
 	shape: "diamond",
 	description: "*Defeat Guardian of Gaia to unlock*",
+	text: [
+		"Good luck automating Gaia..."
+	],
 	can_repeat: true,
 	dependencies: [
 		"8eb33cb0"
