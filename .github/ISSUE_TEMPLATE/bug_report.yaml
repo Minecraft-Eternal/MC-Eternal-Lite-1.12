@@ -49,7 +49,7 @@ body:
       placeholder: Link from paste.gg, gist.github.com, etc.
     validations:
       required: false
-  - type: input
+  - type: textarea
     id: extra-info
     attributes:
       label: Extra Info
