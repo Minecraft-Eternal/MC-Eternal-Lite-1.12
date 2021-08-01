@@ -45,7 +45,8 @@ body:
     id: log
     attributes:
       label: Log
-      placeholder: Not required for all types of issues, do not include if not applicable. Link from paste.gg, gist.github.com, etc.
+      description: Not required for all types of issues, do not include if not applicable.
+      placeholder: Link from paste.gg, gist.github.com, etc.
     validations:
       required: false
   - type: input
