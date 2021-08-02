@@ -31,7 +31,8 @@ body:
     id: version-info
     attributes:
       label: Modpack Version
-      placeholder: 1.3.8-BETA. Please do not put Latest.
+      description: Please do not put "Latest", that is useless info.
+      placeholder: 1.3.8-BETA
     validations:
       required: true
   - type: textarea
