@@ -10,7 +10,8 @@
 		type: "item",
 		items: [{
 			item: "enderio:block_powered_spawner"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "8735e3a8",

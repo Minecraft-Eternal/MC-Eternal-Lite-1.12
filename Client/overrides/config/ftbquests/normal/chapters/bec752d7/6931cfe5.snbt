@@ -8,20 +8,16 @@
 		uid: "33ed4df8",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "vampirism:hunter_axe",
 			tag: {
-				ench: [{
-					lvl: 3s,
-					id: 19s
-				}],
 				tier: "ENHANCED"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 2b
 	}],
 	rewards: [{
 		uid: "8dd17111",

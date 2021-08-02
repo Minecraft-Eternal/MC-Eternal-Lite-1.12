@@ -10,7 +10,8 @@
 		type: "item",
 		items: [{
 			item: "enderio:block_wireless_charger_extension"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "65250c6a",

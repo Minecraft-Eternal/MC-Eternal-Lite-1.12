@@ -12,23 +12,25 @@
 		items: [{
 			item: "enderio:block_tele_pad"
 		}],
-		count: 9L
+		count: 9L,
+		ignore_nbt: 1b
 	},
 	{
 		uid: "29b7a55d",
 		type: "item",
 		items: [{
 			item: "enderio:block_dialing_device"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "40abb3ee",
 		type: "item",
 		items: [{
+			id: "enderio:item_coord_selector",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "enderio:item_coord_selector"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

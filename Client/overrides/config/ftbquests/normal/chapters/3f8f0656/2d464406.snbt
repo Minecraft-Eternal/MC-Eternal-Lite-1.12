@@ -10,7 +10,8 @@
 		type: "item",
 		items: [{
 			item: "enderio:block_vat"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "f7eb2fcf",

@@ -10,14 +10,16 @@
 		type: "item",
 		items: [{
 			item: "enderio:block_alloy_smelter"
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "d1022ceb",
 		type: "item",
 		items: [{
 			item: "enderio:block_sag_mill"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "9e528a05",

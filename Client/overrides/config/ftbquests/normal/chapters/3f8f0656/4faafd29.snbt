@@ -12,7 +12,8 @@
 		items: [{
 			item: "enderio:block_travel_anchor"
 		}],
-		count: 2L
+		count: 2L,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "8f6ed74a",
