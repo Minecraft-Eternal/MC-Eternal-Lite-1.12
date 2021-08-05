@@ -1,13 +1,13 @@
-import crafttweaker.item.IItemStack;
 #MC Eternal Scripts
 
 print("--- loading MysticalAgri.zs ---");
 
 #Remove Items
-var nocraftseeds = [<mysticalagriculture:iron_seeds>,<mysticalagriculture:diamond_seeds>,<mysticalagriculture:gold_seeds>,<mysticalagriculture:blaze_seeds>,<mysticalagradditions:nether_star_seeds>] as ItemStack[];
-for seeds in nocraftseeds {
-	recipes.remove(seeds);
-}
+recipes.remove(<mysticalagriculture:iron_seeds>);
+recipes.remove(<mysticalagriculture:diamond_seeds>);
+recipes.remove(<mysticalagriculture:gold_seeds>);
+recipes.remove(<mysticalagriculture:blaze_seeds>);
+recipes.remove(<mysticalagradditions:nether_star_seeds>);
 
 #Add Shaped
 recipes.addShaped(<mysticalagriculture:iron_seeds>, [[<minecraft:iron_ingot>, <ore:essenceSupremium>, <minecraft:iron_ingot>], [<ore:essenceSupremium>, <mysticalagriculture:crafting:21>, <mysticalagriculture:crafting:4>], [<minecraft:iron_ingot>, <mysticalagriculture:crafting:4>, <minecraft:iron_ingot>]]);
