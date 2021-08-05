@@ -4,7 +4,7 @@ import crafttweaker.item.IItemStack;
 print("--- loading MysticalAgri.zs ---");
 
 #Remove Items
-var nocraftseeds = [<mysticalagriculture:iron_seeds>,<mysticalagriculture:diamond_seeds>,<mysticalagriculture:gold_seeds>,<mysticalagriculture:blaze_seeds>,<mysticalagradditions:nether_star_seeds>] as IItemStack[];
+var nocraftseeds = [<mysticalagriculture:iron_seeds>,<mysticalagriculture:diamond_seeds>,<mysticalagriculture:gold_seeds>,<mysticalagriculture:blaze_seeds>,<mysticalagradditions:nether_star_seeds>] as ItemStack[];
 for seeds in nocraftseeds {
 	recipes.remove(seeds);
 }
