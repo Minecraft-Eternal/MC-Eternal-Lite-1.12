@@ -27,7 +27,7 @@ print("--- loading Tooltip.zs ---");
 <mysticalagriculture:supremium_chestplate>.addTooltip(format.red("Disabled Flight"));
 <mysticalagriculture:supremium_leggings>.addTooltip(format.red("Disabled Flight"));
 <mysticalagriculture:supremium_boots>.addTooltip(format.red("Disabled Flight"));
-<extrautils2:teleporter:1>.addTooltip(format.red("Disabled due to Crash problems, get the Beneath Teleporter."));
+<extrautils2:teleporter:1>.addTooltip(format.red("Disabled and will cause a Crash if you try to use it! use the Beneath and Beneath Teleporter instead."));
 <randomthings:spectrekey>.addTooltip(format.red("DO NOT use Spectre Key or Spectre Core to leave the Spectre dimension after entering through other means!"));
 <simplyjetpacks:itemjetpack:0>.addTooltip(format.red("Avoid charging this item, the Energy value of it can overflow and make it useless."));
 

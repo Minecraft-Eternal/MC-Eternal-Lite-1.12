@@ -5,6 +5,7 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.player.IPlayer;
 import crafttweaker.entity.IEntityEquipmentSlot;
 
+#Illegal Multishot
 events.onEntityLivingUseItemStart(function(event as crafttweaker.event.EntityLivingUseItemEvent.Start){
 	if(event.isPlayer){
 		if(event.item.isEnchanted){
@@ -22,7 +23,7 @@ events.onEntityLivingUseItemStart(function(event as crafttweaker.event.EntityLiv
 	}
 });
 
-
+#Yeet too stronk enchants
 events.onEntityLivingEquipmentChange(function(event as crafttweaker.event.EntityLivingEquipmentChangeEvent){
 	if(!isNull(event.newItem)){
 		var listenchants as IEnchantment[] = event.newItem.enchantments as IEnchantment[];

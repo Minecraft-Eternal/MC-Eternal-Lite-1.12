@@ -13,5 +13,10 @@
 			item: "immersiveengineering:stone_decoration 1 2"
 		}],
 		count: 27L
+	}],
+	rewards: [{
+		uid: "43d6169d",
+		type: "ftbmoney:money",
+		ftb_money: 100L
 	}]
 }

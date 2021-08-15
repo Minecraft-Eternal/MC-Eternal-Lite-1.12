@@ -85,7 +85,6 @@
   "mod_lavacow.unholytouch",
   "blind",
   "slimey_green",
-  "thaumic",
   "magnetic1_armor",
   "enderference",
   "splitting2",
