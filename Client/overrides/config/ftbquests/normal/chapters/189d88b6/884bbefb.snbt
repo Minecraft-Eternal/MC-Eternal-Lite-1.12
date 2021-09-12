@@ -8,10 +8,10 @@
 		uid: "a0471f4b",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonbone_bow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonbone_bow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

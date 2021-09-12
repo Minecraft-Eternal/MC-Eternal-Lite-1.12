@@ -5,11 +5,11 @@
 		uid: "b4eecd0b",
 		type: "item",
 		items: [{
+			id: "extrautils2:chickenring",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "extrautils2:chickenring",
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

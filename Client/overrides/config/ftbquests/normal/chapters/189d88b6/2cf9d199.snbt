@@ -11,10 +11,10 @@
 		uid: "d76ba6d6",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:bonesword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:bonesword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

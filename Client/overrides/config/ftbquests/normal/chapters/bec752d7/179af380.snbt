@@ -11,52 +11,52 @@
 		type: "item",
 		title: "Apprentice Wand",
 		items: [{
+			id: "ebwizardry:apprentice_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:apprentice_wand"
+			}
 		},
 		{
+			id: "ebwizardry:apprentice_fire_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:apprentice_fire_wand"
+			}
 		},
 		{
+			id: "ebwizardry:apprentice_ice_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:apprentice_ice_wand"
+			}
 		},
 		{
+			id: "ebwizardry:apprentice_lightning_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:apprentice_lightning_wand"
+			}
 		},
 		{
+			id: "ebwizardry:apprentice_necromancy_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:apprentice_necromancy_wand"
+			}
 		},
 		{
+			id: "ebwizardry:apprentice_earth_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:apprentice_earth_wand"
+			}
 		},
 		{
+			id: "ebwizardry:apprentice_sorcery_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:apprentice_sorcery_wand"
+			}
 		},
 		{
+			id: "ebwizardry:apprentice_healing_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:apprentice_healing_wand"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

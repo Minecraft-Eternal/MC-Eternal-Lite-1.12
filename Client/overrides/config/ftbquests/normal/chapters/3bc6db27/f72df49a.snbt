@@ -8,13 +8,13 @@
 		uid: "47ab72a0",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalexpansion:strongbox",
 			tag: {
 				Facing: 3b,
 				Level: 0b
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 1b

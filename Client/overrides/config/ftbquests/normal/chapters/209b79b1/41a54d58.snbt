@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Evoker",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "minecraft:evocation_illager",
 		value: 1L

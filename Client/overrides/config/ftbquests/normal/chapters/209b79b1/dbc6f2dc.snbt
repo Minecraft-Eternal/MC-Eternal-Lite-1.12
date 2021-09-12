@@ -5,10 +5,10 @@
 		uid: "9d9609b5",
 		type: "item",
 		items: [{
+			id: "dungeontactics:dungeonpedia_volume_1",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dungeontactics:dungeonpedia_volume_1"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

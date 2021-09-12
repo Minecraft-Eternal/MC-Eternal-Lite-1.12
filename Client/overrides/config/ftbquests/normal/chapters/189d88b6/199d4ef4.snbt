@@ -9,13 +9,13 @@
 		uid: "ad41d873",
 		type: "item",
 		items: [{
+			id: "randomthings:escaperope",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -5863096196267452682L,
-					AS_Amulet_HolderMost: -2754331757198947019L
+					AS_Amulet_HolderMost: -2754331757198947019L,
+					AS_Amulet_HolderLeast: -5863096196267452682L
 				}
-			},
-			id: "randomthings:escaperope"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,10 +8,10 @@
 		uid: "c5175000",
 		type: "item",
 		items: [{
+			id: "mekanism:flamethrower",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mekanism:flamethrower"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

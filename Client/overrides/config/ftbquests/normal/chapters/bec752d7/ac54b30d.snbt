@@ -27,10 +27,10 @@
 		uid: "05555891",
 		type: "item",
 		item: {
+			id: "tfspellpack:ring_twilight",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tfspellpack:ring_twilight"
+			}
 		}
 	}]
 }

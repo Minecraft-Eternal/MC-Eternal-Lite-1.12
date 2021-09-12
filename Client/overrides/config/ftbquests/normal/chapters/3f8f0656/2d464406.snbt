@@ -1,9 +1,9 @@
 {
-	x: 17.5d,
-	y: -3.5d,
+	x: 16.5d,
+	y: 6.0d,
 	description: "Used to create fluids with different uses",
 	dependencies: [
-		"9fe352bc"
+		"20e40ad0"
 	],
 	tasks: [{
 		uid: "c1d13ac3",

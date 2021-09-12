@@ -9,11 +9,11 @@
 		uid: "458e5e17",
 		type: "item",
 		items: [{
+			id: "theaurorian:umbrapickaxe",
+			tag: {},
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:umbrapickaxe",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -48,11 +48,11 @@
 		uid: "7cfff50d",
 		type: "item",
 		item: {
+			id: "cookingforblockheads:recipe_book",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cookingforblockheads:recipe_book",
-			Damage: 1s
+			}
 		}
 	},
 	{

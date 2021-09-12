@@ -5,13 +5,13 @@
 		uid: "41e99f6d",
 		type: "item",
 		items: [{
+			id: "treasure2:spider_key",
 			ForgeCaps: {
 				Parent: {
 					effectiveMaxDamage: 5
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "treasure2:spider_key"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

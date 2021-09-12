@@ -48,12 +48,12 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:glass_sword",
 			tag: {
 				Unbreakable: 1b
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -65,9 +65,6 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:shuriken",
 			tag: {
 				StatsOriginal: {
@@ -112,6 +109,9 @@
 				Traits: [
 					"weee"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -132,14 +132,14 @@
 	},
 	{
 		item: {
+			id: "icbmclassic:missile",
+			Damage: 28s,
 			ForgeCaps: {
 				Parent: {
 					explosive: {}
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "icbmclassic:missile",
-			Damage: 28s
+			}
 		}
 	},
 	{
@@ -147,10 +147,10 @@
 	},
 	{
 		item: {
+			id: "iceandfire:dread_queen_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dread_queen_sword"
+			}
 		}
 	}],
 	loot_crate: {
@@ -158,9 +158,9 @@
 		color: 16777215,
 		glow: true,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

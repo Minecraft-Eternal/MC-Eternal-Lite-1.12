@@ -7,12 +7,6 @@
 		uid: "e452c689",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -8851329178942211897L,
-					AS_Amulet_HolderMost: 867781763579201090L
-				}
-			},
 			id: "astralsorcery:itemcelestialcrystal",
 			tag: {
 				astralsorcery: {
@@ -23,6 +17,12 @@
 						purity: 100,
 						sizeOverride: -1
 					}
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: 867781763579201090L,
+					AS_Amulet_HolderLeast: -8851329178942211897L
 				}
 			}
 		}]

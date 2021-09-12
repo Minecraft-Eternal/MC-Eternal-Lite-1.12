@@ -11,16 +11,16 @@
 		uid: "6b63d0a9",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonsteel_fire_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_fire_sword"
+			}
 		},
 		{
+			id: "iceandfire:dragonsteel_ice_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_ice_sword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

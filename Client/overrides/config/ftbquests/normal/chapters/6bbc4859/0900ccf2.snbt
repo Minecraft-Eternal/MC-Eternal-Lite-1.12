@@ -1,13 +1,13 @@
 {
 	title: "&c&lComplete all challenges and reclaim your soul from the modpack author",
 	icon: {
+		id: "botania:enderdagger",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "botania:enderdagger"
+		}
 	},
 	x: 0.0d,
-	y: -1.0d,
+	y: -1.5d,
 	shape: "hexagon",
 	description: "&oSo uh... I guess you've earned it? I'll get you next time! Yeah that sounds good, I mean congrats on completing all of these ridiculous challenges. Keep the soul.. Until you willfully give it to me again the next time you get easily fooled.",
 	dependencies: [
@@ -24,12 +24,12 @@
 		type: "item",
 		item: {
 			id: "botania:corporeaspark",
+			Damage: 1s,
 			tag: {
 				display: {
 					Name: "§9§lPlayer Soul§r"
 				}
-			},
-			Damage: 1s
+			}
 		}
 	},
 	{

@@ -9,10 +9,10 @@
 		uid: "cd097752",
 		type: "item",
 		items: [{
+			id: "theaurorian:absorptionorb",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:absorptionorb"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

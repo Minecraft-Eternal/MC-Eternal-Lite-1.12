@@ -9,10 +9,10 @@
 		uid: "4956a6da",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:moltenaxe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:moltenaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

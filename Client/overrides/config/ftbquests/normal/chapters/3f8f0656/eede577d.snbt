@@ -8,10 +8,10 @@
 		uid: "5f60424b",
 		type: "item",
 		items: [{
+			id: "mekanism:robit",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mekanism:robit"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

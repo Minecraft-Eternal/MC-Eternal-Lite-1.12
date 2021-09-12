@@ -9,9 +9,6 @@
 		uid: "b12c2066",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "dungeontactics:high_striker",
 			tag: {
 				ench: [{
@@ -26,18 +23,18 @@
 					lvl: 16,
 					id: 17
 				}],
-				HideFlags: 39,
 				display: {
 					Lore: [
-						"�8From a faraway land where the dead stay awake and the living are most unwelcome",
-						"�e(Rare Extraterrestrial Artifact)"
+						"§8From a faraway land where the dead stay awake and the living are most unwelcome",
+						"§e(Rare Extraterrestrial Artifact)"
 					],
-					Name: "�7Hammer of the Undying"
+					Name: "§7Hammer of the Undying"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193260200,
 					Amount: 144,
+					Slot: "mainhand",
 					AttributeName: "generic.attackDamage",
 					Operation: 0,
 					Name: "generic.attackDamage"
@@ -46,6 +43,7 @@
 					UUIDMost: 99,
 					UUIDLeast: 193260300,
 					Amount: 5,
+					Slot: "mainhand",
 					AttributeName: "generic.armorToughness",
 					Operation: 0,
 					Name: "generic.armorToughness"
@@ -54,14 +52,18 @@
 					UUIDMost: 99,
 					UUIDLeast: 193260400,
 					Amount: 5,
+					Slot: "mainhand",
 					AttributeName: "generic.maxHealth",
 					Operation: 0,
 					Name: "generic.maxHealth"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 2b
 	}],
 	rewards: [{
 		uid: "5325db98",

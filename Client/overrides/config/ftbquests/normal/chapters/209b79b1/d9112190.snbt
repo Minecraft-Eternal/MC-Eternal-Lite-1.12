@@ -1,10 +1,10 @@
 {
 	title: "Bounty: Naga",
 	icon: {
+		id: "twilightforest:knightmetal_sword",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "twilightforest:knightmetal_sword"
+		}
 	},
 	x: -1.0d,
 	y: -8.0d,
@@ -21,10 +21,10 @@
 		uid: "6cdc1768",
 		type: "kill",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "mowziesmobs:naga",
 		value: 1L

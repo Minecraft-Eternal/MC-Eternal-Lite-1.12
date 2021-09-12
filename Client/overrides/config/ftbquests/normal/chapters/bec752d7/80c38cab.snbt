@@ -26,11 +26,11 @@
 		uid: "e5bdac19",
 		type: "item",
 		item: {
+			id: "vampirism:blood_bottle",
+			Damage: 9s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "vampirism:blood_bottle",
-			Damage: 9s
+			}
 		}
 	}]
 }

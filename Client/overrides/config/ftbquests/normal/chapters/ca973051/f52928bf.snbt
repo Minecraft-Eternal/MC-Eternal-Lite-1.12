@@ -1,6 +1,6 @@
 {
-	x: -12.0d,
-	y: -6.5d,
+	x: -9.0d,
+	y: -8.0d,
 	dependencies: [
 		"29350f39"
 	],
@@ -8,15 +8,15 @@
 		uid: "d4db1c04",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:naga_leggings",
 			tag: {
 				ench: [{
 					lvl: 3s,
 					id: 0s
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

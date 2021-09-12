@@ -7,9 +7,6 @@
 		uid: "963bc8da",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -149,6 +146,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -157,9 +157,6 @@
 		uid: "5e1d9a26",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -299,6 +296,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,
@@ -308,9 +308,6 @@
 		uid: "e04c9d5d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -450,6 +447,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -458,9 +458,6 @@
 		uid: "b72fae73",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -600,6 +597,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -608,12 +608,6 @@
 		uid: "4ec25145",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -5863096196267452682L,
-					AS_Amulet_HolderMost: -2754331757198947019L
-				}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -752,6 +746,12 @@
 						UID0: "forestry.effectNone",
 						Slot: 12b
 					}]
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: -2754331757198947019L,
+					AS_Amulet_HolderLeast: -5863096196267452682L
 				}
 			}
 		}],
@@ -762,9 +762,6 @@
 		uid: "b4b46f6e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -904,6 +901,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -912,9 +912,6 @@
 		uid: "df94c17b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -1054,6 +1051,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -1062,9 +1062,6 @@
 		uid: "b8afa4f9",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -1204,6 +1201,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -1212,9 +1212,6 @@
 		uid: "5b81cda1",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -1354,6 +1351,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -1362,9 +1362,6 @@
 		uid: "21b4e688",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -1504,6 +1501,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -1512,9 +1512,6 @@
 		uid: "e4957efb",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -1654,6 +1651,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -1662,12 +1662,6 @@
 		uid: "e61411dd",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -5863096196267452682L,
-					AS_Amulet_HolderMost: -2754331757198947019L
-				}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -1806,6 +1800,12 @@
 						UID0: "careerbees.effect.exploding",
 						Slot: 12b
 					}]
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: -2754331757198947019L,
+					AS_Amulet_HolderLeast: -5863096196267452682L
 				}
 			}
 		}],
@@ -1815,9 +1815,6 @@
 		uid: "35fca72b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -1957,6 +1954,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -1965,9 +1965,6 @@
 		uid: "5e685938",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -2107,6 +2104,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -2115,9 +2115,6 @@
 		uid: "b8b78ddf",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -2257,6 +2254,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -2265,9 +2265,6 @@
 		uid: "cdbf00bb",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -2407,6 +2404,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -2415,9 +2415,6 @@
 		uid: "1427d60b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -2557,6 +2554,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -2565,9 +2565,6 @@
 		uid: "91ad0a90",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -2707,6 +2704,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -2715,9 +2715,6 @@
 		uid: "e613d7a1",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -2857,6 +2854,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b
@@ -2865,9 +2865,6 @@
 		uid: "14253a92",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forestry:bee_queen_ge",
 			tag: {
 				MaxH: 50,
@@ -3007,6 +3004,9 @@
 						Slot: 12b
 					}]
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 2b

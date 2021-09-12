@@ -5,11 +5,11 @@
 		uid: "1937d580",
 		type: "item",
 		items: [{
+			id: "extrautils2:snowglobe",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "extrautils2:snowglobe",
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	}],
@@ -27,10 +27,10 @@
 		uid: "f459d41f",
 		type: "item",
 		item: {
+			id: "totemic:ceremony_cheat",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "totemic:ceremony_cheat"
+			}
 		}
 	},
 	{

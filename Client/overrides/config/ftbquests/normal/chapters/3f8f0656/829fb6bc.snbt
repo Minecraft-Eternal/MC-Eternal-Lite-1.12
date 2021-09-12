@@ -1,6 +1,6 @@
 {
-	x: 12.5d,
-	y: -1.5d,
+	x: 13.5d,
+	y: 4.5d,
 	description: "I shall return",
 	dependencies: [
 		"60355bd7"
@@ -9,10 +9,10 @@
 		uid: "24df8322",
 		type: "item",
 		items: [{
+			id: "enderio:item_rod_of_return",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "enderio:item_rod_of_return"
+			}
 		}],
 		ignore_nbt: 1b
 	}],

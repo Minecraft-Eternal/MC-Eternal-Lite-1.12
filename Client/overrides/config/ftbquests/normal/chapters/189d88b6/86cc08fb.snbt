@@ -1,10 +1,10 @@
 {
 	title: "Best Friends Forever",
 	icon: {
+		id: "doggytalents:treat_bag",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "doggytalents:treat_bag"
+		}
 	},
 	x: -16.099999999999998d,
 	y: -4.55d,
@@ -27,13 +27,13 @@
 		type: "item",
 		title: "Raw Meat",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "listAllmeatraw",
-					id: "ore"
+					id: "ore",
+					data: "listAllmeatraw"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 8L
 	}],
@@ -41,10 +41,10 @@
 		uid: "ef4337c1",
 		type: "item",
 		item: {
+			id: "doggytalents:doggy_charm",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "doggytalents:doggy_charm"
+			}
 		}
 	},
 	{

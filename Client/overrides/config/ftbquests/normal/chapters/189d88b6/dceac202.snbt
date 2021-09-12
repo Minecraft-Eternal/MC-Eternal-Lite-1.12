@@ -12,10 +12,10 @@
 		uid: "4ba4a766",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:raven_whistle",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:raven_whistle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

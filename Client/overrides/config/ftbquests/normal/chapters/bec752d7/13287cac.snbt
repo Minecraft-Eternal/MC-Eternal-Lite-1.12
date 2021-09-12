@@ -15,7 +15,7 @@
 			}
 		}],
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 2b
 	}],
 	rewards: [{
 		uid: "00b0f500",

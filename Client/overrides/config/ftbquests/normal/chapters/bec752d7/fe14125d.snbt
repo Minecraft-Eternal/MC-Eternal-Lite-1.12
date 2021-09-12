@@ -11,10 +11,10 @@
 		type: "advancement",
 		title: "Power Incarnate",
 		icon: {
+			id: "ebwizardry:ring_storm",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ring_storm"
+			}
 		},
 		advancement: "ebwizardry:all_artefacts",
 		criterion: ""
@@ -38,10 +38,10 @@
 		uid: "44826ce6",
 		type: "item",
 		item: {
+			id: "charm:record_creative2",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "charm:record_creative2"
+			}
 		}
 	}]
 }

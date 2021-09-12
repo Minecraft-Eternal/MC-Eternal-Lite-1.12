@@ -7,11 +7,11 @@
 		uid: "df0d5fff",
 		type: "item",
 		items: [{
+			id: "icbmclassic:explosives",
+			Damage: 23s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 23s
+			}
 		}]
 	}],
 	rewards: [{

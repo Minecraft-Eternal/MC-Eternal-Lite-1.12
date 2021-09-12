@@ -1,6 +1,6 @@
 {
 	x: -11.5d,
-	y: -14.5d,
+	y: -12.0d,
 	dependencies: [
 		"0f56d604"
 	],
@@ -8,10 +8,10 @@
 		uid: "8c40ceea",
 		type: "item",
 		items: [{
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

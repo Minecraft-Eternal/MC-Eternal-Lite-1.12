@@ -10,13 +10,13 @@
 		type: "item",
 		title: "10x Raw Fish",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "listAllfishfresh",
-					id: "ore"
+					id: "ore",
+					data: "listAllfishfresh"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 16L
 	}],

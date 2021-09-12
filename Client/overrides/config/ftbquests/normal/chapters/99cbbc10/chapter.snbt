@@ -71,8 +71,8 @@
 		dev: false
 	},
 	{
-		x: 14.0d,
-		y: -1.5d,
+		x: -3.5d,
+		y: -4.5d,
 		width: 1.0d,
 		height: 1.0d,
 		rotation: 0.0d,

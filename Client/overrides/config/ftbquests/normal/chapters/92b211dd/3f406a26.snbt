@@ -25,16 +25,16 @@
 		uid: "9054c340",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "blockCoil",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any blockCoil"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockCoil"
 				}
 			}
 		}],
@@ -44,16 +44,16 @@
 		uid: "af292ca2",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "blockMotor",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any blockMotor"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockMotor"
 				}
 			}
 		}],

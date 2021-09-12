@@ -10,10 +10,10 @@
 		uid: "2741ed4b",
 		type: "item",
 		items: [{
+			id: "forestry:scoop",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "forestry:scoop"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

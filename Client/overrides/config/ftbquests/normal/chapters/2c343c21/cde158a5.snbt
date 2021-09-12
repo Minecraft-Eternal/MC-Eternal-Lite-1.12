@@ -9,10 +9,10 @@
 		type: "kill",
 		title: "&6&lBounty: &r&8Undying Soldier",
 		icon: {
+			id: "iceandfire:dread_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dread_sword"
+			}
 		},
 		entity: "iceandfire:dread_thrall",
 		value: 25L

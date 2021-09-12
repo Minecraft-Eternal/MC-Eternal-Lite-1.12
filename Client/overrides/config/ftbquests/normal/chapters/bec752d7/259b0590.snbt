@@ -8,10 +8,10 @@
 		uid: "6bef8f7e",
 		type: "item",
 		items: [{
+			id: "bewitchment:girdle_of_the_dryads",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:girdle_of_the_dryads"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

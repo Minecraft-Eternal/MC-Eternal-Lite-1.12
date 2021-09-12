@@ -1,14 +1,14 @@
 {
 	icon: {
-		ForgeCaps: {
-			"astralsorcery:cap_item_amulet_holder": {}
-		},
 		id: "twilightforest:ironwood_sword",
 		tag: {
 			ench: [{
 				lvl: 1s,
 				id: 19s
 			}]
+		},
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
 		}
 	},
 	x: -12.5d,
@@ -18,10 +18,10 @@
 		uid: "6a38e0b0",
 		type: "kill",
 		icon: {
+			id: "twilightforest:giant_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:giant_sword"
+			}
 		},
 		entity: "twilightforest:armored_giant",
 		value: 1L

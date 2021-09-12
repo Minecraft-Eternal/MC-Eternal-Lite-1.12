@@ -13,10 +13,10 @@
 		type: "kill",
 		title: "Bounty: Evil Wizard",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "ebwizardry:evil_wizard",
 		value: 1L

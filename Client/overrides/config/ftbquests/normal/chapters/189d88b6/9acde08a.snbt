@@ -10,10 +10,10 @@
 		uid: "ea447a55",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:piranhalauncher",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:piranhalauncher"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

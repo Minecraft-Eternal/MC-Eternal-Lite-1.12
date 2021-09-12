@@ -11,10 +11,10 @@
 		type: "advancement",
 		title: "Catch a fish on Atum",
 		icon: {
+			id: "atum:atums_bounty",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:atums_bounty"
+			}
 		},
 		advancement: "atum:core/aquaculture",
 		criterion: ""

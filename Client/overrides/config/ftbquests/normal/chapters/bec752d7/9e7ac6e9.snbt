@@ -8,10 +8,10 @@
 		uid: "ee16f6fe",
 		type: "item",
 		items: [{
+			id: "ebwizardry:wizard_handbook",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:wizard_handbook"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

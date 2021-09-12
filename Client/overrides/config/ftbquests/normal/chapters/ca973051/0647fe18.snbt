@@ -9,10 +9,10 @@
 		uid: "e2c9cce4",
 		type: "kill",
 		icon: {
+			id: "twilightforest:twilight_scepter",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:twilight_scepter"
+			}
 		},
 		entity: "twilightforest:lich",
 		value: 1L

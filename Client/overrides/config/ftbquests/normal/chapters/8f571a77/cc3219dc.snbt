@@ -1,10 +1,10 @@
 {
 	title: "§c§lRa's Armor",
 	icon: {
+		id: "atum:halo_of_ra",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "atum:halo_of_ra"
+		}
 	},
 	x: -15.5d,
 	y: 9.0d,
@@ -19,28 +19,28 @@
 		type: "item",
 		title: "§cAny Part of Ra's armor",
 		items: [{
+			id: "atum:halo_of_ra",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:halo_of_ra"
+			}
 		},
 		{
+			id: "atum:body_of_ra",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:body_of_ra"
+			}
 		},
 		{
+			id: "atum:legs_of_ra",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:legs_of_ra"
+			}
 		},
 		{
+			id: "atum:feet_of_ra",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:feet_of_ra"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

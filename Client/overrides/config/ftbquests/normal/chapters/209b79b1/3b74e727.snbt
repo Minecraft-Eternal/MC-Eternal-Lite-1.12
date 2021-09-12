@@ -17,10 +17,10 @@
 		type: "kill",
 		title: "Stymphalian Bird",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "iceandfire:stymphalianbird",
 		value: 1L
@@ -39,10 +39,10 @@
 		uid: "cee1811b",
 		type: "item",
 		item: {
+			id: "mod_lavacow:moltenpan",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:moltenpan"
+			}
 		}
 	},
 	{

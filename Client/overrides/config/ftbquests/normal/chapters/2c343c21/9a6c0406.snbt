@@ -9,9 +9,6 @@
 		type: "kill",
 		title: "&6&lBounty: &ePlague Beast",
 		icon: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:cleaver",
 			tag: {
 				StatsOriginal: {
@@ -73,6 +70,9 @@
 					"tasty",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		entity: "rats:plague_beast",

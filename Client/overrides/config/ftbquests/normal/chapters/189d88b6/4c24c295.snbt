@@ -15,10 +15,10 @@
 		type: "advancement",
 		title: "Tame a Hippocampus",
 		icon: {
+			id: "iceandfire:hippocampus_slapper",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:hippocampus_slapper"
+			}
 		},
 		advancement: "iceandfire:iceandfire/tame_hippocampus",
 		criterion: ""

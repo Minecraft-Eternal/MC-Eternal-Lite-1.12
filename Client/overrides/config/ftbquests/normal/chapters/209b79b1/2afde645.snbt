@@ -16,10 +16,10 @@
 		type: "kill",
 		title: "Bounty: Scarecrow",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "mod_lavacow:scarecrow",
 		value: 1L

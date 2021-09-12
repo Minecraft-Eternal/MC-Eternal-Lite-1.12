@@ -1,10 +1,10 @@
 {
 	title: "§b§lAtum's Armor",
 	icon: {
+		id: "atum:eyes_of_atum",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "atum:eyes_of_atum"
+		}
 	},
 	x: -11.5d,
 	y: 9.0d,
@@ -19,28 +19,28 @@
 		type: "item",
 		title: "§bAny Part of Atum's armor",
 		items: [{
+			id: "atum:eyes_of_atum",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:eyes_of_atum"
+			}
 		},
 		{
+			id: "atum:body_of_atum",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:body_of_atum"
+			}
 		},
 		{
+			id: "atum:legs_of_atum",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:legs_of_atum"
+			}
 		},
 		{
+			id: "atum:feet_of_atum",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:feet_of_atum"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

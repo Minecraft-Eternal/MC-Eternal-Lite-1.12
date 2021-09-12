@@ -8,10 +8,10 @@
 		uid: "54b50d0a",
 		type: "item",
 		items: [{
+			id: "theaurorian:runestonelootkey",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:runestonelootkey"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

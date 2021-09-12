@@ -7,16 +7,16 @@
 		type: "item",
 		title: "§5Twilight Master Spell",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "spellTFMaster",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any spellTFMaster"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "spellTFMaster"
 				}
 			}
 		}]

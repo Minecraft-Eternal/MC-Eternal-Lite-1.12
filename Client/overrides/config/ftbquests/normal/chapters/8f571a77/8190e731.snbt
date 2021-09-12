@@ -7,22 +7,22 @@
 		type: "item",
 		title: "§dAny Wizard Armor Upgrade",
 		items: [{
+			id: "ebwizardry:resplendent_thread",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:resplendent_thread"
+			}
 		},
 		{
+			id: "ebwizardry:crystal_silver_plating",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:crystal_silver_plating"
+			}
 		},
 		{
+			id: "ebwizardry:ethereal_crystalweave",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ethereal_crystalweave"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,10 +8,10 @@
 		uid: "fd044850",
 		type: "item",
 		items: [{
+			id: "totemic:medicine_bag",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "totemic:medicine_bag"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,10 +8,10 @@
 		uid: "03b1c188",
 		type: "item",
 		items: [{
+			id: "vampirism:enhanced_crossbow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "vampirism:enhanced_crossbow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

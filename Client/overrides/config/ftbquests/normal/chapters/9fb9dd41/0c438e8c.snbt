@@ -13,10 +13,10 @@
 		uid: "951db6e9",
 		type: "item",
 		items: [{
+			id: "minecolonies:supplycampdeployer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecolonies:supplycampdeployer"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

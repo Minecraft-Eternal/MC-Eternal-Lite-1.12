@@ -9,10 +9,10 @@
 		uid: "e9083692",
 		type: "item",
 		items: [{
+			id: "mekanism:scubatank",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mekanism:scubatank"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,10 +21,10 @@
 		uid: "ac7a0739",
 		type: "item",
 		items: [{
+			id: "mekanism:gasmask",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mekanism:gasmask"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

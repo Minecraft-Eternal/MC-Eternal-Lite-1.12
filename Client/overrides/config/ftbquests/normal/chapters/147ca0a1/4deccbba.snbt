@@ -13,10 +13,10 @@
 		type: "kill",
 		title: "&3Regicide",
 		icon: {
+			id: "atum:atums_will",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:atums_will"
+			}
 		},
 		entity: "atum:pharaoh",
 		value: 1L

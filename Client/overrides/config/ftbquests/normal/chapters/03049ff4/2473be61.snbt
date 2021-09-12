@@ -22,6 +22,7 @@
 		type: "item",
 		item: {
 			id: "minecraft:skull",
+			Damage: 3s,
 			tag: {
 				SkullOwner: {
 					Id: "8f9bc2ed-1bb5-41ed-91be-02625c76bd7f",
@@ -33,8 +34,7 @@
 					},
 					Name: "Honeydew"
 				}
-			},
-			Damage: 3s
+			}
 		}
 	},
 	{

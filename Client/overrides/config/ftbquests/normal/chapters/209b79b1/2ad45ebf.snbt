@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Summoner",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "thesummoner:summoner",
 		value: 1L

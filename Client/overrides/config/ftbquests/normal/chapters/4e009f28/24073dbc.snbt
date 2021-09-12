@@ -5,11 +5,11 @@
 		uid: "331e7902",
 		type: "item",
 		items: [{
+			id: "mysticalagriculture:watering_can",
+			Damage: 3s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mysticalagriculture:watering_can",
-			Damage: 3s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

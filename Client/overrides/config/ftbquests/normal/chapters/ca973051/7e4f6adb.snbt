@@ -1,6 +1,6 @@
 {
-	x: -10.0d,
-	y: -11.0d,
+	x: -14.0d,
+	y: -11.5d,
 	shape: "diamond",
 	dependencies: [
 		"0647fe18"
@@ -9,10 +9,10 @@
 		uid: "2f215d5a",
 		type: "item",
 		items: [{
+			id: "twilightforest:meef_stroganoff",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:meef_stroganoff"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

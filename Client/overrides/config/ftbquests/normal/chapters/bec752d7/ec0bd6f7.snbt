@@ -11,52 +11,52 @@
 		uid: "fcb3861f",
 		type: "item",
 		items: [{
+			id: "ebwizardry:magic_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:magic_wand"
+			}
 		},
 		{
+			id: "ebwizardry:novice_fire_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:novice_fire_wand"
+			}
 		},
 		{
+			id: "ebwizardry:novice_ice_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:novice_ice_wand"
+			}
 		},
 		{
+			id: "ebwizardry:novice_lightning_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:novice_lightning_wand"
+			}
 		},
 		{
+			id: "ebwizardry:novice_necromancy_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:novice_necromancy_wand"
+			}
 		},
 		{
+			id: "ebwizardry:novice_earth_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:novice_earth_wand"
+			}
 		},
 		{
+			id: "ebwizardry:novice_sorcery_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:novice_sorcery_wand"
+			}
 		},
 		{
+			id: "ebwizardry:novice_healing_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:novice_healing_wand"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -5,20 +5,20 @@
 		uid: "b25c6537",
 		type: "item",
 		items: [{
+			id: "treasure2:key_ring",
 			ForgeCaps: {
 				Parent: {
+					inventory: {
+						Items: [],
+						Size: 14
+					},
 					state: {
 						isOpen: 0b,
 						usedOnChest: 0b
-					},
-					inventory: {
-						Size: 14,
-						Items: []
 					}
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "treasure2:key_ring"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,10 +8,10 @@
 		uid: "53e67863",
 		type: "item",
 		items: [{
+			id: "twilightforest:lifedrain_scepter",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:lifedrain_scepter"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

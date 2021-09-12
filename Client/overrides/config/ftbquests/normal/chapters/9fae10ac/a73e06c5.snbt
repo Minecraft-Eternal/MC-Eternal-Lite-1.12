@@ -6,10 +6,10 @@
 		uid: "4fc922ce",
 		type: "kill",
 		icon: {
+			id: "rats:feral_bagh_nakhs",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:feral_bagh_nakhs"
+			}
 		},
 		entity: "rats:feral_ratlantean",
 		value: 1L

@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Vampire Baron",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "vampirism:vampire_baron",
 		value: 1L
@@ -45,10 +45,10 @@
 		uid: "7244031f",
 		type: "item",
 		item: {
+			id: "ebwizardry:amulet_fire_cloaking",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:amulet_fire_cloaking"
+			}
 		}
 	}]
 }

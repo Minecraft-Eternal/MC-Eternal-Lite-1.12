@@ -13,9 +13,6 @@
 		uid: "26c7657c",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:mattock",
 			tag: {
 				StatsOriginal: {
@@ -70,6 +67,9 @@
 					"ecological",
 					"cheapskate"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

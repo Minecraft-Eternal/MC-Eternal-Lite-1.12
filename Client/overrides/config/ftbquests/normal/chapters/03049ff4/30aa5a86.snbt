@@ -1,12 +1,12 @@
 {
 	title: "&d&lPowering the entire planet ",
 	icon: {
-		ForgeCaps: {
-			"astralsorcery:cap_item_amulet_holder": {}
-		},
 		id: "techreborn:lithiumbattery",
 		tag: {
 			energy: 400000
+		},
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
 		}
 	},
 	x: -2.5d,

@@ -10,10 +10,10 @@
 		uid: "b2b59b2b",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:war",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:war"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -37,9 +37,6 @@
 		uid: "9741a73d",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "iceandfire:dread_knight_sword",
 			tag: {
 				ench: [{
@@ -60,6 +57,9 @@
 					],
 					Name: "§cApocalypse"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

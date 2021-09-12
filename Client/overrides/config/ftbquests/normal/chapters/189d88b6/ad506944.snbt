@@ -2,17 +2,19 @@
 	x: -1.5d,
 	y: -10.5d,
 	shape: "octagon",
+	hide_dependency_lines: true,
 	dependencies: [
+		"5eed1197",
 		"3b41a4ca"
 	],
 	tasks: [{
 		uid: "4fdfdd08",
 		type: "item",
 		items: [{
+			id: "charm:totem_of_shielding",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "charm:totem_of_shielding"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -10,10 +10,10 @@
 		uid: "038b6ac6",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:fissionpotion",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:fissionpotion"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

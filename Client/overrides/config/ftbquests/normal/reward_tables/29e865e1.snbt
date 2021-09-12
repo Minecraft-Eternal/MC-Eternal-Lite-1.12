@@ -1,14 +1,14 @@
 {
 	title: "Adam's Lunchbox",
 	icon: {
+		id: "immersiveengineering:toolbox",
 		ForgeCaps: {
 			Parent: {
-				Size: 1,
-				Items: []
+				Items: [],
+				Size: 1
 			},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "immersiveengineering:toolbox"
+		}
 	},
 	loot_size: 7,
 	rewards: [{
@@ -29,9 +29,6 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "actuallyadditions:item_coffee",
 			tag: {
 				1: {
@@ -46,6 +43,9 @@
 					],
 					Name: "§5Corjaavje Espresso§r"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		random_bonus: 2,
@@ -136,9 +136,9 @@
 		item_name: "Adam's Lunchbox",
 		color: 10176982,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

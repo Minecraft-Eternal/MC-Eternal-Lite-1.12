@@ -7,34 +7,34 @@
 	},
 	{
 		item: {
+			id: "minecraft:leather_helmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:leather_helmet"
+			}
 		}
 	},
 	{
 		item: {
+			id: "minecraft:leather_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:leather_chestplate"
+			}
 		}
 	},
 	{
 		item: {
+			id: "minecraft:leather_leggings",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:leather_leggings"
+			}
 		}
 	},
 	{
 		item: {
+			id: "minecraft:leather_boots",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:leather_boots"
+			}
 		}
 	},
 	{
@@ -43,10 +43,10 @@
 	},
 	{
 		item: {
+			id: "minecraft:stone_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:stone_sword"
+			}
 		}
 	}]
 }

@@ -5,12 +5,6 @@
 		uid: "db2071fb",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -5863096196267452682L,
-					AS_Amulet_HolderMost: -2754331757198947019L
-				}
-			},
 			id: "dungeontactics:dungeonpedia_volume_8",
 			tag: {
 				pages: [
@@ -30,6 +24,12 @@
 				author: "Some probably-dead guy",
 				title: "World",
 				resolved: 1b
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: -2754331757198947019L,
+					AS_Amulet_HolderLeast: -5863096196267452682L
+				}
 			}
 		}],
 		ignore_damage: true,

@@ -8,10 +8,10 @@
 		uid: "92cb9ad9",
 		type: "item",
 		items: [{
+			id: "erebus:horn_of_summoning",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:horn_of_summoning"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

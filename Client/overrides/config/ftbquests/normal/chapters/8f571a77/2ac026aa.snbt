@@ -7,14 +7,14 @@
 		uid: "10692eac",
 		type: "item",
 		items: [{
+			id: "ebwizardry:arcane_tome",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -8851329178942211897L,
-					AS_Amulet_HolderMost: 867781763579201090L
+					AS_Amulet_HolderMost: 867781763579201090L,
+					AS_Amulet_HolderLeast: -8851329178942211897L
 				}
-			},
-			id: "ebwizardry:arcane_tome",
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

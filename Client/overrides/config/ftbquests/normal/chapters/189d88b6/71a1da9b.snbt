@@ -24,14 +24,14 @@
 		uid: "aff665a2",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "openblocks:pencil_glasses",
 			tag: {
 				display: {
 					Name: "Cheap Knockoff Sunglasses"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},

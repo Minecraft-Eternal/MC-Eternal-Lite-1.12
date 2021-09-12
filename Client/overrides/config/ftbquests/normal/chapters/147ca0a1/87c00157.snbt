@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "atum:ras_fury",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "atum:ras_fury"
+		}
 	},
 	x: 0.0d,
 	y: -2.0d,

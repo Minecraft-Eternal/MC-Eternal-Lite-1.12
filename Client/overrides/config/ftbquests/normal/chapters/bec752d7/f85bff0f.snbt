@@ -8,10 +8,10 @@
 		uid: "63ce648d",
 		type: "item",
 		items: [{
+			id: "ebwizardry:ethereal_crystalweave",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ethereal_crystalweave"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

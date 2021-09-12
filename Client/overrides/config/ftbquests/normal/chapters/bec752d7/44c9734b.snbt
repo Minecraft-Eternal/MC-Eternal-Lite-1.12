@@ -8,10 +8,10 @@
 		uid: "a3aadba6",
 		type: "item",
 		items: [{
+			id: "totemic:jingle_dress",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "totemic:jingle_dress"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -11,13 +11,13 @@
 		type: "item",
 		title: "Any ingotThorium",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "ingotThorium",
-					id: "ore"
+					id: "ore",
+					data: "ingotThorium"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 32L
 	},
@@ -34,13 +34,13 @@
 		type: "item",
 		title: "Any ingotUranium",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "ingotUranium",
-					id: "ore"
+					id: "ore",
+					data: "ingotUranium"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 32L
 	}],

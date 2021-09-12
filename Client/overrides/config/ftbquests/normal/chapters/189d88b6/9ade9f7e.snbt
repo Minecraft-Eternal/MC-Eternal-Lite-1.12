@@ -1,13 +1,16 @@
 {
 	title: "Basic Automated Mob Farm",
 	icon: "iceandfire:dread_key",
-	x: -10.0d,
-	y: -10.0d,
+	x: -9.45d,
+	y: -9.45d,
 	shape: "hexagon",
 	description: "&cIt was a graveyard smash!",
+	hide_dependency_lines: true,
 	dependencies: [
+		"5eed1197",
 		"3b41a4ca"
 	],
+	size: 0.9d,
 	tasks: [{
 		uid: "edf10fd6",
 		type: "item",
@@ -21,13 +24,13 @@
 		type: "item",
 		title: "Any boneWithered",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "boneWithered",
-					id: "ore"
+					id: "ore",
+					data: "boneWithered"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}]
 	},
 	{

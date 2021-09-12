@@ -8,14 +8,14 @@
 		uid: "71deec6c",
 		type: "item",
 		items: [{
+			id: "immersiveengineering:chemthrower",
 			ForgeCaps: {
 				Parent: {
-					Size: 1,
-					Items: []
+					Items: [],
+					Size: 1
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "immersiveengineering:chemthrower"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

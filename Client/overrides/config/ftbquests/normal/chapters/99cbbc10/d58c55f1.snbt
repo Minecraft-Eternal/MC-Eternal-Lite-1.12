@@ -9,10 +9,10 @@
 		uid: "0e552e89",
 		type: "item",
 		items: [{
+			id: "enderio:item_ender_food",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "enderio:item_ender_food"
+			}
 		}],
 		ignore_nbt: 1b
 	}],

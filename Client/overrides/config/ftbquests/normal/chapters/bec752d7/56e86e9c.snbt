@@ -10,52 +10,52 @@
 		uid: "579eeb0f",
 		type: "item",
 		items: [{
+			id: "ebwizardry:master_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_wand"
+			}
 		},
 		{
+			id: "ebwizardry:master_fire_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_fire_wand"
+			}
 		},
 		{
+			id: "ebwizardry:master_ice_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_ice_wand"
+			}
 		},
 		{
+			id: "ebwizardry:master_lightning_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_lightning_wand"
+			}
 		},
 		{
+			id: "ebwizardry:master_necromancy_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_necromancy_wand"
+			}
 		},
 		{
+			id: "ebwizardry:master_earth_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_earth_wand"
+			}
 		},
 		{
+			id: "ebwizardry:master_sorcery_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_sorcery_wand"
+			}
 		},
 		{
+			id: "ebwizardry:master_healing_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_healing_wand"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

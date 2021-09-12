@@ -9,10 +9,10 @@
 		uid: "70ef0ce1",
 		type: "item",
 		items: [{
+			id: "bewitchment:witches_cowl",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:witches_cowl"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,10 +21,10 @@
 		uid: "ff29a753",
 		type: "item",
 		items: [{
+			id: "bewitchment:witches_robes",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:witches_robes"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -33,10 +33,10 @@
 		uid: "b6552a2c",
 		type: "item",
 		items: [{
+			id: "bewitchment:witches_pants",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:witches_pants"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

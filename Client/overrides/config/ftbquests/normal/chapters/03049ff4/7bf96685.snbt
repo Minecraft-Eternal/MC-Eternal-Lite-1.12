@@ -18,10 +18,10 @@
 		uid: "b8150626",
 		type: "item",
 		item: {
+			id: "dungeontactics:peg_hammer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dungeontactics:peg_hammer"
+			}
 		}
 	},
 	{

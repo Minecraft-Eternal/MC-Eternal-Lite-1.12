@@ -1,6 +1,6 @@
 {
-	x: -9.0d,
-	y: -10.0d,
+	x: -12.5d,
+	y: -9.5d,
 	dependencies: [
 		"0647fe18"
 	],
@@ -8,10 +8,10 @@
 		uid: "188a9983",
 		type: "item",
 		items: [{
+			id: "twilightforest:shield_scepter",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:shield_scepter"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

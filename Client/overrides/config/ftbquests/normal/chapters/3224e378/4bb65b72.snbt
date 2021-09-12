@@ -8,10 +8,10 @@
 		uid: "f0fdea0d",
 		type: "kill",
 		icon: {
+			id: "erebus:spider_t_shirt",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:spider_t_shirt"
+			}
 		},
 		entity: "erebus:erebus.tarantula_mini_boss",
 		value: 1L

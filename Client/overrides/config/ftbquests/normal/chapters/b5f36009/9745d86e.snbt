@@ -8,11 +8,11 @@
 		uid: "cc588b10",
 		type: "item",
 		items: [{
+			id: "theaurorian:locator",
+			tag: {},
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:locator",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

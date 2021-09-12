@@ -14,9 +14,6 @@
 		uid: "d9191393",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:scythe",
 			tag: {
 				StatsOriginal: {
@@ -66,6 +63,9 @@
 					"ratty",
 					"tasty"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -73,10 +73,10 @@
 		uid: "7cf5f44c",
 		type: "item",
 		item: {
+			id: "rats:rat_arrow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_arrow"
+			}
 		}
 	},
 	{

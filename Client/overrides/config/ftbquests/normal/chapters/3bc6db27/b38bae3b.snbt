@@ -9,14 +9,14 @@
 		uid: "f5c224c0",
 		type: "item",
 		items: [{
+			id: "immersiveengineering:railgun",
 			ForgeCaps: {
 				Parent: {
-					Size: 1,
-					Items: []
+					Items: [],
+					Size: 1
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "immersiveengineering:railgun"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

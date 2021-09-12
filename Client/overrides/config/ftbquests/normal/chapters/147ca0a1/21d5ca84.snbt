@@ -11,10 +11,10 @@
 		type: "kill",
 		title: "Pharaoh Slayer",
 		icon: {
+			id: "atum:body_of_atum",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:body_of_atum"
+			}
 		},
 		entity: "atum:pharaoh",
 		value: 15L

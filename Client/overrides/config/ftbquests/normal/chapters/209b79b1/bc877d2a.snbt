@@ -15,10 +15,10 @@
 		type: "kill",
 		title: "Bounty: Cyclops",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "iceandfire:cyclops",
 		value: 1L

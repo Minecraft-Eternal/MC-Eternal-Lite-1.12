@@ -15,10 +15,10 @@
 		type: "kill",
 		title: "Bounty: Death Worm",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "iceandfire:deathworm",
 		value: 1L
@@ -42,21 +42,21 @@
 		uid: "1c15db24",
 		type: "item",
 		item: {
+			id: "iceandfire:iceandfire.deathworm_egg",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:iceandfire.deathworm_egg",
-			Damage: 1s
+			}
 		}
 	},
 	{
 		uid: "6e32f98d",
 		type: "item",
 		item: {
+			id: "iceandfire:deathworm_white_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:deathworm_white_chestplate"
+			}
 		}
 	}]
 }

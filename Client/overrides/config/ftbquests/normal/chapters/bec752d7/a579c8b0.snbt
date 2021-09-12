@@ -24,10 +24,10 @@
 		uid: "54953063",
 		type: "item",
 		items: [{
+			id: "vampirism:blood_container",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "vampirism:blood_container"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

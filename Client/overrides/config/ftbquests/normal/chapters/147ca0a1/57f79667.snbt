@@ -11,10 +11,10 @@
 		uid: "70f20dae",
 		type: "item",
 		items: [{
+			id: "atum:camel_iron_armor",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:camel_iron_armor"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

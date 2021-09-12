@@ -29,9 +29,6 @@
 		uid: "7c998f64",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "dungeontactics:wooden_battleaxe",
 			tag: {
 				ench: [{
@@ -48,6 +45,9 @@
 					],
 					Name: "The Mad Batter"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

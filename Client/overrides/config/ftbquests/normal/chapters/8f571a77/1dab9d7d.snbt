@@ -6,10 +6,10 @@
 		uid: "8d98d28b",
 		type: "item",
 		items: [{
+			id: "twilightforest:glass_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:glass_sword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

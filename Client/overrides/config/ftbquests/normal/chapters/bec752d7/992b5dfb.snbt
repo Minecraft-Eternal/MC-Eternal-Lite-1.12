@@ -9,10 +9,10 @@
 		uid: "4be2df81",
 		type: "item",
 		items: [{
+			id: "ebwizardry:master_healing_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_healing_wand"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,20 +21,20 @@
 		uid: "b711925e",
 		type: "item",
 		item: {
+			id: "ebwizardry:ring_paladin",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ring_paladin"
+			}
 		}
 	},
 	{
 		uid: "18876281",
 		type: "item",
 		item: {
+			id: "ebwizardry:amulet_transience",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:amulet_transience"
+			}
 		}
 	},
 	{

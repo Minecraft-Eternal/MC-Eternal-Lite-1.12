@@ -8,12 +8,12 @@
 		uid: "ab6dbfe2",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "patchouli:guide_book",
 			tag: {
 				"patchouli:book": "bewitchment:book_of_shadows"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

@@ -8,10 +8,10 @@
 		uid: "8523417c",
 		type: "item",
 		items: [{
+			id: "mekanism:electricbow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mekanism:electricbow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -7,28 +7,28 @@
 		type: "item",
 		title: "Witch's Broom",
 		items: [{
+			id: "bewitchment:cypress_broom",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:cypress_broom"
+			}
 		},
 		{
+			id: "bewitchment:elder_broom",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:elder_broom"
+			}
 		},
 		{
+			id: "bewitchment:juniper_broom",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:juniper_broom"
+			}
 		},
 		{
+			id: "bewitchment:dragons_blood_broom",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:dragons_blood_broom"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

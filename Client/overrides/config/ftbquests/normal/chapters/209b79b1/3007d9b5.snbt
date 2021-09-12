@@ -5,13 +5,13 @@
 		uid: "52e48e81",
 		type: "item",
 		items: [{
+			id: "treasure2:wither_key",
 			ForgeCaps: {
 				Parent: {
 					effectiveMaxDamage: 5
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "treasure2:wither_key"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

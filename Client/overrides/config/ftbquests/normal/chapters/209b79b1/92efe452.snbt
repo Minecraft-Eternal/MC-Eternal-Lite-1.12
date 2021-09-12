@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "twilightforest:knightmetal_sword",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "twilightforest:knightmetal_sword"
+		}
 	},
 	x: -3.5d,
 	y: -6.5d,
@@ -22,10 +22,10 @@
 		type: "kill",
 		title: "Bounty: Cockatrice",
 		icon: {
+			id: "iceandfire:cockatrice_skull",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:cockatrice_skull"
+			}
 		},
 		entity: "iceandfire:if_cockatrice",
 		value: 1L

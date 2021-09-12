@@ -1,10 +1,10 @@
 {
 	title: "&1&lDragon Slayer",
 	icon: {
+		id: "iceandfire:dragonbone_sword_ice",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "iceandfire:dragonbone_sword_ice"
+		}
 	},
 	x: 2.0d,
 	y: 2.0d,
@@ -17,10 +17,10 @@
 		type: "kill",
 		title: "Dragon Slayer",
 		icon: {
+			id: "iceandfire:dragonbone_sword_ice",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonbone_sword_ice"
+			}
 		},
 		entity: "iceandfire:icedragon",
 		value: 100L

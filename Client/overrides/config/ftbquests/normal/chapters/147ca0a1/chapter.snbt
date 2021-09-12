@@ -1,10 +1,10 @@
 {
 	title: "&9Atum",
 	icon: {
+		id: "atum:iron_greatsword",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "atum:iron_greatsword"
+		}
 	},
 	always_invisible: false,
 	group: -1833823779,

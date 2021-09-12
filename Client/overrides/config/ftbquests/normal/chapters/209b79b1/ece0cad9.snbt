@@ -5,10 +5,10 @@
 		uid: "919ffd2f",
 		type: "item",
 		items: [{
+			id: "extrautils2:goldenlasso",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "extrautils2:goldenlasso"
+			}
 		}],
 		ignore_nbt: 1b
 	}],

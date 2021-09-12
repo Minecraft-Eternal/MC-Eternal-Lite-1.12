@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Ciuperca",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "mod_lavacow:zombiemushroom",
 		value: 1L
@@ -45,14 +45,14 @@
 		uid: "e0eba2bf",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "stupidthings:paper_bag_hat",
 			tag: {
 				display: {
 					Name: "Bounty Hunter Mask"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

@@ -8,10 +8,10 @@
 		uid: "97e8549c",
 		type: "item",
 		items: [{
+			id: "midnight:tenebrum_helmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "midnight:tenebrum_helmet"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -20,10 +20,10 @@
 		uid: "c3a3683a",
 		type: "item",
 		items: [{
+			id: "midnight:tenebrum_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "midnight:tenebrum_chestplate"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -32,10 +32,10 @@
 		uid: "f3fef4c9",
 		type: "item",
 		items: [{
+			id: "midnight:tenebrum_leggings",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "midnight:tenebrum_leggings"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -44,10 +44,10 @@
 		uid: "8e2b9369",
 		type: "item",
 		items: [{
+			id: "midnight:tenebrum_boots",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "midnight:tenebrum_boots"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -56,10 +56,10 @@
 		uid: "e2dcbc6e",
 		type: "item",
 		items: [{
+			id: "midnight:tenebrum_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "midnight:tenebrum_sword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

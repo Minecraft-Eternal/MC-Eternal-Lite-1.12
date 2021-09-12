@@ -10,10 +10,10 @@
 		uid: "cff2e5f4",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:faminearmor_helmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:faminearmor_helmet"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -22,13 +22,13 @@
 		uid: "72491d4a",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:faminearmor_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -5863096196267452682L,
-					AS_Amulet_HolderMost: -2754331757198947019L
+					AS_Amulet_HolderMost: -2754331757198947019L,
+					AS_Amulet_HolderLeast: -5863096196267452682L
 				}
-			},
-			id: "mod_lavacow:faminearmor_chestplate"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -37,10 +37,10 @@
 		uid: "4e4d5ee4",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:faminearmor_leggings",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:faminearmor_leggings"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -49,10 +49,10 @@
 		uid: "c6f049b1",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:faminearmor_boots",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:faminearmor_boots"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -76,10 +76,10 @@
 		uid: "7e788d73",
 		type: "item",
 		item: {
+			id: "mod_lavacow:famine",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:famine"
+			}
 		}
 	}]
 }

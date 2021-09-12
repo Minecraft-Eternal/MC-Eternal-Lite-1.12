@@ -6,10 +6,10 @@
 		uid: "14da1060",
 		type: "item",
 		items: [{
+			id: "mysticalagriculture:infusion_crystal",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mysticalagriculture:infusion_crystal"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

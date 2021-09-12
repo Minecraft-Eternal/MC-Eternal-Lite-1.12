@@ -5,10 +5,10 @@
 		uid: "2536511b",
 		type: "item",
 		items: [{
+			id: "extrautils2:wateringcan",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "extrautils2:wateringcan"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -2,7 +2,7 @@
 	x: 3.0d,
 	y: 7.0d,
 	shape: "octagon",
-	description: "Putting the \"Power\" in Power Armor",
+	description: "Arcane Technology required for the recipe is dropped by the &6Ratlantean Automaton&7, check &d&lDimensions&7 for more info.",
 	dependencies: [
 		"1778f61e"
 	],

@@ -8,9 +8,6 @@
 		uid: "b87da852",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "industrialforegoing:infinity_drill",
 			tag: {
 				Energy: 0L,
@@ -20,6 +17,9 @@
 				},
 				Special: 0b,
 				Selected: "POOR"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

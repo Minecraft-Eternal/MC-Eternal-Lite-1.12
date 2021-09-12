@@ -1,10 +1,10 @@
 {
 	title: "&8Primordium",
 	icon: {
+		id: "iceandfire:dread_knight_sword",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "iceandfire:dread_knight_sword"
+		}
 	},
 	description: [
 		"&8Coming Soon!"

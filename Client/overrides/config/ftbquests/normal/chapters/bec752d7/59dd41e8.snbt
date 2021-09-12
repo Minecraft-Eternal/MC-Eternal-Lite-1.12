@@ -1,11 +1,11 @@
 {
-	x: 19.0d,
-	y: 3.0d,
+	title: "Terraforged",
+	icon: "botania:terraplate",
+	x: 15.0d,
+	y: -6.0d,
+	description: "A critical device in Botania's progression, it's used to forge Terrasteel, one of the most costly items in the mod. *Read the Lexica Botania for more Info, including how to supply Mana to it quickly enough*",
 	dependencies: [
-		"bdd030a0",
-		"adaf9aa1",
-		"5bec4b12",
-		"c1e5d352"
+		"42aae76f"
 	],
 	tasks: [{
 		uid: "1e600cd2",
@@ -13,6 +13,22 @@
 		items: [{
 			item: "botania:terraplate"
 		}]
+	},
+	{
+		uid: "fdd7236f",
+		type: "item",
+		items: [{
+			item: "minecraft:lapis_block"
+		}],
+		count: 4L
+	},
+	{
+		uid: "b13384ae",
+		type: "item",
+		items: [{
+			item: "botania:livingrock"
+		}],
+		count: 5L
 	}],
 	rewards: [{
 		uid: "d5c80328",

@@ -1,6 +1,6 @@
 {
-	x: -11.0d,
-	y: -21.5d,
+	x: -5.0d,
+	y: -13.5d,
 	dependencies: [
 		"eaed8a89"
 	],
@@ -8,10 +8,10 @@
 		uid: "e8bd887f",
 		type: "item",
 		items: [{
+			id: "twilightforest:triple_bow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:triple_bow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

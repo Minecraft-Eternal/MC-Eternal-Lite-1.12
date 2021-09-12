@@ -1,5 +1,5 @@
 {
-	title: "§5Extraterrestrial Cache",
+	title: "&5Extraterrestrial Cache",
 	icon: "extrautils2:ingredients 1 5",
 	loot_size: 1,
 	rewards: [{
@@ -19,9 +19,6 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mod_lavacow:undertaker_shovel",
 			tag: {
 				ench: [{
@@ -45,14 +42,14 @@
 					Operation: 0,
 					Name: "Sorrow"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "dungeontactics:golden_knife",
 			tag: {
 				display: {
@@ -71,15 +68,15 @@
 					Operation: 0,
 					Name: "generic.attackDamage"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 16
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:glass_sword",
 			tag: {
 				ench: [{
@@ -102,14 +99,14 @@
 					],
 					Name: "§9Frozen Blade §rof the §4Unholy Prince"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "dungeontactics:pirate_hook",
 			tag: {
 				display: {
@@ -128,15 +125,15 @@
 					Operation: 0,
 					Name: "generic.attackDamage"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 16
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "rats:pirat_cutlass",
 			tag: {
 				display: {
@@ -155,15 +152,15 @@
 					Operation: 0,
 					Name: "generic.attackDamage"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 16
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "rats:plague_doctor_mask",
 			tag: {
 				display: {
@@ -192,14 +189,14 @@
 					Operation: 0,
 					Name: "Sorrow"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "minecraft:writable_book",
 			tag: {
 				pages: [
@@ -211,6 +208,9 @@
 				display: {
 					Name: "�6Economy Ticket to Primordium"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -236,55 +236,55 @@
 	},
 	{
 		item: {
+			id: "advancedrocketry:spacehelmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:spacehelmet"
+			}
 		},
 		weight: 14
 	},
 	{
 		item: {
+			id: "advancedrocketry:spacechestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:spacechestplate"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "advancedrocketry:spaceleggings",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:spaceleggings"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "advancedrocketry:spaceboots",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:spaceboots"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "advancedrocketry:basiclasergun",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:basiclasergun"
+			}
 		},
 		weight: 8
 	},
 	{
 		item: {
+			id: "advancedrocketry:hovercraft",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:hovercraft"
+			}
 		}
 	},
 	{
@@ -293,21 +293,21 @@
 	},
 	{
 		item: {
+			id: "advancedrocketry:pressuretank",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:pressuretank",
-			Damage: 1s
+			}
 		},
 		weight: 12
 	},
 	{
 		item: {
+			id: "advancedrocketry:itemupgrade",
+			Damage: 2s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:itemupgrade",
-			Damage: 2s
+			}
 		},
 		weight: 9
 	},
@@ -317,10 +317,10 @@
 	},
 	{
 		item: {
+			id: "advancedrocketry:jackhammer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:jackhammer"
+			}
 		},
 		weight: 9
 	},
@@ -397,10 +397,10 @@
 	},
 	{
 		item: {
+			id: "advancedrocketry:sealdetector",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:sealdetector"
+			}
 		},
 		weight: 9
 	},
@@ -469,14 +469,11 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:giant_sword",
 			tag: {
 				ench: [{
 					lvl: 8,
-					id: 29
+					id: 25
 				},
 				{
 					lvl: 19,
@@ -484,7 +481,7 @@
 				},
 				{
 					lvl: 8,
-					id: 27
+					id: 23
 				}],
 				Unbreakable: 1,
 				display: {
@@ -494,14 +491,14 @@
 					],
 					Name: "§3Giant's Bane"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "iceandfire:dragonbone_sword",
 			tag: {
 				ench: [{
@@ -514,7 +511,7 @@
 				},
 				{
 					lvl: 8,
-					id: 43
+					id: 39
 				}],
 				Unbreakable: 1,
 				display: {
@@ -524,14 +521,14 @@
 					],
 					Name: "§6§lMoon King"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "iceandfire:dread_queen_sword",
 			tag: {
 				display: {
@@ -541,14 +538,14 @@
 					],
 					Name: "§r§lBlade of the Dreaded Queen"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "dungeontactics:high_striker",
 			tag: {
 				ench: [{
@@ -597,14 +594,14 @@
 					Operation: 0,
 					Name: "generic.maxHealth"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "iceandfire:armor_silver_metal_helmet",
 			tag: {
 				ench: [{
@@ -647,6 +644,9 @@
 					Operation: 0,
 					Name: "generic.armor"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -707,9 +707,6 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "iceandfire:hippogryph_sword",
 			tag: {
 				ench: [{
@@ -740,6 +737,9 @@
 					Operation: 0,
 					Name: "Sorrow"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -753,46 +753,46 @@
 	},
 	{
 		item: {
+			id: "erebus:rhino_exoskeleton_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:rhino_exoskeleton_chestplate"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "erebus:rhino_exoskeleton_helmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:rhino_exoskeleton_helmet"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "erebus:max_speed_bow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:max_speed_bow"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "erebus:web_slinger_wither",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:web_slinger_wither"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "erebus:wand_of_preservation",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:wand_of_preservation"
+			}
 		},
 		weight: 9
 	},
@@ -806,10 +806,10 @@
 	},
 	{
 		item: {
+			id: "erebus:mushroom_helmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:mushroom_helmet"
+			}
 		},
 		weight: 9
 	},
@@ -819,73 +819,73 @@
 	},
 	{
 		item: {
+			id: "erebus:glider_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:glider_chestplate"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "erebus:horn_of_summoning",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:horn_of_summoning"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "erebus:war_hammer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:war_hammer"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "erebus:enhanced_scorpion_pincer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:enhanced_scorpion_pincer"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "theaurorian:absorptionorb",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:absorptionorb"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "theaurorian:aurorianitesword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:aurorianitesword"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "theaurorian:ceruleanchestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:ceruleanchestplate"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "theaurorian:aurorianstonesword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:aurorianstonesword"
+			}
 		},
 		weight: 9
 	},
@@ -901,10 +901,10 @@
 	},
 	{
 		item: {
+			id: "theaurorian:umbrashield",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:umbrashield"
+			}
 		},
 		weight: 9
 	},
@@ -915,110 +915,110 @@
 	},
 	{
 		item: {
+			id: "theaurorian:livingdiviningrod",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:livingdiviningrod"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "theaurorian:locator",
-			tag: {}
+			tag: {},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "theaurorian:moonstoneaxe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:moonstoneaxe"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "atum:dagger_poison",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:dagger_poison"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "atum:ptahs_decadence",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:ptahs_decadence"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "atum:anubiss_wrath",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:anubiss_wrath"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "atum:ptahs_undoing",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:ptahs_undoing"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "atum:anputs_hunger",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:anputs_hunger"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "atum:horuss_soaring",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:horuss_soaring"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "atum:halo_of_ra",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:halo_of_ra"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "atum:gebs_might",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:gebs_might"
+			}
 		},
 		weight: 9
 	},
 	{
 		item: {
+			id: "atum:montus_blast",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:montus_blast"
+			}
 		},
 		weight: 9
 	}],
@@ -1027,9 +1027,9 @@
 		color: 15193,
 		glow: true,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "twilightforest:fiery_pickaxe",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "twilightforest:fiery_pickaxe"
+		}
 	},
 	x: -12.5d,
 	y: 0.0d,
@@ -12,10 +12,10 @@
 		uid: "673eae9d",
 		type: "kill",
 		icon: {
+			id: "twilightforest:giant_pickaxe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:giant_pickaxe"
+			}
 		},
 		entity: "twilightforest:giant_miner",
 		value: 1L

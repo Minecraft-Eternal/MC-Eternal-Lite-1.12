@@ -4,20 +4,20 @@
 	hide_tooltip: true,
 	rewards: [{
 		item: {
+			id: "extrautils2:angelring",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "extrautils2:angelring",
-			Damage: 1s
+			}
 		}
 	},
 	{
 		item: {
+			id: "extrautils2:angelring",
+			Damage: 2s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "extrautils2:angelring",
-			Damage: 2s
+			}
 		}
 	},
 	{
@@ -28,23 +28,23 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalinnovation:drill",
+			Damage: 32000s,
 			tag: {
 				Energy: 600000,
 				Mode: 4
 			},
-			Damage: 32000s
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}
 	},
 	{
 		item: {
+			id: "wct:wct_creative",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "wct:wct_creative"
+			}
 		}
 	},
 	{
@@ -55,9 +55,6 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:shuriken",
 			tag: {
 				StatsOriginal: {
@@ -116,6 +113,9 @@
 					"psieater",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -137,9 +137,6 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:frypan",
 			tag: {
 				StatsOriginal: {
@@ -193,6 +190,9 @@
 					"energyeater",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -212,18 +212,18 @@
 	},
 	{
 		item: {
+			id: "rats:rat_upgrade_combined_creative",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_combined_creative"
+			}
 		}
 	},
 	{
 		item: {
+			id: "iceandfire:dread_queen_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dread_queen_sword"
+			}
 		}
 	},
 	{
@@ -241,9 +241,9 @@
 		color: 16710871,
 		glow: true,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

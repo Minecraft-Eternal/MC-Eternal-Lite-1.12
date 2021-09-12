@@ -11,52 +11,52 @@
 		type: "item",
 		title: "Advanced Wand",
 		items: [{
+			id: "ebwizardry:advanced_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:advanced_wand"
+			}
 		},
 		{
+			id: "ebwizardry:advanced_fire_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:advanced_fire_wand"
+			}
 		},
 		{
+			id: "ebwizardry:advanced_ice_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:advanced_ice_wand"
+			}
 		},
 		{
+			id: "ebwizardry:advanced_lightning_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:advanced_lightning_wand"
+			}
 		},
 		{
+			id: "ebwizardry:advanced_necromancy_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:advanced_necromancy_wand"
+			}
 		},
 		{
+			id: "ebwizardry:advanced_sorcery_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:advanced_sorcery_wand"
+			}
 		},
 		{
+			id: "ebwizardry:advanced_earth_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:advanced_earth_wand"
+			}
 		},
 		{
+			id: "ebwizardry:advanced_healing_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:advanced_healing_wand"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

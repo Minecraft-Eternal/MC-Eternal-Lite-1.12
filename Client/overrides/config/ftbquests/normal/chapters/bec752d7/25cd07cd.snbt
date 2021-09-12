@@ -36,10 +36,10 @@
 		uid: "40e985fe",
 		type: "item",
 		item: {
+			id: "tfspellpack:amulet_steeleaf",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tfspellpack:amulet_steeleaf"
+			}
 		}
 	}]
 }

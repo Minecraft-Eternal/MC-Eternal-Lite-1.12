@@ -9,10 +9,10 @@
 		uid: "cba9f48e",
 		type: "item",
 		items: [{
+			id: "theaurorian:auroriansteelchestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:auroriansteelchestplate"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

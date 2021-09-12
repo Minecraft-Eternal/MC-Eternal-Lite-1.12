@@ -8,11 +8,11 @@
 		uid: "54bb8cd9",
 		type: "item",
 		items: [{
+			id: "mekanism:machineblock",
+			Damage: 4s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mekanism:machineblock",
-			Damage: 4s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

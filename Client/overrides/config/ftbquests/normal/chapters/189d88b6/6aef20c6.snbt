@@ -4,17 +4,19 @@
 	y: -11.5d,
 	shape: "diamond",
 	description: "&oPortable pocket dimension localized entirely within your pocket?",
+	hide_dependency_lines: true,
 	dependencies: [
+		"5eed1197",
 		"3b41a4ca"
 	],
 	tasks: [{
 		uid: "48696d7b",
 		type: "item",
 		items: [{
+			id: "randomthings:spectrekey",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "randomthings:spectrekey"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

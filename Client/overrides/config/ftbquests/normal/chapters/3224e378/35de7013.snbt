@@ -6,10 +6,10 @@
 		type: "kill",
 		title: "&6&lBounty: Bombardier Beetle",
 		icon: {
+			id: "erebus:wasp_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:wasp_sword"
+			}
 		},
 		entity: "erebus:erebus.bombardier_beetle",
 		value: 25L

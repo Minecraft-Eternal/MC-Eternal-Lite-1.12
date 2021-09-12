@@ -16,10 +16,10 @@
 		uid: "38551f73",
 		type: "item",
 		item: {
+			id: "iceandfire:dread_queen_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dread_queen_sword"
+			}
 		}
 	}]
 }

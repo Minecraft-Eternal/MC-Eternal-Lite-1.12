@@ -17,14 +17,14 @@
 		uid: "6a0eb912",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mysticalagriculture:supremium_fishing_rod",
 			tag: {
 				display: {
 					Name: "Nat Pagle's Extreme Angler FC-5000"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},

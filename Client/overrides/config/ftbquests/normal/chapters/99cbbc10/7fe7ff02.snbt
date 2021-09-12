@@ -21,13 +21,13 @@
 		type: "item",
 		title: "Any ratTube",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "ratTube",
-					id: "ore"
+					id: "ore",
+					data: "ratTube"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 4L
 	},
@@ -36,13 +36,13 @@
 		type: "item",
 		title: "Any ratHammock",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "ratHammock",
-					id: "ore"
+					id: "ore",
+					data: "ratHammock"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}]
 	},
 	{

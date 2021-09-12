@@ -7,11 +7,11 @@
 		uid: "9d59dc86",
 		type: "item",
 		items: [{
+			id: "ebwizardry:arcane_tome",
+			Damage: 2s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:arcane_tome",
-			Damage: 2s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

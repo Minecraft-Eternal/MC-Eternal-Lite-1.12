@@ -11,10 +11,10 @@
 		type: "kill",
 		title: "Murder 50 Innocent Citizens",
 		icon: {
+			id: "thermalfoundation:diagram_redprint",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thermalfoundation:diagram_redprint"
+			}
 		},
 		entity: "minecolonies:citizen",
 		value: 50L

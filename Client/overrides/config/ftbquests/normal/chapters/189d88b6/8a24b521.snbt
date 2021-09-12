@@ -11,13 +11,13 @@
 		type: "item",
 		title: "Any ingotSteel",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "ingotSteel",
-					id: "ore"
+					id: "ore",
+					data: "ingotSteel"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 32L
 	},
@@ -26,13 +26,13 @@
 		type: "item",
 		title: "Any ingotBronze",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "ingotBronze",
-					id: "ore"
+					id: "ore",
+					data: "ingotBronze"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 32L
 	},

@@ -22,10 +22,10 @@
 		uid: "6c328c7a",
 		type: "item",
 		item: {
+			id: "guideapi:vampirism-guide",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "guideapi:vampirism-guide"
+			}
 		}
 	},
 	{

@@ -8,10 +8,10 @@
 		uid: "8c31299a",
 		type: "item",
 		items: [{
+			id: "erebus:war_hammer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:war_hammer"
+			}
 		}]
 	}],
 	rewards: [{

@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Illusioner",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "minecraft:illusion_illager",
 		value: 1L
@@ -34,10 +34,10 @@
 		uid: "323407af",
 		type: "item",
 		item: {
+			id: "charm:cake_invisibility",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "charm:cake_invisibility"
+			}
 		}
 	}]
 }

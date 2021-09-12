@@ -1,10 +1,10 @@
 {
 	title: "Almost ready for the beach!",
 	icon: {
+		id: "inventorypets:sun_pet",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "inventorypets:sun_pet"
+		}
 	},
 	x: 14.5d,
 	y: 9.0d,
@@ -19,10 +19,10 @@
 		uid: "ecd1e62b",
 		type: "kill",
 		icon: {
+			id: "bewitchment:vampiric_amulet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:vampiric_amulet"
+			}
 		},
 		entity: "vampirism:vampire_baron",
 		value: 5L
@@ -31,9 +31,6 @@
 		uid: "21721de6",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "vampirism:hunter_axe",
 			tag: {
 				ench: [{
@@ -41,6 +38,9 @@
 					id: 19s
 				}],
 				tier: "ENHANCED"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		entity: "vampirism:vampire_hunter",
@@ -50,11 +50,11 @@
 		uid: "10524213",
 		type: "item",
 		item: {
+			id: "vampirism:vampire_cloak",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "vampirism:vampire_cloak",
-			Damage: 1s
+			}
 		}
 	},
 	{

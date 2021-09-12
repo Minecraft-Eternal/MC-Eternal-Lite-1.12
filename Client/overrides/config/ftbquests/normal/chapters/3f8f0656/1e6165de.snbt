@@ -8,15 +8,14 @@
 		uid: "045a9248",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mekanism:energycube",
 			tag: {
 				tier: 2
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
-		ignore_damage: true,
 		ignore_nbt: 2b
 	}],
 	rewards: [{

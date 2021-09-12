@@ -11,10 +11,10 @@
 		type: "advancement",
 		title: "Become a Vampire",
 		icon: {
+			id: "bewitchment:poppet_vampiric",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:poppet_vampiric"
+			}
 		},
 		advancement: "vampirism:vampire/become_vampire",
 		criterion: ""

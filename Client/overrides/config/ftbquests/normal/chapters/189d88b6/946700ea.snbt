@@ -9,10 +9,10 @@
 		uid: "d3d13169",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:reapers_scythe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:reapers_scythe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

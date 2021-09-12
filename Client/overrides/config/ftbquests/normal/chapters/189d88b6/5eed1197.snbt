@@ -16,9 +16,6 @@
 		uid: "a9a98dc6",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forge:bucketfilled",
 			tag: {
 				FluidName: "sewage",
@@ -26,6 +23,9 @@
 				display: {
 					Name: "Copy of contract "
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},

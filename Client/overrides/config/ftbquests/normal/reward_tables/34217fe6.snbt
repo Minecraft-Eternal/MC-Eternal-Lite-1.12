@@ -4,14 +4,14 @@
 	loot_size: 34,
 	rewards: [{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalfoundation:tool.bow_copper",
 			tag: {
 				display: {
 					Name: "Adventurers Bow"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		only_one: true
@@ -23,42 +23,42 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalfoundation:tool.shield_copper",
 			tag: {
 				display: {
 					Name: "Adventurers Shield"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		only_one: true
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalfoundation:armor.plate_copper",
 			tag: {
 				display: {
 					Name: "Adventurers Chestplate"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		only_one: true
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalfoundation:armor.legs_copper",
 			tag: {
 				display: {
 					Name: "Adventurers Leggings"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		only_one: true
@@ -88,25 +88,25 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "bewitchment:cold_iron_sword",
 			tag: {
 				display: {
 					Name: "Blade Of The Avid Adventurer"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		only_one: true
 	},
 	{
 		item: {
+			id: "tconstruct:slimesling",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tconstruct:slimesling",
-			Damage: 1s
+			}
 		},
 		only_one: true
 	}],
@@ -115,9 +115,9 @@
 		color: 16713530,
 		glow: true,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

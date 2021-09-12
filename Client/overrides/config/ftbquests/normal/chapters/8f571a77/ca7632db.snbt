@@ -14,28 +14,28 @@
 		type: "item",
 		title: "§bAny of Atum's tools",
 		items: [{
+			id: "atum:atums_will",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:atums_will"
+			}
 		},
 		{
+			id: "atum:atums_protection",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:atums_protection"
+			}
 		},
 		{
+			id: "atum:atums_bounty",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:atums_bounty"
+			}
 		},
 		{
+			id: "atum:atums_homecoming",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:atums_homecoming"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "dungeontactics:charm_darkened",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "dungeontactics:charm_darkened"
+		}
 	},
 	x: -20.0d,
 	y: -3.0d,
@@ -24,13 +24,13 @@
 		type: "item",
 		item: {
 			id: "enderio:item_soul_vial",
+			Damage: 1s,
 			tag: {
 				display: {
 					Name: "Personal Bodyguard"
 				},
 				entityId: "minecraft:villager_golem"
-			},
-			Damage: 1s
+			}
 		}
 	},
 	{

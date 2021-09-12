@@ -11,10 +11,10 @@
 		uid: "202dac90",
 		type: "kill",
 		icon: {
+			id: "mowziesmobs:wrought_helmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mowziesmobs:wrought_helmet"
+			}
 		},
 		entity: "mowziesmobs:ferrous_wroughtnaut",
 		value: 1L

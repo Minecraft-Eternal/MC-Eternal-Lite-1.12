@@ -8,10 +8,10 @@
 		uid: "2bb2fb0a",
 		type: "item",
 		items: [{
+			id: "mekanism:freerunners",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mekanism:freerunners"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

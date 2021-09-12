@@ -8,10 +8,10 @@
 		uid: "083373ec",
 		type: "item",
 		items: [{
+			id: "thermalfoundation:tool.fishing_rod_platinum",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thermalfoundation:tool.fishing_rod_platinum"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

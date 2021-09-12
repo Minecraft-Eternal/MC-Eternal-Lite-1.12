@@ -8,10 +8,10 @@
 		uid: "0966bc7a",
 		type: "item",
 		items: [{
+			id: "vampirism:basic_double_crossbow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "vampirism:basic_double_crossbow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

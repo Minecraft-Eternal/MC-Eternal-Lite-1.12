@@ -5,13 +5,13 @@
 		uid: "d1e8d380",
 		type: "item",
 		items: [{
+			id: "treasure2:metallurgists_key",
 			ForgeCaps: {
 				Parent: {
 					effectiveMaxDamage: 25
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "treasure2:metallurgists_key"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

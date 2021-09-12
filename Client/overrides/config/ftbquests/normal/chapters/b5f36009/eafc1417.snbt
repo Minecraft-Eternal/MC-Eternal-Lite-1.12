@@ -8,10 +8,10 @@
 		uid: "c4776f8d",
 		type: "item",
 		items: [{
+			id: "theaurorian:livingdiviningrod",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:livingdiviningrod"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

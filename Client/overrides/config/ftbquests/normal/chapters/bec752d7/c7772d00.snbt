@@ -16,10 +16,10 @@
 		uid: "06c2d691",
 		type: "item",
 		item: {
+			id: "tfspellpack:charm_goblin",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tfspellpack:charm_goblin"
+			}
 		}
 	},
 	{
@@ -31,10 +31,10 @@
 		uid: "d0a150ca",
 		type: "item",
 		item: {
+			id: "twilightforest:shield_scepter",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:shield_scepter"
+			}
 		}
 	}]
 }

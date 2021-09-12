@@ -1,10 +1,10 @@
 {
 	icon: {
 		id: "openblocks:trophy",
+		Damage: 36s,
 		tag: {
 			entity_id: "minecraft:elder_guardian"
-		},
-		Damage: 36s
+		}
 	},
 	x: -8.0d,
 	y: -4.0d,

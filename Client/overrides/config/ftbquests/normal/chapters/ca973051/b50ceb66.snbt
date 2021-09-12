@@ -1,6 +1,6 @@
 {
-	x: -9.0d,
-	y: -8.0d,
+	x: -12.0d,
+	y: -8.5d,
 	dependencies: [
 		"0647fe18"
 	],
@@ -8,10 +8,10 @@
 		uid: "301d53a7",
 		type: "item",
 		items: [{
+			id: "twilightforest:zombie_scepter",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:zombie_scepter"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

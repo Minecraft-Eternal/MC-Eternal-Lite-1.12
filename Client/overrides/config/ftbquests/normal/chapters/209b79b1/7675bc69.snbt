@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Armored Giant",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "twilightforest:armored_giant",
 		value: 1L
@@ -39,10 +39,10 @@
 		uid: "c1b6577e",
 		type: "item",
 		item: {
+			id: "twilightforest:giant_pickaxe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:giant_pickaxe"
+			}
 		}
 	}]
 }

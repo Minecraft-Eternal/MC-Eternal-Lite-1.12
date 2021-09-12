@@ -16,12 +16,12 @@
 		uid: "abe105a2",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "vampirism:holy_water_splash_bottle",
 			tag: {
 				tier: "ULTIMATE"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},

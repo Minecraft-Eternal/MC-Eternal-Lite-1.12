@@ -9,10 +9,10 @@
 		uid: "3ec8b784",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragon_skull",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragon_skull"
+			}
 		}],
 		ignore_nbt: 1b
 	}],

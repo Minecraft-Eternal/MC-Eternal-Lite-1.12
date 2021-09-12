@@ -1,14 +1,14 @@
 {
 	icon: {
-		ForgeCaps: {
-			"astralsorcery:cap_item_amulet_holder": {}
-		},
 		id: "twilightforest:steeleaf_sword",
 		tag: {
 			ench: [{
 				lvl: 2s,
 				id: 21s
 			}]
+		},
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
 		}
 	},
 	x: -5.5d,
@@ -25,9 +25,6 @@
 		type: "kill",
 		title: "&c&lNether Bounty: &4Wither Skeleton",
 		icon: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:broadsword",
 			tag: {
 				StatsOriginal: {
@@ -82,6 +79,9 @@
 					"autosmelt",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		entity: "minecraft:wither_skeleton",

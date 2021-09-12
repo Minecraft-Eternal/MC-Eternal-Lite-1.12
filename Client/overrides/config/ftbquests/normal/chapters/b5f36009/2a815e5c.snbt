@@ -9,10 +9,10 @@
 		uid: "62b77bf5",
 		type: "item",
 		items: [{
+			id: "theaurorian:moontemplecellkey",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:moontemplecellkey"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,10 +1,10 @@
 {
 	title: "Twilight Artifacts",
 	icon: {
+		id: "tfspellpack:charm_accursed_tome",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "tfspellpack:charm_accursed_tome"
+		}
 	},
 	x: 0.0d,
 	y: -3.0d,
@@ -16,10 +16,10 @@
 		uid: "79127f83",
 		type: "kill",
 		icon: {
+			id: "tfspellpack:amulet_steeleaf",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tfspellpack:amulet_steeleaf"
+			}
 		},
 		entity: "tfspellpack:druid_mage",
 		value: 1L

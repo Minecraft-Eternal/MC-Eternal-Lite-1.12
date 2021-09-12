@@ -10,10 +10,10 @@
 		uid: "7d7fd09c",
 		type: "item",
 		items: [{
+			id: "structurize:sceptergold",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "structurize:sceptergold"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

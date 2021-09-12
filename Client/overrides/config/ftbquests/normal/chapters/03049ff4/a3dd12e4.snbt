@@ -17,10 +17,10 @@
 		uid: "519f8157",
 		type: "item",
 		item: {
+			id: "rats:rat_upgrade_combined_creative",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_combined_creative"
+			}
 		},
 		random_bonus: 8
 	},
@@ -59,10 +59,10 @@
 		type: "item",
 		item: {
 			id: "enderio:item_soul_vial",
+			Damage: 1s,
 			tag: {
 				entityId: "inventorypets:entitybillgates"
-			},
-			Damage: 1s
+			}
 		}
 	},
 	{
@@ -70,19 +70,16 @@
 		type: "item",
 		item: {
 			id: "enderio:item_soul_vial",
+			Damage: 1s,
 			tag: {
 				entityId: "inventorypets:entitysteveballmer"
-			},
-			Damage: 1s
+			}
 		}
 	},
 	{
 		uid: "79595b9a",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:cleaver",
 			tag: {
 				StatsOriginal: {
@@ -141,6 +138,9 @@
 					"weee",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

@@ -48,8 +48,8 @@
 			Food: 20
 		}
 	},
-	x: 1.5d,
-	y: -2.5d,
+	x: 1.0d,
+	y: -2.0d,
 	description: "*Unlocked from completing Secret*",
 	can_repeat: true,
 	dependencies: [

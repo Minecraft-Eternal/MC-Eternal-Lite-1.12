@@ -1,6 +1,6 @@
 {
-	x: -9.0d,
-	y: -12.5d,
+	x: -15.0d,
+	y: -13.5d,
 	dependencies: [
 		"d592428b"
 	],
@@ -8,15 +8,15 @@
 		uid: "65713142",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:fiery_sword",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 20s
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

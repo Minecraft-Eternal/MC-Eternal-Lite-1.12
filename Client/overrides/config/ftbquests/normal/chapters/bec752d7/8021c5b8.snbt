@@ -10,12 +10,12 @@
 		uid: "2a977062",
 		type: "advancement",
 		icon: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "vampirism:hunter_coat_chest",
 			tag: {
 				tier: "ULTIMATE"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		advancement: "vampirism:hunter/max_level",

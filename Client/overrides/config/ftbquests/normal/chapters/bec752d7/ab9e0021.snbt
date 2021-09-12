@@ -8,10 +8,10 @@
 		uid: "5caf9e1f",
 		type: "item",
 		items: [{
+			id: "bewitchment:hellish_bauble",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:hellish_bauble"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -16,10 +16,10 @@
 		uid: "7b3e5e2c",
 		type: "item",
 		item: {
+			id: "rats:chef_toque",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:chef_toque"
+			}
 		}
 	},
 	{

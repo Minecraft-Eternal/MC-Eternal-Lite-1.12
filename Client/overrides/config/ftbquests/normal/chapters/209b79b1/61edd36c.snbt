@@ -5,10 +5,10 @@
 		uid: "ae91e2bf",
 		type: "item",
 		items: [{
+			id: "randomthings:obsidianskullring",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "randomthings:obsidianskullring"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

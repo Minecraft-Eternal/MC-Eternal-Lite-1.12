@@ -8,10 +8,10 @@
 		uid: "fa760f78",
 		type: "item",
 		items: [{
+			id: "thermalfoundation:wrench",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thermalfoundation:wrench"
+			}
 		}],
 		ignore_nbt: 1b
 	}],

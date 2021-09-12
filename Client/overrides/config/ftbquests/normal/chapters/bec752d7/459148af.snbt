@@ -8,10 +8,10 @@
 		uid: "12e6e853",
 		type: "item",
 		items: [{
+			id: "totemic:eagle_bone_whistle",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "totemic:eagle_bone_whistle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

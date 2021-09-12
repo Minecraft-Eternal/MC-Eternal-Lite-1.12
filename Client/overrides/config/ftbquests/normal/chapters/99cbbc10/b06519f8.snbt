@@ -56,10 +56,10 @@
 		uid: "9ad5b187",
 		type: "item",
 		item: {
+			id: "thermalfoundation:tool.fishing_rod_diamond",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thermalfoundation:tool.fishing_rod_diamond"
+			}
 		}
 	},
 	{

@@ -18,11 +18,11 @@
 		uid: "60df7c9f",
 		type: "item",
 		items: [{
+			id: "advancedrocketry:pressuretank",
+			Damage: 3s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "advancedrocketry:pressuretank",
-			Damage: 3s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

@@ -9,91 +9,91 @@
 		uid: "d5d5f3f5",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "dungeontactics:pirate_hook",
 			tag: {
-				HideFlags: 39,
 				display: {
 					Lore: [
-						"�8Rusted and uncomfortable to hold, unlikely to last very long (aaarrg)",
-						"�e(Part of the Moon set)"
+						"§8Rusted and uncomfortable to hold, unlikely to last very long (aaarrg)",
+						"§e(Part of the Moon set)"
 					],
-					Name: "�7Pirat Hook"
+					Name: "§7Pirat Hook"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193141800,
 					Amount: 40,
+					Slot: "mainhand",
 					AttributeName: "generic.attackDamage",
 					Operation: 0,
 					Name: "generic.attackDamage"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 2b
 	},
 	{
 		uid: "35183ca3",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "dungeontactics:golden_knife",
 			tag: {
-				HideFlags: 39,
 				display: {
 					Lore: [
-						"�8Rusted and uncomfortable to hold, unlikely to last very long",
-						"�e(Part of the Moon set)"
+						"§8Rusted and uncomfortable to hold, unlikely to last very long",
+						"§e(Part of the Moon set)"
 					],
-					Name: "�7Ratlantean Dagger"
+					Name: "§7Ratlantean Dagger"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193291300,
 					Amount: 30,
+					Slot: "mainhand",
 					AttributeName: "generic.attackDamage",
 					Operation: 0,
 					Name: "generic.attackDamage"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 2b
 	},
 	{
 		uid: "fc29f1ae",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "rats:pirat_cutlass",
 			tag: {
-				HideFlags: 39,
 				display: {
 					Lore: [
-						"�8Made completely out of 100% cheese sourced locally from the Moon.",
-						"�e(Part of the Moon set)"
+						"§8Made completely out of 100% cheese sourced locally from the Moon.",
+						"§e(Part of the Moon set)"
 					],
-					Name: "�7Cheese Blade"
+					Name: "§7Cheese Blade"
 				},
 				AttributeModifiers: [{
 					UUIDMost: 99,
 					UUIDLeast: 193352200,
 					Amount: 50,
+					Slot: "mainhand",
 					AttributeName: "generic.attackDamage",
 					Operation: 0,
 					Name: "generic.attackDamage"
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 2b
 	}],
 	rewards: [{
 		uid: "97246c0e",

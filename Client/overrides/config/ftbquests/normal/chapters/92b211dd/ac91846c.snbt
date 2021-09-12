@@ -33,16 +33,16 @@
 		uid: "80c62013",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "blockWarpCoreRim",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any blockWarpCoreRim"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockWarpCoreRim"
 				}
 			}
 		}],

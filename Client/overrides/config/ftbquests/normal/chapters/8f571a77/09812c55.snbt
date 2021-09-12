@@ -13,16 +13,16 @@
 		type: "item",
 		title: "§7Iron Camel or Wolf armor",
 		items: [{
+			id: "atum:camel_iron_armor",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:camel_iron_armor"
+			}
 		},
 		{
+			id: "atum:desert_wolf_iron_armor",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:desert_wolf_iron_armor"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

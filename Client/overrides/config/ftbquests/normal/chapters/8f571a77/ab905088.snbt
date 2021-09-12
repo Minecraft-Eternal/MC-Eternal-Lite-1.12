@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "immersiveengineering:powerpack",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "immersiveengineering:powerpack"
+		}
 	},
 	x: -0.5d,
 	y: -5.5d,

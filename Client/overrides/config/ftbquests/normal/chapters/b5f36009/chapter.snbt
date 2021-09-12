@@ -1,10 +1,10 @@
 {
 	title: "&9Aurorian",
 	icon: {
+		id: "theaurorian:livingdiviningrod",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "theaurorian:livingdiviningrod"
+		}
 	},
 	always_invisible: false,
 	group: -1833823779,

@@ -18,10 +18,10 @@
 		uid: "a1481672",
 		type: "item",
 		item: {
+			id: "ebwizardry:amulet_wither_immunity",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:amulet_wither_immunity"
+			}
 		}
 	},
 	{

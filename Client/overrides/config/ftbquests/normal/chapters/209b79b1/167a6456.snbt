@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Foliaath",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "mowziesmobs:foliaath",
 		value: 1L

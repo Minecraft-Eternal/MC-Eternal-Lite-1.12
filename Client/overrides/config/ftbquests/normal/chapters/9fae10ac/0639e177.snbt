@@ -7,10 +7,10 @@
 		uid: "5feff271",
 		type: "kill",
 		icon: {
+			id: "mod_lavacow:undertaker_shovel",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:undertaker_shovel"
+			}
 		},
 		entity: "mod_lavacow:undertaker",
 		value: 1L
@@ -47,10 +47,10 @@
 		uid: "a78d0162",
 		type: "item",
 		item: {
+			id: "iceandfire:lich_staff",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:lich_staff"
+			}
 		}
 	}]
 }

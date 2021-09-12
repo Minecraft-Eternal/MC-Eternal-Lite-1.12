@@ -1,6 +1,6 @@
 {
-	x: -11.0d,
-	y: -19.5d,
+	x: -5.0d,
+	y: -12.0d,
 	dependencies: [
 		"d233564c"
 	],
@@ -8,15 +8,15 @@
 		uid: "7d5f4df0",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:yeti_helmet",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 0s
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

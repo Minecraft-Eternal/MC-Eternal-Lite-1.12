@@ -9,14 +9,14 @@
 		uid: "e3a7d14f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mekanism:machineblock",
+			Damage: 5s,
 			tag: {
 				recipeType: 0
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}],
 		consume_items: false,
 		ignore_nbt: 2b

@@ -5,13 +5,13 @@
 		uid: "9f9d2b79",
 		type: "item",
 		items: [{
+			id: "treasure2:skeleton_key",
 			ForgeCaps: {
 				Parent: {
 					effectiveMaxDamage: 5
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "treasure2:skeleton_key"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,10 +8,10 @@
 		uid: "1204bf81",
 		type: "item",
 		items: [{
+			id: "rats:pirat_hat",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:pirat_hat"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

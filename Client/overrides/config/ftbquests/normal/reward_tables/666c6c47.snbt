@@ -5,28 +5,28 @@
 	loot_size: 34,
 	rewards: [{
 		item: {
+			id: "minecraft:leather_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:leather_chestplate"
+			}
 		},
 		only_one: true
 	},
 	{
 		item: {
+			id: "minecraft:leather_leggings",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:leather_leggings"
+			}
 		},
 		only_one: true
 	},
 	{
 		item: {
+			id: "dungeontactics:studded_boots",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dungeontactics:studded_boots"
+			}
 		},
 		only_one: true
 	},
@@ -37,9 +37,6 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:longsword",
 			tag: {
 				StatsOriginal: {
@@ -80,6 +77,9 @@
 				Traits: [
 					"ecological"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		only_one: true
@@ -111,9 +111,9 @@
 		string_id: "starting_gear",
 		color: 8421504,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

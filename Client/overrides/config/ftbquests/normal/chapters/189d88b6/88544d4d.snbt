@@ -11,10 +11,10 @@
 		type: "checkmark",
 		title: "Excavation",
 		icon: {
+			id: "extrautils2:fireaxe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "extrautils2:fireaxe"
+			}
 		}
 	}],
 	rewards: [{

@@ -9,12 +9,12 @@
 		uid: "fd95fe75",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "vampirism:heart_seeker",
 			tag: {
 				tier: "NORMAL"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

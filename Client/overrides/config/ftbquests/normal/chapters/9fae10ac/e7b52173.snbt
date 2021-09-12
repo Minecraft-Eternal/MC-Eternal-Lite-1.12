@@ -9,10 +9,10 @@
 		uid: "84c7bcb1",
 		type: "kill",
 		icon: {
+			id: "iceandfire:hydra_heart",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:hydra_heart"
+			}
 		},
 		entity: "iceandfire:if_hydra",
 		value: 1L

@@ -9,10 +9,10 @@
 		uid: "fb196f9e",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:dreamcatcher",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:dreamcatcher"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

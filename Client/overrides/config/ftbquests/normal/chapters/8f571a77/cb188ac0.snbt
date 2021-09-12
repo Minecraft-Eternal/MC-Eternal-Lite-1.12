@@ -6,10 +6,10 @@
 		uid: "8e892935",
 		type: "item",
 		items: [{
+			id: "treasure2:eye_patch",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "treasure2:eye_patch"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

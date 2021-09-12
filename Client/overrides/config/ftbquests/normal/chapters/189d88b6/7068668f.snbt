@@ -9,10 +9,10 @@
 		uid: "53e94b5c",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragon_stick",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragon_stick"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

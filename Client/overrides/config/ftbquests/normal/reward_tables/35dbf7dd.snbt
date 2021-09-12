@@ -45,19 +45,19 @@
 	},
 	{
 		item: {
+			id: "rats:rat_upgrade_blacklist",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_blacklist"
+			}
 		},
 		weight: 50
 	},
 	{
 		item: {
+			id: "rats:rat_upgrade_whitelist",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_whitelist"
+			}
 		},
 		weight: 50
 	},
@@ -83,10 +83,10 @@
 	},
 	{
 		item: {
+			id: "rats:rat_upgrade_miner",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_miner"
+			}
 		},
 		weight: 50
 	},
@@ -212,10 +212,10 @@
 	},
 	{
 		item: {
+			id: "rats:rat_upgrade_combined_creative",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_combined_creative"
+			}
 		}
 	},
 	{
@@ -227,10 +227,10 @@
 	},
 	{
 		item: {
+			id: "rats:rat_upgrade_combined",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_combined"
+			}
 		},
 		weight: 50
 	},
@@ -267,10 +267,10 @@
 	},
 	{
 		item: {
+			id: "rats:rat_arrow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_arrow"
+			}
 		},
 		weight: 50
 	},
@@ -280,19 +280,19 @@
 	},
 	{
 		item: {
+			id: "rats:rat_fez",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_fez"
+			}
 		},
 		weight: 50
 	},
 	{
 		item: {
+			id: "rats:chef_toque",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:chef_toque"
+			}
 		},
 		weight: 40
 	},
@@ -318,10 +318,10 @@
 	},
 	{
 		item: {
+			id: "rats:piper_hat",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:piper_hat"
+			}
 		}
 	},
 	{
@@ -387,36 +387,36 @@
 	},
 	{
 		item: {
+			id: "rats:music_disc_living_mice",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:music_disc_living_mice"
+			}
 		}
 	},
 	{
 		item: {
+			id: "rats:plague_doctor_mask",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:plague_doctor_mask"
+			}
 		},
 		weight: 50
 	},
 	{
 		item: {
+			id: "rats:pirat_cutlass",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:pirat_cutlass"
+			}
 		},
 		weight: 50
 	},
 	{
 		item: {
+			id: "rats:rat_sack",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_sack"
+			}
 		},
 		weight: 50
 	},
@@ -444,10 +444,10 @@
 	},
 	{
 		item: {
+			id: "rats:plague_scythe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:plague_scythe"
+			}
 		},
 		weight: 2
 	},
@@ -456,37 +456,37 @@
 	},
 	{
 		item: {
+			id: "rats:archeologist_hat",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:archeologist_hat"
+			}
 		},
 		weight: 50
 	},
 	{
 		item: {
+			id: "rats:feral_bagh_nakhs",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:feral_bagh_nakhs"
+			}
 		},
 		weight: 50
 	},
 	{
 		item: {
+			id: "rats:music_disc_mice_on_venus",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:music_disc_mice_on_venus"
+			}
 		},
 		weight: 60
 	},
 	{
 		item: {
+			id: "rats:music_disc_living_mice",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:music_disc_living_mice"
+			}
 		},
 		weight: 60
 	}],
@@ -495,9 +495,9 @@
 		item_name: "Cheesy Cache",
 		color: 16557570,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

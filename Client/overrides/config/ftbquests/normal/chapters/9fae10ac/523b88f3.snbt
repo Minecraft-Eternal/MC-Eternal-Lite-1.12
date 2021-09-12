@@ -6,10 +6,10 @@
 		uid: "79fcc981",
 		type: "kill",
 		icon: {
+			id: "iceandfire:gorgon_head",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:gorgon_head"
+			}
 		},
 		entity: "iceandfire:gorgon",
 		value: 1L

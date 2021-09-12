@@ -2,17 +2,19 @@
 	x: -1.5d,
 	y: -9.5d,
 	shape: "octagon",
+	hide_dependency_lines: true,
 	dependencies: [
+		"5eed1197",
 		"3b41a4ca"
 	],
 	tasks: [{
 		uid: "54056dc9",
 		type: "item",
 		items: [{
+			id: "minecraft:totem_of_undying",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:totem_of_undying"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

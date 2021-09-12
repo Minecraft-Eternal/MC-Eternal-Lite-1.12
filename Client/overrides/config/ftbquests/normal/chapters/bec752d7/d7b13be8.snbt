@@ -8,10 +8,10 @@
 		uid: "c3af825b",
 		type: "kill",
 		icon: {
+			id: "vampirism:pitchfork",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "vampirism:pitchfork"
+			}
 		},
 		entity: "vampirism:vampire",
 		value: 100L
@@ -25,9 +25,6 @@
 		uid: "8f14b371",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "vampirism:pitchfork",
 			tag: {
 				Unbreakable: 1,
@@ -50,6 +47,9 @@
 					id: "minecraft:fire_aspect"
 				}],
 				Damage: 13
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},

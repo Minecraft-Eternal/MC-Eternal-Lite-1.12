@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Druid Mage",
 		icon: {
+			id: "roots:staff",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "roots:staff"
+			}
 		},
 		entity: "tfspellpack:druid_mage",
 		value: 1L
@@ -34,10 +34,10 @@
 		uid: "74eb3f8a",
 		type: "item",
 		item: {
+			id: "ebwizardry:charm_stop_time",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:charm_stop_time"
+			}
 		}
 	}]
 }

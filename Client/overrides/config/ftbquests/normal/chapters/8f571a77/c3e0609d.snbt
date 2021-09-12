@@ -14,10 +14,10 @@
 		type: "item",
 		title: "§cRa's Fury",
 		items: [{
+			id: "atum:ras_fury",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:ras_fury"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

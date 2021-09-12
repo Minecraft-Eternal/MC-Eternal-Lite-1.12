@@ -1,9 +1,6 @@
 {
 	title: "Battle Tower Master",
 	icon: {
-		ForgeCaps: {
-			"astralsorcery:cap_item_amulet_holder": {}
-		},
 		id: "tconstruct:battlesign",
 		tag: {
 			StatsOriginal: {
@@ -69,6 +66,9 @@
 				"superheat",
 				"toolleveling"
 			]
+		},
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
 		}
 	},
 	x: 1.0d,
@@ -77,9 +77,6 @@
 		uid: "9bebe127",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:longsword",
 			tag: {
 				StatsOriginal: {
@@ -146,6 +143,9 @@
 					"superheat",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		entity: "battletowers:golem",

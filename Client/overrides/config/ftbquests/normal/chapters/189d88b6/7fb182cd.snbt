@@ -1,5 +1,5 @@
 {
-	x: -12.5d,
+	x: -13.0d,
 	y: -3.0d,
 	dependencies: [
 		"87cb3976"
@@ -8,10 +8,10 @@
 		uid: "7ee64889",
 		type: "item",
 		items: [{
+			id: "actuallyadditions:item_crafter_on_a_stick",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "actuallyadditions:item_crafter_on_a_stick"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

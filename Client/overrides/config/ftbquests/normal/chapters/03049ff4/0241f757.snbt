@@ -7,10 +7,10 @@
 		uid: "df2159a4",
 		type: "item",
 		items: [{
+			id: "stupidthings:rubber_chicken",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "stupidthings:rubber_chicken"
+			}
 		}],
 		count: 1000L,
 		consume_items: true,
@@ -31,9 +31,6 @@
 		uid: "e56fc895",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "stupidthings:rubber_chicken",
 			tag: {
 				ench: [{
@@ -43,6 +40,9 @@
 				display: {
 					Name: "Legendary Rubber Chicken"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

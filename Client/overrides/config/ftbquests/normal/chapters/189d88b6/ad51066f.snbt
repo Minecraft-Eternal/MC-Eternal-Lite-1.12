@@ -11,10 +11,10 @@
 		type: "advancement",
 		title: "Trap a Pixie in a jar",
 		icon: {
+			id: "iceandfire:jar_pixie",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:jar_pixie"
+			}
 		},
 		advancement: "iceandfire:iceandfire/jar_pixie",
 		criterion: ""

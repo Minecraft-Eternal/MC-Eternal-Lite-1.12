@@ -22,10 +22,10 @@
 		uid: "0ffc3239",
 		type: "item",
 		item: {
+			id: "actuallyadditions:item_crate_keeper",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "actuallyadditions:item_crate_keeper"
+			}
 		}
 	}]
 }

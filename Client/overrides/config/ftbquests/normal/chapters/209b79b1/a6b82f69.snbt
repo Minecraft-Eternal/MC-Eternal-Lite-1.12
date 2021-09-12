@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Dread Knight",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "iceandfire:dread_knight",
 		value: 1L

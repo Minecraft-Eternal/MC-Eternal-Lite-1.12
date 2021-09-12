@@ -8,10 +8,10 @@
 		uid: "18f7e84c",
 		type: "item",
 		items: [{
+			id: "midnight:spore_bomb",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "midnight:spore_bomb"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -19,11 +19,11 @@
 		uid: "727bf5f0",
 		type: "item",
 		items: [{
+			id: "midnight:spore_bomb",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "midnight:spore_bomb",
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -31,11 +31,11 @@
 		uid: "7e1600ce",
 		type: "item",
 		items: [{
+			id: "midnight:spore_bomb",
+			Damage: 2s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "midnight:spore_bomb",
-			Damage: 2s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -43,11 +43,11 @@
 		uid: "b363e993",
 		type: "item",
 		items: [{
+			id: "midnight:spore_bomb",
+			Damage: 3s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "midnight:spore_bomb",
-			Damage: 3s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Ghost",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "vampirism:ghost",
 		value: 1L
@@ -34,10 +34,10 @@
 		uid: "85e9e688",
 		type: "item",
 		item: {
+			id: "randomthings:spectresword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "randomthings:spectresword"
+			}
 		}
 	}]
 }

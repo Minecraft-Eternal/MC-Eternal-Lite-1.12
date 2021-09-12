@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "mowziesmobs:ice_crystal",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "mowziesmobs:ice_crystal"
+		}
 	},
 	x: -5.5d,
 	y: 0.5d,
@@ -16,10 +16,10 @@
 		uid: "25718985",
 		type: "kill",
 		icon: {
+			id: "ebwizardry:charm_lava_walking",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:charm_lava_walking"
+			}
 		},
 		entity: "mowziesmobs:frostmaw",
 		value: 1L

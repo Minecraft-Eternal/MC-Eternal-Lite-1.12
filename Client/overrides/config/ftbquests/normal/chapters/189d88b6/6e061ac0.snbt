@@ -9,10 +9,10 @@
 		uid: "526c2103",
 		type: "item",
 		items: [{
+			id: "charm:crate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "charm:crate"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,9 +8,6 @@
 		uid: "17422dcc",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thermalexpansion:cell",
 			tag: {
 				Recv: 1000,
@@ -27,6 +24,9 @@
 				],
 				Level: 0b,
 				Send: 1000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 1b

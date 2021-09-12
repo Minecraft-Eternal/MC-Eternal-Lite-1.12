@@ -10,10 +10,10 @@
 		uid: "3161008c",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:potion_of_mooten_lava",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:potion_of_mooten_lava"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,10 +8,10 @@
 		uid: "e9d61be3",
 		type: "item",
 		items: [{
+			id: "erebus:max_speed_bow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:max_speed_bow"
+			}
 		}],
 		consume_items: true
 	}],

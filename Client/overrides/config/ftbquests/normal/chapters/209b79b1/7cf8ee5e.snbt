@@ -5,13 +5,13 @@
 		uid: "b0a26095",
 		type: "item",
 		items: [{
+			id: "treasure2:iron_key",
 			ForgeCaps: {
 				Parent: {
 					effectiveMaxDamage: 10
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "treasure2:iron_key"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -15,10 +15,10 @@
 		type: "kill",
 		title: "Bounty: Nether Wasp",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "biomesoplenty:wasp",
 		value: 1L
@@ -33,10 +33,10 @@
 		uid: "cb88b821",
 		type: "item",
 		item: {
+			id: "biomesoplenty:jar_filled",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:jar_filled"
+			}
 		}
 	},
 	{

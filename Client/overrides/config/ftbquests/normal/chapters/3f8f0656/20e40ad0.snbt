@@ -1,9 +1,10 @@
 {
 	x: 13.5d,
-	y: 2.0d,
+	y: 7.5d,
 	description: "Requires capacitor to operate *Upgraded*",
 	dependencies: [
-		"f5f7ed82"
+		"77d70953",
+		"05a41235"
 	],
 	tasks: [{
 		uid: "0d31dcd6",

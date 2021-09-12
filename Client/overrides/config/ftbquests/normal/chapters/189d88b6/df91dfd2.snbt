@@ -1,15 +1,15 @@
 {
 	title: "&c&lNether Bounty: &4Hellhound",
 	icon: {
-		ForgeCaps: {
-			"astralsorcery:cap_item_amulet_holder": {}
-		},
 		id: "twilightforest:steeleaf_sword",
 		tag: {
 			ench: [{
 				lvl: 2s,
 				id: 21s
 			}]
+		},
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
 		}
 	},
 	x: -7.0d,
@@ -25,9 +25,6 @@
 		uid: "bbc4c4f5",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:broadsword",
 			tag: {
 				StatsOriginal: {
@@ -82,6 +79,9 @@
 					"autosmelt",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		entity: "bewitchment:hellhound",
@@ -101,10 +101,10 @@
 		uid: "bfe5a478",
 		type: "item",
 		item: {
+			id: "mod_lavacow:felarmor_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:felarmor_chestplate"
+			}
 		}
 	}]
 }

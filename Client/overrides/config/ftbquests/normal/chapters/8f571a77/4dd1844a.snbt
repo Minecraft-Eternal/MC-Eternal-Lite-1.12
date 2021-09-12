@@ -10,13 +10,13 @@
 		type: "item",
 		title: "16x Raw Meat",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "listAllmeatraw",
-					id: "ore"
+					id: "ore",
+					data: "listAllmeatraw"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 16L
 	}],

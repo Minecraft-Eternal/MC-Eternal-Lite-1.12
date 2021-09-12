@@ -9,10 +9,10 @@
 		type: "kill",
 		title: "Murder an Innocent Citizen",
 		icon: {
+			id: "iceandfire:dragonbone_sword_fire",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonbone_sword_fire"
+			}
 		},
 		entity: "minecolonies:citizen",
 		value: 1L

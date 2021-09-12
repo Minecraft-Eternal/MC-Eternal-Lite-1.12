@@ -8,12 +8,12 @@
 		uid: "fb27f1e6",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "vampirism:holy_water_bottle",
 			tag: {
 				tier: "NORMAL"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

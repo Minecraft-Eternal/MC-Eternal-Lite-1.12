@@ -10,13 +10,13 @@
 		uid: "7ab18a16",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "techreborn:nanosaber",
 			tag: {
 				isActive: 0b,
 				energy: 0
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

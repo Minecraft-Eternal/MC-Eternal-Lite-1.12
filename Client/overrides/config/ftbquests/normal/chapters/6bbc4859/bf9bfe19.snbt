@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "wct:wct_creative",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "wct:wct_creative"
+		}
 	},
 	x: 0.0d,
 	y: 2.5d,
@@ -22,10 +22,10 @@
 		uid: "035f3964",
 		type: "item",
 		item: {
+			id: "wct:wct_creative",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "wct:wct_creative"
+			}
 		}
 	}]
 }

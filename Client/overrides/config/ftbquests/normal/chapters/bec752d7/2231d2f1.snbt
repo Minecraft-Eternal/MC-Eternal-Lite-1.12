@@ -8,10 +8,10 @@
 		uid: "7632d0dc",
 		type: "item",
 		items: [{
+			id: "vampirism:stake",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "vampirism:stake"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

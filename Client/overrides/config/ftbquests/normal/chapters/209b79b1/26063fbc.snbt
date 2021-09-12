@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Seagull",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "mod_lavacow:raven",
 		value: 1L

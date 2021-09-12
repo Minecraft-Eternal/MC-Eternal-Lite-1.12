@@ -8,10 +8,10 @@
 		type: "kill",
 		title: "&c&lBoss: Crushroom",
 		icon: {
+			id: "erebus:mushroom_helmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:mushroom_helmet"
+			}
 		},
 		entity: "erebus:erebus.crushroom",
 		value: 1L

@@ -26,15 +26,15 @@
 		uid: "4859bd77",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:steeleaf_helmet",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 4s
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

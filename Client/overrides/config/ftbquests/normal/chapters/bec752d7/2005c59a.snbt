@@ -8,11 +8,11 @@
 		uid: "ebcef7b9",
 		type: "item",
 		items: [{
+			id: "totemic:flute",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "totemic:flute",
-			Damage: 1s
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 2b

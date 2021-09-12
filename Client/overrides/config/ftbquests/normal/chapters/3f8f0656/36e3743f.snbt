@@ -8,10 +8,10 @@
 		uid: "d0a60171",
 		type: "item",
 		items: [{
+			id: "mekanism:jetpack",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mekanism:jetpack"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

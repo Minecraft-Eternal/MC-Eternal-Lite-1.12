@@ -13,10 +13,10 @@
 		uid: "5f95630c",
 		type: "item",
 		item: {
+			id: "dimdoors:record_creepy",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dimdoors:record_creepy"
+			}
 		}
 	},
 	{

@@ -12,9 +12,6 @@
 		uid: "64dc9bdd",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "iceandfire:bestiary",
 			tag: {
 				Pages: [I;
@@ -42,6 +39,9 @@
 					21,
 					22
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,
@@ -71,10 +71,10 @@
 		uid: "b5e18009",
 		type: "item",
 		item: {
+			id: "iceandfire:deathworm_yellow_helmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:deathworm_yellow_helmet"
+			}
 		}
 	},
 	{

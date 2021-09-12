@@ -9,10 +9,10 @@
 		uid: "f5ac5685",
 		type: "item",
 		items: [{
+			id: "minecraft:cake",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:cake"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -2,13 +2,13 @@
 	x: 4.0d,
 	y: 4.0d,
 	shape: "gear",
+	dependencies: [
+		"fb05aebf"
+	],
 	tasks: [{
 		uid: "5938ceba",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "powersuits:power_fist",
 			tag: {
 				MMModItem: {
@@ -379,6 +379,9 @@
 						}
 					}
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

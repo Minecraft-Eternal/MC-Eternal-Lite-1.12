@@ -28,15 +28,15 @@
 		uid: "fd1356f7",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:steeleaf_leggings",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 1s
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

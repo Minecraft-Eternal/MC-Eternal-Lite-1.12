@@ -1,10 +1,10 @@
 {
 	title: "&9Erebus",
 	icon: {
+		id: "erebus:rhino_exoskeleton_helmet",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "erebus:rhino_exoskeleton_helmet"
+		}
 	},
 	always_invisible: false,
 	group: -1833823779,

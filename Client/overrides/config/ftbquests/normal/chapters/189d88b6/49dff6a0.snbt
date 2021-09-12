@@ -8,10 +8,10 @@
 		uid: "e586b499",
 		type: "item",
 		items: [{
+			id: "actuallyadditions:stone_paxel",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "actuallyadditions:stone_paxel"
+			}
 		}]
 	}],
 	rewards: [{

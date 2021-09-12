@@ -8,10 +8,10 @@
 		uid: "8a600639",
 		type: "item",
 		items: [{
+			id: "bewitchment:elder_broom",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:elder_broom"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

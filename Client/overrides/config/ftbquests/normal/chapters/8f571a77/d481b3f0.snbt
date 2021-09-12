@@ -47,12 +47,6 @@
 		uid: "f8f42f58",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -5863096196267452682L,
-					AS_Amulet_HolderMost: -2754331757198947019L
-				}
-			},
 			id: "minecraft:writable_book",
 			tag: {
 				pages: [
@@ -65,6 +59,12 @@
 				],
 				display: {
 					Name: "The Bones Song"
+				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderMost: -2754331757198947019L,
+					AS_Amulet_HolderLeast: -5863096196267452682L
 				}
 			}
 		}

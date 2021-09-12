@@ -8,10 +8,10 @@
 		uid: "0a82b816",
 		type: "item",
 		items: [{
+			id: "totemic:tipi",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "totemic:tipi"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

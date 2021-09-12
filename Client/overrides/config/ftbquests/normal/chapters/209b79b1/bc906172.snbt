@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Minotaur",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "twilightforest:minotaur",
 		value: 1L
@@ -34,10 +34,10 @@
 		uid: "cacf67d8",
 		type: "item",
 		item: {
+			id: "twilightforest:minotaur_axe_gold",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:minotaur_axe_gold"
+			}
 		}
 	}]
 }

@@ -9,10 +9,10 @@
 		uid: "62ccb06e",
 		type: "item",
 		items: [{
+			id: "theaurorian:moonstonesword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:moonstonesword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

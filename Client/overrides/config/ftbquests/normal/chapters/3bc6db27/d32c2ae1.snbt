@@ -8,14 +8,14 @@
 		uid: "6dd73e7c",
 		type: "item",
 		items: [{
+			id: "immersiveengineering:shield",
 			ForgeCaps: {
 				Parent: {
-					Size: 1,
-					Items: []
+					Items: [],
+					Size: 1
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "immersiveengineering:shield"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

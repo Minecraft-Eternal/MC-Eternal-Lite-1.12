@@ -6,10 +6,10 @@
 		type: "kill",
 		title: "&6&lBounty: Midge Swarm",
 		icon: {
+			id: "erebus:wasp_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:wasp_sword"
+			}
 		},
 		entity: "erebus:erebus.midge_swarm",
 		value: 25L

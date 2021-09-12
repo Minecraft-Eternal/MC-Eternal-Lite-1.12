@@ -10,16 +10,16 @@
 		type: "item",
 		title: "&lDragon Crystal",
 		items: [{
+			id: "iceandfire:summoning_crystal_fire",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:summoning_crystal_fire"
+			}
 		},
 		{
+			id: "iceandfire:summoning_crystal_ice",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:summoning_crystal_ice"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

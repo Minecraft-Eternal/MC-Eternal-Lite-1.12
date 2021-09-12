@@ -8,13 +8,6 @@
 		uid: "cae0b328",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					Size: 5,
-					Items: []
-				},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "immersiveengineering:drill",
 			tag: {
 				head: {
@@ -22,6 +15,13 @@
 					Count: 2b,
 					Damage: 0s
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 5
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_nbt: 1b

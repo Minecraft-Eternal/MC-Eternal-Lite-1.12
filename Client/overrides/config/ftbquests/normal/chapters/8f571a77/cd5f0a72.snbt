@@ -6,13 +6,13 @@
 		uid: "ceed0a57",
 		type: "item",
 		items: [{
+			id: "treasure2:jewelled_key",
 			ForgeCaps: {
 				Parent: {
 					effectiveMaxDamage: 5
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "treasure2:jewelled_key"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

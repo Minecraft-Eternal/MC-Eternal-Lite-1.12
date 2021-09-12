@@ -8,10 +8,10 @@
 		uid: "10479ef7",
 		type: "item",
 		items: [{
+			id: "immersiveengineering:tool",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "immersiveengineering:tool"
+			}
 		}],
 		ignore_nbt: 1b
 	}],

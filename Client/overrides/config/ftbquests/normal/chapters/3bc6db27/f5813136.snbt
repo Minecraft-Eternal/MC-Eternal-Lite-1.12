@@ -26,13 +26,13 @@
 		type: "item",
 		item: {
 			id: "immersiveengineering:material",
+			Damage: 15s,
 			tag: {
 				perks: {
 					luck: -1.84d,
 					cooldown: 0.72d
 				}
-			},
-			Damage: 15s
+			}
 		}
 	}]
 }

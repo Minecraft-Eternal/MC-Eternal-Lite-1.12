@@ -9,10 +9,10 @@
 		uid: "fcf07e5a",
 		type: "item",
 		items: [{
+			id: "theaurorian:crystallinesword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:crystallinesword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

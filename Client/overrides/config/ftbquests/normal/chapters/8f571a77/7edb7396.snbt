@@ -13,16 +13,16 @@
 		type: "item",
 		title: "§6Gold Camel or Wolf armor",
 		items: [{
+			id: "atum:camel_gold_armor",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:camel_gold_armor"
+			}
 		},
 		{
+			id: "atum:desert_wolf_gold_armor",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:desert_wolf_gold_armor"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,0 +1,26 @@
+{
+	x: 14.0d,
+	y: -9.0d,
+	description: "No Flames may touch me!",
+	text: [
+		"... But Exploits can still touch you :)"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"95bd4add",
+		"e4a4db69",
+		"c9593cc2"
+	],
+	tasks: [{
+		uid: "57674de2",
+		type: "item",
+		items: [{
+			id: "botania:superlavapendant",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

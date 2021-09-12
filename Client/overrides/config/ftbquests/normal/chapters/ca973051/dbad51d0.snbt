@@ -1,10 +1,10 @@
 {
 	title: "Go back to the Overworld",
-	x: -4.5d,
-	y: -5.5d,
+	x: -5.5d,
+	y: -5.0d,
 	description: "Home sweet home",
 	dependencies: [
-		"9baa413e"
+		"c24f1670"
 	],
 	tasks: [{
 		uid: "f52ed15e",

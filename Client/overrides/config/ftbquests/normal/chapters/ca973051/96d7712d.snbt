@@ -1,6 +1,6 @@
 {
-	x: -9.0d,
-	y: -13.5d,
+	x: -13.0d,
+	y: -13.0d,
 	dependencies: [
 		"d592428b"
 	],
@@ -8,10 +8,10 @@
 		uid: "c309805b",
 		type: "item",
 		items: [{
+			id: "twilightforest:fiery_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:fiery_chestplate"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

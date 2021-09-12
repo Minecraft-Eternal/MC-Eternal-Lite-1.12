@@ -27,15 +27,15 @@
 		uid: "18c95f48",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:steeleaf_boots",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 2s
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

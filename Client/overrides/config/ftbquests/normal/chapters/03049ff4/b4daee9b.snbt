@@ -8,13 +8,13 @@
 		type: "item",
 		title: "Any compressed4xDirt",
 		items: [{
+			id: "itemfilters:filter",
 			ForgeCaps: {
 				Parent: {
-					data: "compressed4xDirt",
-					id: "ore"
+					id: "ore",
+					data: "compressed4xDirt"
 				}
-			},
-			id: "itemfilters:filter"
+			}
 		}],
 		count: 100L
 	}],

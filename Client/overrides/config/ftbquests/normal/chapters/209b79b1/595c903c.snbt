@@ -5,13 +5,13 @@
 		uid: "f23a4956",
 		type: "item",
 		items: [{
+			id: "treasure2:ruby_key",
 			ForgeCaps: {
 				Parent: {
 					effectiveMaxDamage: 8
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "treasure2:ruby_key"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

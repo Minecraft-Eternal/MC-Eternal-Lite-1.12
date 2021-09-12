@@ -1,10 +1,10 @@
 {
 	title: "&lSince Last Death",
 	icon: {
+		id: "rats:plague_scythe",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "rats:plague_scythe"
+		}
 	},
 	x: 4.0d,
 	y: -1.0d,
@@ -13,10 +13,10 @@
 		uid: "125c1d87",
 		type: "stat",
 		icon: {
+			id: "rats:plague_scythe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:plague_scythe"
+			}
 		},
 		stat: "stat.timeSinceDeath",
 		value: 6900000
@@ -41,9 +41,6 @@
 		uid: "4688bcc6",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "dungeontactics:lithen_scythe",
 			tag: {
 				ench: [{
@@ -76,6 +73,9 @@
 					],
 					Name: "Death"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

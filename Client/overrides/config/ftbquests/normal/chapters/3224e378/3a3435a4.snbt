@@ -9,10 +9,10 @@
 		uid: "ca2b1647",
 		type: "item",
 		items: [{
+			id: "erebus:rhino_exoskeleton_shield",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:rhino_exoskeleton_shield"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

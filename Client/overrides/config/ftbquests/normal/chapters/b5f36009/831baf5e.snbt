@@ -9,10 +9,10 @@
 		uid: "738a8c45",
 		type: "item",
 		items: [{
+			id: "theaurorian:auroriansteelsword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "theaurorian:auroriansteelsword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

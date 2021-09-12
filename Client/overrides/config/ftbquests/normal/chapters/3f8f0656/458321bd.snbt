@@ -2,18 +2,21 @@
 	x: 3.0d,
 	y: 4.0d,
 	shape: "diamond",
+	dependencies: [
+		"fb05aebf"
+	],
 	tasks: [{
 		uid: "25c593b3",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "powersuits:powerarmor_torso",
 			tag: {
 				MMModItem: {
 					commonValues: {}
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

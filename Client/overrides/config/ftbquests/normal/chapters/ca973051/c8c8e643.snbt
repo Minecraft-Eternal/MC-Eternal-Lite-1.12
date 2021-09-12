@@ -1,6 +1,6 @@
 {
-	x: -9.0d,
-	y: -21.5d,
+	x: -7.0d,
+	y: -13.0d,
 	dependencies: [
 		"eaed8a89"
 	],
@@ -8,10 +8,10 @@
 		uid: "c1b9ea4c",
 		type: "item",
 		items: [{
+			id: "twilightforest:seeker_bow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:seeker_bow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

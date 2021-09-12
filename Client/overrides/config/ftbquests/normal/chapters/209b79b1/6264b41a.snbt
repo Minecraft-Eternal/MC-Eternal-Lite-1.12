@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Advanced Vampire",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "vampirism:advanced_vampire",
 		value: 1L
@@ -44,11 +44,11 @@
 		uid: "ec3ea13f",
 		type: "item",
 		item: {
+			id: "vampirism:vampire_cloak",
+			Damage: 2s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "vampirism:vampire_cloak",
-			Damage: 2s
+			}
 		}
 	},
 	{

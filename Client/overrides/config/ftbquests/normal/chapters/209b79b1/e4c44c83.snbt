@@ -12,10 +12,10 @@
 		uid: "8b6566e7",
 		type: "kill",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "iceandfire:dread_lich",
 		value: 1L
@@ -45,10 +45,10 @@
 		uid: "3457f0ee",
 		type: "item",
 		item: {
+			id: "iceandfire:lich_staff",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:lich_staff"
+			}
 		}
 	}]
 }

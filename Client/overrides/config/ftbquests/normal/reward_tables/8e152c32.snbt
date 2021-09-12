@@ -4,10 +4,10 @@
 	loot_size: 1,
 	rewards: [{
 		item: {
+			id: "iceandfire:dragonegg_white",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_white"
+			}
 		}
 	},
 	{
@@ -23,19 +23,19 @@
 	},
 	{
 		item: {
+			id: "inventorypets:meta_pet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "inventorypets:meta_pet"
+			}
 		},
 		weight: 2
 	},
 	{
 		item: {
+			id: "inventorypets:patreon_head",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "inventorypets:patreon_head"
+			}
 		}
 	},
 	{
@@ -48,23 +48,23 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "techreborn:diamonddrill",
 			tag: {
 				energy: 400000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
 	},
 	{
 		item: {
+			id: "mekanism:machineblock",
+			Damage: 4s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mekanism:machineblock",
-			Damage: 4s
+			}
 		}
 	},
 	{
@@ -77,10 +77,10 @@
 	},
 	{
 		item: {
+			id: "iceandfire:dragonegg_sapphire",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_sapphire"
+			}
 		}
 	},
 	{
@@ -125,18 +125,15 @@
 	},
 	{
 		item: {
+			id: "iceandfire:dragonbone_sword_fire",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonbone_sword_fire"
+			}
 		},
 		weight: 2
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mekanism:flamethrower",
 			tag: {
 				mekData: {
@@ -145,6 +142,9 @@
 						gasName: "hydrogen"
 					}
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
@@ -158,10 +158,10 @@
 	},
 	{
 		item: {
+			id: "rats:plague_scythe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:plague_scythe"
+			}
 		}
 	},
 	{
@@ -172,10 +172,10 @@
 	},
 	{
 		item: {
+			id: "rats:plague_doctor_mask",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:plague_doctor_mask"
+			}
 		}
 	},
 	{
@@ -253,74 +253,74 @@
 	},
 	{
 		item: {
+			id: "ebwizardry:advanced_necromancy_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:advanced_necromancy_wand"
+			}
 		}
 	},
 	{
 		item: {
+			id: "ebwizardry:ring_condensing",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ring_condensing"
+			}
 		}
 	},
 	{
 		item: {
+			id: "ebwizardry:ring_defender",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ring_defender"
+			}
 		}
 	},
 	{
 		item: {
+			id: "iceandfire:pixie_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:pixie_wand"
+			}
 		}
 	},
 	{
 		item: {
+			id: "iceandfire:troll_weapon.column",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:troll_weapon.column"
+			}
 		}
 	},
 	{
 		item: {
+			id: "iceandfire:armor_red_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:armor_red_chestplate"
+			}
 		}
 	},
 	{
 		item: {
+			id: "iceandfire:tide_purple_helmet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:tide_purple_helmet"
+			}
 		}
 	},
 	{
 		item: {
+			id: "iceandfire:tide_trident",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:tide_trident"
+			}
 		}
 	},
 	{
 		item: {
+			id: "iceandfire:dragonsteel_fire_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_fire_chestplate"
+			}
 		}
 	},
 	{
@@ -328,20 +328,20 @@
 	},
 	{
 		item: {
+			id: "iceandfire:myrmex_jungle_egg",
+			Damage: 4s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:myrmex_jungle_egg",
-			Damage: 4s
+			}
 		},
 		weight: 2
 	},
 	{
 		item: {
+			id: "iceandfire:hippocampus_slapper",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:hippocampus_slapper"
+			}
 		},
 		weight: 2
 	},
@@ -352,11 +352,11 @@
 	},
 	{
 		item: {
+			id: "iceandfire:iceandfire.deathworm_egg",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:iceandfire.deathworm_egg",
-			Damage: 1s
+			}
 		},
 		weight: 2
 	},
@@ -371,10 +371,10 @@
 	},
 	{
 		item: {
+			id: "iceandfire:myrmex_desert_swarm",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:myrmex_desert_swarm"
+			}
 		},
 		weight: 2
 	},
@@ -397,44 +397,44 @@
 	{
 		item: {
 			id: "minecraft:dirt",
+			Damage: 1s,
 			tag: {
 				display: {
 					Name: "SipsCo. Quality Dirt"
 				}
-			},
-			Damage: 1s
+			}
 		}
 	},
 	{
 		item: {
+			id: "mowziesmobs:wrought_axe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mowziesmobs:wrought_axe"
+			}
 		}
 	},
 	{
 		item: {
+			id: "twilightforest:ore_meter",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:ore_meter"
+			}
 		}
 	},
 	{
 		item: {
+			id: "twilightforest:triple_bow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:triple_bow"
+			}
 		}
 	},
 	{
 		item: {
+			id: "twilightforest:ice_bow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:ice_bow"
+			}
 		}
 	},
 	{
@@ -452,10 +452,10 @@
 	},
 	{
 		item: {
+			id: "twilightforest:glass_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:glass_sword"
+			}
 		}
 	},
 	{
@@ -485,10 +485,10 @@
 	},
 	{
 		item: {
+			id: "mod_lavacow:goldenheart",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:goldenheart"
+			}
 		}
 	},
 	{
@@ -520,19 +520,19 @@
 	},
 	{
 		item: {
+			id: "rats:top_hat",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:top_hat"
+			}
 		},
 		weight: 3
 	},
 	{
 		item: {
+			id: "rats:fisherman_hat",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:fisherman_hat"
+			}
 		},
 		weight: 3
 	},
@@ -549,10 +549,10 @@
 	},
 	{
 		item: {
+			id: "twilightforest:glass_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:glass_sword"
+			}
 		}
 	},
 	{
@@ -649,42 +649,42 @@
 	},
 	{
 		item: {
+			id: "ebwizardry:charm_stop_time",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:charm_stop_time"
+			}
 		}
 	},
 	{
 		item: {
+			id: "ebwizardry:ring_hammer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ring_hammer"
+			}
 		}
 	},
 	{
 		item: {
+			id: "ebwizardry:amulet_resurrection",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:amulet_resurrection"
+			}
 		}
 	},
 	{
 		item: {
+			id: "ebwizardry:charm_haggler",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:charm_haggler"
+			}
 		}
 	},
 	{
 		item: {
+			id: "ebwizardry:master_lightning_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_lightning_wand"
+			}
 		}
 	},
 	{
@@ -693,20 +693,20 @@
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives"
+			}
 		},
 		count: 8
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
+			Damage: 15s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 15s
+			}
 		}
 	},
 	{
@@ -767,13 +767,13 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forge:bucketfilled",
 			tag: {
 				FluidName: "fluidmethane",
 				Amount: 1000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -789,22 +789,22 @@
 	},
 	{
 		item: {
+			id: "immersiveengineering:railgun",
 			ForgeCaps: {
 				Parent: {
-					Size: 1,
-					Items: []
+					Items: [],
+					Size: 1
 				},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "immersiveengineering:railgun"
+			}
 		}
 	},
 	{
 		item: {
+			id: "waystones:warp_stone",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "waystones:warp_stone"
+			}
 		},
 		weight: 2
 	},
@@ -839,10 +839,10 @@
 	},
 	{
 		item: {
+			id: "iceandfire:dragonsteel_fire_axe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_fire_axe"
+			}
 		}
 	},
 	{
@@ -865,10 +865,10 @@
 	},
 	{
 		item: {
+			id: "mod_lavacow:piranhalauncher",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:piranhalauncher"
+			}
 		},
 		weight: 2
 	},
@@ -881,26 +881,14 @@
 	},
 	{
 		item: {
-			id: "thermalexpansion:morb",
-			tag: {
-				Generic: 1b,
-				id: "thesummoner:summoner"
+			id: "mowziesmobs:earth_talisman",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mowziesmobs:earth_talisman"
-		}
-	},
-	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "industrialforegoing:infinity_drill",
 			tag: {
 				Energy: 80000000L,
@@ -910,6 +898,9 @@
 				},
 				Special: 0b,
 				Selected: "RARE"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -927,20 +918,17 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "vampirism:obsidian_armor_chest",
 			tag: {
 				tier: "ULTIMATE"
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "techreborn:rockcutter",
 			tag: {
 				ench: [{
@@ -948,32 +936,32 @@
 					id: 33s
 				}],
 				energy: 400000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "botania:thorring",
-			tag: {}
+			tag: {},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}
 	},
 	{
 		item: {
+			id: "inventorypets:sun_pet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "inventorypets:sun_pet"
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:scythe",
 			tag: {
 				StatsOriginal: {
@@ -1025,15 +1013,18 @@
 					"xu_withering",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
+			id: "mod_lavacow:reapers_scythe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:reapers_scythe"
+			}
 		}
 	},
 	{
@@ -1049,15 +1040,15 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:yeti_leggings",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 0s
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
@@ -1089,24 +1080,14 @@
 	{
 		item: {
 			id: "forestry:refractory",
+			Damage: 1s,
 			tag: {
 				Fluid: {
 					FluidName: "xu_demonic_metal",
 					Amount: 1000
 				}
-			},
-			Damage: 1s
-		}
-	},
-	{
-		item: {
-			id: "thermalexpansion:morb",
-			tag: {
-				Generic: 1b,
-				id: "thaumcraft:taintaclegiant"
 			}
-		},
-		weight: 2
+		}
 	},
 	{
 		item: {
@@ -1119,10 +1100,10 @@
 	},
 	{
 		item: {
+			id: "randomthings:blazeandsteel",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "randomthings:blazeandsteel"
+			}
 		}
 	},
 	{
@@ -1148,13 +1129,13 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "forge:bucketfilled",
 			tag: {
 				FluidName: "hydrogen",
 				Amount: 1000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -1163,85 +1144,44 @@
 	},
 	{
 		item: {
+			id: "mowziesmobs:earth_talisman",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mowziesmobs:earth_talisman"
-		}
-	},
-	{
-		item: {
-			id: "minecraft:spawn_egg",
-			tag: {
-				EntityTag: {
-					id: "icbmclassic:skeleton.xmas.boss"
-				}
-			}
-		},
-		weight: 3
-	},
-	{
-		item: {
-			id: "minecraft:spawn_egg",
-			tag: {
-				EntityTag: {
-					id: "icbmclassic:skeleton.xmas.snowman"
-				}
 			}
 		}
 	},
 	{
 		item: {
-			id: "minecraft:spawn_egg",
-			tag: {
-				EntityTag: {
-					id: "icbmclassic:zombie.xmas.boss"
-				}
-			}
-		}
-	},
-	{
-		item: {
-			id: "minecraft:spawn_egg",
-			tag: {
-				EntityTag: {
-					id: "icbmclassic:zombie.xmas.creeper"
-				}
-			}
-		}
-	},
-	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "techreborn:nanosaber",
 			tag: {
 				isActive: 1b,
 				energy: 640000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "techreborn:advancedchainsaw",
 			tag: {
 				energy: 4000000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 3
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "techreborn:advanceddrill",
 			tag: {
 				energy: 4000000
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 3
@@ -1252,10 +1192,10 @@
 	},
 	{
 		item: {
+			id: "twilightforest:cube_of_annihilation",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:cube_of_annihilation"
+			}
 		}
 	},
 	{
@@ -1340,9 +1280,6 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:longsword",
 			tag: {
 				StatsOriginal: {
@@ -1391,6 +1328,9 @@
 					"arcane",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -1401,10 +1341,10 @@
 	},
 	{
 		item: {
+			id: "mod_lavacow:dreamcatcher",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:dreamcatcher"
+			}
 		}
 	},
 	{
@@ -1413,91 +1353,88 @@
 	},
 	{
 		item: {
+			id: "mod_lavacow:bonesword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:bonesword"
+			}
 		}
 	},
 	{
 		item: {
+			id: "mod_lavacow:halo_necklace",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:halo_necklace"
+			}
 		}
 	},
 	{
 		item: {
+			id: "mod_lavacow:potion_of_mooten_lava",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:potion_of_mooten_lava"
+			}
 		},
 		weight: 3
 	},
 	{
 		item: {
+			id: "mod_lavacow:swinearmor_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:swinearmor_chestplate"
+			}
 		},
 		weight: 2
 	},
 	{
 		item: {
+			id: "mod_lavacow:goldenheart",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:goldenheart"
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mekanism:electricbow",
 			tag: {
 				mekData: {
 					energyStored: 120000.0d
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mekanism:robit",
 			tag: {
 				mekData: {
 					energyStored: 100000.0d
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mekanism:atomicdisassembler",
 			tag: {
 				mekData: {
 					energyStored: 1000000.0d
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mekanism:scubatank",
 			tag: {
 				mekData: {
@@ -1506,15 +1443,15 @@
 						gasName: "oxygen"
 					}
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mekanism:jetpack",
 			tag: {
 				mekData: {
@@ -1523,39 +1460,42 @@
 						gasName: "hydrogen"
 					}
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mekanism:freerunners",
 			tag: {
 				mekData: {
 					energyStored: 64000.0d
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
 	},
 	{
 		item: {
+			id: "inventorypets:meta_pet",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "inventorypets:meta_pet"
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "inventorypets:chicken_pet",
 			tag: {
 				GiveItems: 1b
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
@@ -1594,12 +1534,12 @@
 	{
 		item: {
 			id: "minecraft:fish",
+			Damage: 3s,
 			tag: {
 				display: {
 					Name: ":O"
 				}
-			},
-			Damage: 3s
+			}
 		}
 	},
 	{
@@ -1614,18 +1554,18 @@
 	},
 	{
 		item: {
+			id: "rats:rat_upgrade_combined_creative",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_combined_creative"
+			}
 		}
 	},
 	{
 		item: {
+			id: "rats:black_death_mask",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:black_death_mask"
+			}
 		},
 		weight: 2
 	},
@@ -1634,10 +1574,10 @@
 	},
 	{
 		item: {
+			id: "rats:rat_upgrade_combined",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_combined"
+			}
 		}
 	},
 	{
@@ -1648,35 +1588,35 @@
 	},
 	{
 		item: {
+			id: "rats:rat_upgrade_miner",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_miner"
+			}
 		},
 		weight: 3
 	},
 	{
 		item: {
+			id: "ebwizardry:charm_experience_tome",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:charm_experience_tome"
+			}
 		}
 	},
 	{
 		item: {
+			id: "ebwizardry:master_sorcery_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_sorcery_wand"
+			}
 		}
 	},
 	{
 		item: {
+			id: "ebwizardry:ring_storm",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ring_storm"
+			}
 		}
 	},
 	{
@@ -1685,18 +1625,18 @@
 	},
 	{
 		item: {
+			id: "ebwizardry:ring_mana_return",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ring_mana_return"
+			}
 		}
 	},
 	{
 		item: {
+			id: "ebwizardry:amulet_arcane_defence",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:amulet_arcane_defence"
+			}
 		}
 	},
 	{
@@ -1715,10 +1655,10 @@
 	},
 	{
 		item: {
+			id: "bewitchment:poppet_vampiric",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:poppet_vampiric"
+			}
 		}
 	},
 	{
@@ -1726,10 +1666,10 @@
 	},
 	{
 		item: {
+			id: "bewitchment:contract",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:contract"
+			}
 		}
 	},
 	{
@@ -1742,14 +1682,14 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "botania:cosmetic",
+			Damage: 30s,
 			tag: {
 				playerHashcode: 7037040
 			},
-			Damage: 30s
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		},
 		weight: 2
 	},
@@ -1775,10 +1715,10 @@
 	},
 	{
 		item: {
+			id: "extrautils2:boomerang",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "extrautils2:boomerang"
+			}
 		},
 		weight: 3
 	},
@@ -1791,11 +1731,11 @@
 	},
 	{
 		item: {
+			id: "botania:invisibilitycloak",
+			tag: {},
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "botania:invisibilitycloak",
-			tag: {}
+			}
 		}
 	},
 	{
@@ -1809,10 +1749,10 @@
 	},
 	{
 		item: {
+			id: "iceandfire:dragonegg_blue",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_blue"
+			}
 		}
 	},
 	{
@@ -1821,27 +1761,27 @@
 	},
 	{
 		item: {
+			id: "inventorypets:pet_christmas_tree",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "inventorypets:pet_christmas_tree"
+			}
 		},
 		weight: 2
 	},
 	{
 		item: {
+			id: "inventorypets:pet_mishumaa_saba",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "inventorypets:pet_mishumaa_saba"
+			}
 		}
 	},
 	{
 		item: {
+			id: "inventorypets:pet_menorah",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "inventorypets:pet_menorah"
+			}
 		}
 	},
 	{
@@ -1857,19 +1797,19 @@
 	},
 	{
 		item: {
+			id: "minecraft:cake",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:cake"
+			}
 		},
 		weight: 2
 	},
 	{
 		item: {
+			id: "rats:plague_scythe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:plague_scythe"
+			}
 		}
 	},
 	{
@@ -1878,33 +1818,24 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "buildinggadgets:exchangertool",
 			tag: {
 				blockstate: {
 					Name: "minecraft:air"
 				}
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
 	},
 	{
 		item: {
+			id: "iceandfire:amphithere_macuahuitl",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:amphithere_macuahuitl"
-		}
-	},
-	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:armour_upgrade",
-			Count: 1b
+			}
 		}
 	},
 	{
@@ -1922,17 +1853,14 @@
 	},
 	{
 		item: {
+			id: "iceandfire:troll_weapon.hammer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:troll_weapon.hammer"
+			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:battlesign",
 			tag: {
 				StatsOriginal: {
@@ -1986,6 +1914,9 @@
 					"mod_lavacow.famine",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		weight: 2
@@ -1996,101 +1927,101 @@
 	},
 	{
 		item: {
+			id: "icbmclassic:grenade",
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:grenade"
+			}
 		},
 		count: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:grenade",
+			Damage: 1s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:grenade",
-			Damage: 1s
+			}
 		},
 		count: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:grenade",
+			Damage: 2s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:grenade",
-			Damage: 2s
+			}
 		},
 		count: 2,
 		weight: 2
 	},
 	{
 		item: {
+			id: "icbmclassic:grenade",
+			Damage: 3s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:grenade",
-			Damage: 3s
+			}
 		},
 		count: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:grenade",
+			Damage: 4s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:grenade",
-			Damage: 4s
+			}
 		},
 		count: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:grenade",
+			Damage: 5s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:grenade",
-			Damage: 5s
+			}
 		},
 		count: 3,
 		weight: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:grenade",
+			Damage: 7s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:grenade",
-			Damage: 7s
+			}
 		},
 		count: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:grenade",
+			Damage: 29s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:grenade",
-			Damage: 29s
+			}
 		},
 		count: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:grenade",
+			Damage: 30s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:grenade",
-			Damage: 30s
+			}
 		},
 		count: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:tracker",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "icbmclassic:tracker"
+			}
 		}
 	},
 	{
@@ -2106,9 +2037,6 @@
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:shovel",
 			tag: {
 				StatsOriginal: {
@@ -2170,6 +2098,9 @@
 					"portly",
 					"toolleveling"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -2191,103 +2122,103 @@
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives"
+			}
 		},
 		count: 3,
 		weight: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
+			Damage: 3s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 3s
+			}
 		},
 		count: 4
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
+			Damage: 4s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 4s
+			}
 		},
 		count: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
+			Damage: 6s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 6s
+			}
 		},
 		count: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
+			Damage: 18s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 18s
+			}
 		},
 		count: 4,
 		weight: 3
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
+			Damage: 20s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 20s
+			}
 		},
 		count: 4
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
+			Damage: 19s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 19s
+			}
 		},
 		count: 4,
 		weight: 2
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
+			Damage: 21s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 21s
+			}
 		},
 		count: 5,
 		weight: 2
 	},
 	{
 		item: {
+			id: "icbmclassic:explosives",
+			Damage: 17s,
 			ForgeCaps: {
 				Parent: {}
-			},
-			id: "icbmclassic:explosives",
-			Damage: 17s
+			}
 		},
 		count: 4
 	},
 	{
 		item: {
+			id: "iceandfire:dragonbone_sword_fire",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonbone_sword_fire"
+			}
 		}
 	},
 	{
@@ -2307,41 +2238,12 @@
 		item: "minecraft:end_portal_frame"
 	},
 	{
-		item: {
-			id: "thermalexpansion:morb",
-			tag: {
-				Generic: 1b,
-				id: "thaumcraft:cultistportalgreater"
-			}
-		}
-	},
-	{
-		item: {
-			id: "minecraft:spawn_egg",
-			tag: {
-				EntityTag: {
-					id: "thaumcraft:cultistleader"
-				}
-			}
-		}
-	},
-	{
 		item: "thermalfoundation:material 1 130",
 		count: 34
 	},
 	{
 		item: "thermalfoundation:material 1 2048",
 		weight: 3
-	},
-	{
-		item: {
-			id: "minecraft:spawn_egg",
-			tag: {
-				EntityTag: {
-					id: "instrumentalmobs:cymbal_husk"
-				}
-			}
-		}
 	},
 	{
 		item: "thermalfoundation:material 1 2050",
@@ -2361,26 +2263,26 @@
 	},
 	{
 		item: {
+			id: "charm:record_creative5",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "charm:record_creative5"
+			}
 		}
 	},
 	{
 		item: {
+			id: "charm:record_creative3",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "charm:record_creative3"
+			}
 		}
 	},
 	{
 		item: {
+			id: "charm:record_creative6",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "charm:record_creative6"
+			}
 		}
 	},
 	{
@@ -2407,43 +2309,43 @@
 	},
 	{
 		item: {
+			id: "twilightforest:fiery_chestplate",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:fiery_chestplate"
-		},
-		weight: 2
-	},
-	{
-		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:fiery_sword",
-			tag: {
-				ench: [{
-					lvl: 2s,
-					id: 20s
-				}]
 			}
 		},
 		weight: 2
 	},
 	{
 		item: {
+			id: "twilightforest:fiery_sword",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 20s
+				}]
+			},
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:block_and_chain"
+			}
+		},
+		weight: 2
+	},
+	{
+		item: {
+			id: "twilightforest:block_and_chain",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		},
 		weight: 3
 	},
 	{
 		item: {
+			id: "twilightforest:peacock_fan",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:peacock_fan"
+			}
 		},
 		weight: 2
 	},
@@ -2452,18 +2354,18 @@
 	},
 	{
 		item: {
+			id: "twilightforest:giant_pickaxe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:giant_pickaxe"
+			}
 		}
 	},
 	{
 		item: {
+			id: "twilightforest:giant_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:giant_sword"
+			}
 		},
 		weight: 3
 	},
@@ -2479,27 +2381,27 @@
 	},
 	{
 		item: {
+			id: "bewitchment:caduceus",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:caduceus"
+			}
 		}
 	},
 	{
 		item: {
+			id: "botania:manabottle",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "botania:manabottle"
+			}
 		},
 		weight: 3
 	},
 	{
 		item: {
+			id: "iceandfire:lich_staff",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:lich_staff"
+			}
 		}
 	},
 	{
@@ -2544,26 +2446,26 @@
 	},
 	{
 		item: {
+			id: "iceandfire:dragonsteel_fire_shovel",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_fire_shovel"
+			}
 		}
 	},
 	{
 		item: {
+			id: "iceandfire:dragonsteel_fire_hoe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_fire_hoe"
+			}
 		}
 	},
 	{
 		item: {
+			id: "iceandfire:tide_trident",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:tide_trident"
+			}
 		}
 	},
 	{
@@ -2571,10 +2473,10 @@
 	},
 	{
 		item: {
+			id: "tfspellpack:ring_hydra_kaboom",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tfspellpack:ring_hydra_kaboom"
+			}
 		}
 	},
 	{
@@ -2597,9 +2499,9 @@
 		item_name: "Unclaimed Black Market Container",
 		color: 0,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

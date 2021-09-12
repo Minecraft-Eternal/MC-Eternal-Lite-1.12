@@ -10,10 +10,10 @@
 		type: "kill",
 		title: "&6&lBounty: &c&lWretched Abomination",
 		icon: {
+			id: "iceandfire:dread_knight_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dread_knight_sword"
+			}
 		},
 		entity: "iceandfire:dread_scuttler",
 		value: 20L

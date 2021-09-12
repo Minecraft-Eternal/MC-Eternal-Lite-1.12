@@ -8,16 +8,16 @@
 		uid: "0d7546bb",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					Size: 21,
-					Items: []
-				},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "immersiveengineering:revolver",
 			tag: {
 				bullets: []
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 21
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

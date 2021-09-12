@@ -37,87 +37,87 @@
 		type: "item",
 		title: "Range Addon",
 		items: [{
+			id: "industrialforegoing:range_addon",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon"
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 1s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 1s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 2s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 2s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 3s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 3s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 4s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 4s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 5s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 5s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 6s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 6s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 7s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 7s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 8s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 8s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 9s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 9s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 10s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 10s
+			}
 		},
 		{
+			id: "industrialforegoing:range_addon",
+			Damage: 11s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "industrialforegoing:range_addon",
-			Damage: 11s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

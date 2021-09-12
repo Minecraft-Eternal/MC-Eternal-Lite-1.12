@@ -1,9 +1,6 @@
 {
 	title: "Bane of Pigs",
 	icon: {
-		ForgeCaps: {
-			"astralsorcery:cap_item_amulet_holder": {}
-		},
 		id: "tconstruct:frypan",
 		tag: {
 			StatsOriginal: {
@@ -79,6 +76,9 @@
 				"infitool",
 				"fiery"
 			]
+		},
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
 		}
 	},
 	x: 0.0d,
@@ -94,9 +94,6 @@
 		uid: "a8b57417",
 		type: "checkmark",
 		icon: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:frypan",
 			tag: {
 				StatsOriginal: {
@@ -172,6 +169,9 @@
 					"infitool",
 					"fiery"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	},
@@ -184,9 +184,6 @@
 		uid: "d3dbf4c5",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tconstruct:frypan",
 			tag: {
 				StatsOriginal: {
@@ -262,6 +259,9 @@
 					"infitool",
 					"fiery"
 				]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}
 	}]

@@ -1,8 +1,8 @@
 {
 	x: 3.0d,
-	y: 1.0d,
+	y: 0.0d,
 	dependencies: [
-		"d256da0e"
+		"f5eb03cc"
 	],
 	tasks: [{
 		uid: "fb5bdf4c",
@@ -12,10 +12,13 @@
 		}]
 	},
 	{
-		uid: "a0b3c9ab",
+		uid: "f0496036",
 		type: "item",
 		items: [{
 			item: "nuclearcraft:fission_block"
+		},
+		{
+			item: "nuclearcraft:reactor_casing_transparent"
 		}],
 		count: 54L
 	}],

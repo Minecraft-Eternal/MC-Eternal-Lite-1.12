@@ -1,10 +1,10 @@
 {
 	title: "Exploration",
 	icon: {
+		id: "randomthings:goldencompass",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "randomthings:goldencompass"
+		}
 	},
 	always_invisible: false,
 	group: 0,

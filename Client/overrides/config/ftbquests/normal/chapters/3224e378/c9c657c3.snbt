@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "erebus:rein_compound_goggles",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "erebus:rein_compound_goggles"
+		}
 	},
 	x: 6.5d,
 	y: -0.5d,

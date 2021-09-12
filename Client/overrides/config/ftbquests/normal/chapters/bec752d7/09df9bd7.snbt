@@ -1,6 +1,7 @@
 {
 	x: 14.0d,
-	y: 3.5d,
+	y: -1.0d,
+	description: "The first way of moving Mana around, and the only way to harvest it from Generating Flowers to be put into Mana Pools.",
 	dependencies: [
 		"58996ce0"
 	],

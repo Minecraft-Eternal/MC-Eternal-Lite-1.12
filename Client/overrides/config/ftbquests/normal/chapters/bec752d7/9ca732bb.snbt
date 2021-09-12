@@ -9,10 +9,10 @@
 		uid: "f82fcdac",
 		type: "item",
 		items: [{
+			id: "ebwizardry:wizard_hat",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:wizard_hat"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,10 +21,10 @@
 		uid: "4ac90077",
 		type: "item",
 		items: [{
+			id: "ebwizardry:wizard_robe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:wizard_robe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -33,10 +33,10 @@
 		uid: "75437c6e",
 		type: "item",
 		items: [{
+			id: "ebwizardry:wizard_leggings",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:wizard_leggings"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -45,10 +45,10 @@
 		uid: "63c310b2",
 		type: "item",
 		items: [{
+			id: "ebwizardry:wizard_boots",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:wizard_boots"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

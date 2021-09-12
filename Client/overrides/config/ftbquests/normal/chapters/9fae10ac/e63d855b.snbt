@@ -6,10 +6,10 @@
 		uid: "b1e1743e",
 		type: "kill",
 		icon: {
+			id: "iceandfire:troll_skull",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:troll_skull"
+			}
 		},
 		entity: "iceandfire:if_troll",
 		value: 1L

@@ -8,10 +8,10 @@
 		uid: "b4e95a37",
 		type: "item",
 		items: [{
+			id: "extrautils2:boomerang",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "extrautils2:boomerang"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

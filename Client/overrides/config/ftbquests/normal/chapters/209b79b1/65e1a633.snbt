@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Sludge Lord",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "mod_lavacow:sludgelord",
 		value: 1L
@@ -50,10 +50,10 @@
 		uid: "3cfad337",
 		type: "item",
 		item: {
+			id: "mod_lavacow:sludge_wand",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mod_lavacow:sludge_wand"
+			}
 		}
 	},
 	{

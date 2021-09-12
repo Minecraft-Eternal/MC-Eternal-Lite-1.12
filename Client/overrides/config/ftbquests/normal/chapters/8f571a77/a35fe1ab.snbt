@@ -7,16 +7,16 @@
 		type: "item",
 		title: "§dStandard Master Spell",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "spellMasterBase",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any spellMasterBase"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "spellMasterBase"
 				}
 			}
 		}]

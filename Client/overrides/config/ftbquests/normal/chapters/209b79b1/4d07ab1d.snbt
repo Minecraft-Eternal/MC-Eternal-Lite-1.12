@@ -5,10 +5,10 @@
 		uid: "0f94a15d",
 		type: "item",
 		items: [{
+			id: "openblocks:sleeping_bag",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "openblocks:sleeping_bag"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

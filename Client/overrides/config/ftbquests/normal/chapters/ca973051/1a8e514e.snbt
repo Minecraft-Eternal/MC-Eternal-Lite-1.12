@@ -1,6 +1,6 @@
 {
 	x: -10.0d,
-	y: -22.5d,
+	y: -15.5d,
 	shape: "octagon",
 	dependencies: [
 		"eaed8a89",
@@ -11,10 +11,10 @@
 		uid: "56dd8f9f",
 		type: "item",
 		items: [{
+			id: "twilightforest:lamp_of_cinders",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:lamp_of_cinders"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -11,10 +11,10 @@
 		uid: "664c4f16",
 		type: "item",
 		items: [{
+			id: "bibliocraft:biblioclipboard",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bibliocraft:biblioclipboard"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

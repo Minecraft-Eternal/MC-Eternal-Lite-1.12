@@ -3,10 +3,10 @@
 	loot_size: 27,
 	rewards: [{
 		item: {
+			id: "stupidthings:worlds_smallest_violin",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "stupidthings:worlds_smallest_violin"
+			}
 		}
 	},
 	{
@@ -14,10 +14,10 @@
 	},
 	{
 		item: {
+			id: "stupidthings:rubber_chicken",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "stupidthings:rubber_chicken"
+			}
 		}
 	},
 	{

@@ -11,10 +11,10 @@
 		type: "kill",
 		title: "Slay 100 Dragons",
 		icon: {
+			id: "iceandfire:dragonbone_sword_fire",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonbone_sword_fire"
+			}
 		},
 		entity: "iceandfire:firedragon",
 		value: 100L

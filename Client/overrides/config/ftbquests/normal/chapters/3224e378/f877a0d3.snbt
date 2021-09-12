@@ -9,10 +9,10 @@
 		uid: "04b9100b",
 		type: "item",
 		items: [{
+			id: "erebus:enhanced_scorpion_pincer",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:enhanced_scorpion_pincer"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

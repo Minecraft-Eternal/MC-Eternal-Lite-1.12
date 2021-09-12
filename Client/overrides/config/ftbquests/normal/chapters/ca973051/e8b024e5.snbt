@@ -1,6 +1,6 @@
 {
-	x: -12.0d,
-	y: -11.0d,
+	x: -16.0d,
+	y: -11.5d,
 	dependencies: [
 		"7e4f6adb"
 	],
@@ -8,9 +8,6 @@
 		uid: "6c87b3d8",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:mazebreaker_pickaxe",
 			tag: {
 				ench: [{
@@ -25,6 +22,9 @@
 					lvl: 2s,
 					id: 35s
 				}]
+			},
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

@@ -8,10 +8,10 @@
 		uid: "8c7ab96a",
 		type: "item",
 		items: [{
+			id: "rats:rat_upgrade_combined",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:rat_upgrade_combined"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

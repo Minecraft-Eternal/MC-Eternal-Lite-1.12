@@ -8,10 +8,10 @@
 		uid: "dcb48c41",
 		type: "item",
 		items: [{
+			id: "thermalfoundation:tool.fishing_rod_diamond",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thermalfoundation:tool.fishing_rod_diamond"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

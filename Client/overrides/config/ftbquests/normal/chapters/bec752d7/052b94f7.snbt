@@ -11,10 +11,10 @@
 		type: "advancement",
 		title: "Essence of Magic",
 		icon: {
+			id: "ebwizardry:ring_combustion",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:ring_combustion"
+			}
 		},
 		advancement: "ebwizardry:all_spells",
 		criterion: ""
@@ -38,10 +38,10 @@
 		uid: "cf85b8c7",
 		type: "item",
 		item: {
+			id: "charm:record_creative6",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "charm:record_creative6"
+			}
 		}
 	}]
 }

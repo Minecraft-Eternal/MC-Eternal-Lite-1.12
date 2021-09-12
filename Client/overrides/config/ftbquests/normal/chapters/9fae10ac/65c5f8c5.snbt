@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "rats:plague_doctor_mask",
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "rats:plague_doctor_mask"
+		}
 	},
 	x: -1.0d,
 	y: 0.0d,
@@ -13,10 +13,10 @@
 		uid: "d9004994",
 		type: "kill",
 		icon: {
+			id: "rats:plague_doctor_mask",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rats:plague_doctor_mask"
+			}
 		},
 		entity: "rats:black_death",
 		value: 1L

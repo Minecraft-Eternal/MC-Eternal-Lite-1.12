@@ -8,11 +8,11 @@
 		uid: "da8706c6",
 		type: "item",
 		items: [{
+			id: "rftools:shape_card",
+			Damage: 4s,
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "rftools:shape_card",
-			Damage: 4s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

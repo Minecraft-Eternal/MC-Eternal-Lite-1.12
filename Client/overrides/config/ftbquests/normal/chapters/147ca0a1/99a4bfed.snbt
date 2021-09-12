@@ -10,10 +10,10 @@
 		type: "dimension",
 		title: "Visit Atum",
 		icon: {
+			id: "atum:dagger_poison",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "atum:dagger_poison"
+			}
 		},
 		dim: 1048
 	}],

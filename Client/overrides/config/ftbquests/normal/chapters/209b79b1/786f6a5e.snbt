@@ -5,10 +5,10 @@
 		uid: "5c149fd2",
 		type: "item",
 		items: [{
+			id: "thermalfoundation:tool.shield_diamond",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thermalfoundation:tool.shield_diamond"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

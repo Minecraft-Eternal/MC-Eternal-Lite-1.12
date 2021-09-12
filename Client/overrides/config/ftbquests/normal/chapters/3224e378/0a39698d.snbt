@@ -9,10 +9,10 @@
 		uid: "fd715214",
 		type: "item",
 		items: [{
+			id: "erebus:wand_of_animation",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "erebus:wand_of_animation"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

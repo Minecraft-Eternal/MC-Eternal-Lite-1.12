@@ -5,10 +5,10 @@
 		uid: "785b9af0",
 		type: "stat",
 		icon: {
+			id: "iceandfire:troll_skull",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:troll_skull"
+			}
 		},
 		stat: "stat.mobKills",
 		value: 500000

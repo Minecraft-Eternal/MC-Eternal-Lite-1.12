@@ -8,10 +8,10 @@
 		uid: "8588ad46",
 		type: "item",
 		items: [{
+			id: "bewitchment:token_of_remedies",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bewitchment:token_of_remedies"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

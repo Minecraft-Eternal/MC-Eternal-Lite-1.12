@@ -8,10 +8,10 @@
 		uid: "83fe61b1",
 		type: "item",
 		items: [{
+			id: "totemic:nether_pipe",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "totemic:nether_pipe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

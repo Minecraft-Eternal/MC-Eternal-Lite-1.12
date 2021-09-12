@@ -8,13 +8,13 @@
 		uid: "4aeb567e",
 		type: "item",
 		items: [{
+			id: "ebwizardry:crystal_silver_plating",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -8851329178942211897L,
-					AS_Amulet_HolderMost: 867781763579201090L
+					AS_Amulet_HolderMost: 867781763579201090L,
+					AS_Amulet_HolderLeast: -8851329178942211897L
 				}
-			},
-			id: "ebwizardry:crystal_silver_plating"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

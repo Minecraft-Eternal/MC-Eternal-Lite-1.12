@@ -7,7 +7,7 @@
 	tasks: [{
 		uid: "4bd45a1f",
 		type: "item",
-		title: "§bHunter Axe - Special",
+		title: "�bHunter Axe - Special",
 		items: [{
 			id: "vampirism:hunter_axe",
 			tag: {

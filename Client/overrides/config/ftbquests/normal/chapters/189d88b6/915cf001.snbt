@@ -12,10 +12,10 @@
 		uid: "3dc4d89a",
 		type: "item",
 		items: [{
+			id: "akashictome:tome",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "akashictome:tome"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

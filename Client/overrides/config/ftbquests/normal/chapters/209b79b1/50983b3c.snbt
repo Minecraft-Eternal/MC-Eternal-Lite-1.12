@@ -12,10 +12,10 @@
 		type: "kill",
 		title: "Bounty: Baphomet",
 		icon: {
+			id: "twilightforest:knightmetal_sword",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:knightmetal_sword"
+			}
 		},
 		entity: "bewitchment:baphomet",
 		value: 1L

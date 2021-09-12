@@ -8,10 +8,10 @@
 		uid: "e27900e1",
 		type: "item",
 		items: [{
+			id: "ebwizardry:resplendent_thread",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:resplendent_thread"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,10 +8,10 @@
 		uid: "9a8fc9b3",
 		type: "item",
 		items: [{
+			id: "totemic:baykok_bow",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "totemic:baykok_bow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

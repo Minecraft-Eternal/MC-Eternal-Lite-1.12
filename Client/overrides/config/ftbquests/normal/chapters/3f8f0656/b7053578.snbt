@@ -1,8 +1,9 @@
 {
-	x: 24.5d,
-	y: 0.5d,
+	x: 19.5d,
+	y: 7.5d,
 	description: "Enhanced Machinery",
 	dependencies: [
+		"be9cdc44",
 		"1bfccc16"
 	],
 	tasks: [{

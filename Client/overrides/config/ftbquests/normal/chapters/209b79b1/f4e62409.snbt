@@ -5,10 +5,10 @@
 		uid: "54e87813",
 		type: "item",
 		items: [{
+			id: "tconstruct:slimesling",
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tconstruct:slimesling"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
