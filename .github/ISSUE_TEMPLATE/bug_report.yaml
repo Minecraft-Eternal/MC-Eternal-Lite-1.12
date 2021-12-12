@@ -1,12 +1,12 @@
 name: Bug Report
-description: PLEASE ASK ON THE MCE DISCORD BEFORE CREATING AN ISSUE HERE. For issues such as "X happens instead of Y"
+description: For issues such as "X happens instead of Y"
 title: "[BUG] *Replace with brief description of the issue*"
 labels: "[bug]"
 body:
   - type: markdown
     attributes:
       value: |
-        If the issue is a Crash or Question, please ask in the Discord first https://discord.gg/ZS6FRR3
+        IMPORTANT: IF THE ISSUE IS A CRASH OR QUESTION, PLEASE ASK IN THE DISCORD FIRST: https://discord.gg/ZS6FRR3
   - type: textarea
     id: bug-desc
     attributes:
