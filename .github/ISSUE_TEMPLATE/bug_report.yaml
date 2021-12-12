@@ -1,5 +1,5 @@
 name: Bug Report
-description: For issues such as "X happens instead of Y"
+description: PLEASE ASK ON THE MCE DISCORD BEFORE CREATING AN ISSUE HERE. For issues such as "X happens instead of Y"
 title: "[BUG] *Replace with brief description of the issue*"
 labels: "[bug]"
 body:
