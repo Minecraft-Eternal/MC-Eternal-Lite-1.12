@@ -9,7 +9,7 @@ recipes.remove(<extrautils2:angelring:1>);
 recipes.remove(<extrautils2:angelring:2>);
 #Dragon wings
 recipes.remove(<extrautils2:angelring:3>);
-#Golden Wings
+#Golden wings
 recipes.remove(<extrautils2:angelring:4>);
 #Evil wings
 recipes.remove(<extrautils2:angelring:5>);
@@ -29,7 +29,7 @@ recipes.addShaped(<extrautils2:angelring:1>, [[<mekanism:crystal:2>, <extrautils
 recipes.addShaped(<extrautils2:angelring:2>, [[<harvestcraft:fairybreaditem>, <extrautils2:angelring:*>]]);
 #Dragon wings
 recipes.addShaped(<extrautils2:angelring:3>, [[<extrautils2:ingredients:11>, <extrautils2:angelring:*>]]);
-#Golden Wings
+#Golden wings
 recipes.addShaped(<extrautils2:angelring:4>, [[<extrautils2:angelblock>, <extrautils2:angelring:*>]]);
 #Evil wings
 recipes.addShaped(<extrautils2:angelring:5>, [[<midnight:nagrilite_ingot>, <extrautils2:angelring:*>]]);
